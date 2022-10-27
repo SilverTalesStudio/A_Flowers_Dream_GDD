@@ -1,5 +1,8 @@
 # A_Flowers_Dream_GDD
 ## <h2>Introducción</h2>
+
+Este es el documento de diseño de A Flower’s Dream: The Beginning, una novela visual de simulación de citas (dating sim) para PC y móviles centrada en el desarrollo de la historia con los distintos personajes disponibles y su evolución amorosa con el/la protagonista. El principal objetivo de este documento es mostrar y explicar los elementos que va a incluir A Flower’s Dream: The Beginning.
+
 ### <h3>Descripción breve del concepto</h3>
 ### <h3>Descripción breve de la historia y de los personajes</h3>
 ### <h3>Propósito, público objetivo y plataformas</h3>

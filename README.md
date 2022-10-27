@@ -1,4 +1,15 @@
 # A_Flowers_Dream_GDD
+
+### <h2>Resumen ejecutivo</h2>
+| Título | A Flower’s Dream: The Beginning | 
+|:------------:|:-------------:|
+| Empresa | Silver Tales Studio |
+| Integrantes |  Andrea María Hodas Tortosa <br> Bárbara Amado Camuñas <br> Clara Núñez Millán <br> Cecilia Garrido Cano <br> María Busto Ramos <br> Karim Elein Castillo Ordinola |  
+| Correos corporativos | correo Andrea <br> b.amado.2019@alumnos.urjc.es <br> c.nunez.2018@alumnos.urjc.es <br> c.garridoc.2019@alumnos.urjc.es <br> m.busto.2018@alumnos.urjc.es <br> correo Karim |
+| Cuentas de GitHub | github Andrea <br> BAmado753 <br> ClaraNM <br> ceciliagarridocano <br> mariabusto <br> github Karim |
+| Género |  Novela visual de simulación de citas (dating sim) |
+|Plataformas| Navegador en PC y móviles | 
+
 ## <h2>Introducción</h2>
 
 Este es el documento de diseño de A Flower’s Dream: The Beginning, una novela visual de simulación de citas (dating sim) para PC y móviles centrada en el desarrollo de la historia con los distintos personajes disponibles y su evolución amorosa con el/la protagonista. El principal objetivo de este documento es mostrar y explicar los elementos que va a incluir A Flower’s Dream: The Beginning.

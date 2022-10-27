@@ -68,9 +68,10 @@ Tras huir de su país y dejar todo atrás debido a una situación complicada, de
 Una chica joven con un pasado oscuro y una personalidad pasota. Aunque en un inicio el personaje se presentará frío y borde con el jugador, poco a poco irá contando su historia y abriendo su corazón tras el cual se esconde una chica entregada a su familia más cercana, su hermana pequeña. 
 
 <ul>
-  <li><p><u>Motivo para comprar flores:</u> Sophie va a la tienda a comprar flores para animar a su hermana que se encuentra en el hospital. </p></li>
-  <li><p><u>Información clave:</u> Los padres de Sophie eran maltratadores. En la actualidad, vive sola con su hermana pequeña a la que cuida con mucho cariño para que no le falte nada. Este trágico pasado y el hecho de tener que tomar las riendas de la familia a tan temprana edad son los que han hecho a Sophie cerrada y desconfiada ante nuevos conocidos. Dada su situación, no tiene mucho dinero, así que siempre está pendiente del precio de las flores. </p></li>
+  <li><p><**Motivo para comprar flores:** Sophie va a la tienda a comprar flores para animar a su hermana que se encuentra en el hospital. </p></li>
+  <li><p>**Información clave:** Los padres de Sophie eran maltratadores. En la actualidad, vive sola con su hermana pequeña a la que cuida con mucho cariño para que no le falte nada. Este trágico pasado y el hecho de tener que tomar las riendas de la familia a tan temprana edad son los que han hecho a Sophie cerrada y desconfiada ante nuevos conocidos. Dada su situación, no tiene mucho dinero, así que siempre está pendiente del precio de las flores. </p></li>
 </ul>
+
 #### <h4>Allan</h4>
 
 #### <h4>Ethan</h4>

@@ -58,23 +58,28 @@ Los personajes del juego se pueden dividir en dos tipos distintos en función de
 
 #### <h4>Personajes jugables</h4>
 
-##### <h5>El/la florista</h5>
+#### <h4>El/la florista</h4>
 
 Tras huir de su país y dejar todo atrás debido a una situación complicada, decide cumplir su sueño y abrir una floristería en una nueva ciudad. Es amable, y siempre da todo de sí misma para que todo salga bien, aunque la personalidad la decide el jugador en base a qué decisiones tome.
 
 #### <h4>Personajes con intereses románticos</h4>
 
-##### <h5>Sophie</h5>
+#### <h4>Sophie</h4>
+Una chica joven con un pasado oscuro y una personalidad pasota. Aunque en un inicio el personaje se presentará frío y borde con el jugador, poco a poco irá contando su historia y abriendo su corazón tras el cual se esconde una chica entregada a su familia más cercana, su hermana pequeña. 
 
-##### <h5>Allan</h5>
+<ul>
+  <li><p><u>Motivo para comprar flores:</u> Sophie va a la tienda a comprar flores para animar a su hermana que se encuentra en el hospital. </p></li>
+  <li><p><u>Información clave:</u> Los padres de Sophie eran maltratadores. En la actualidad, vive sola con su hermana pequeña a la que cuida con mucho cariño para que no le falte nada. Este trágico pasado y el hecho de tener que tomar las riendas de la familia a tan temprana edad son los que han hecho a Sophie cerrada y desconfiada ante nuevos conocidos. Dada su situación, no tiene mucho dinero, así que siempre está pendiente del precio de las flores. </p></li>
+</ul>
+#### <h4>Allan</h4>
 
-##### <h5>Ethan</h5>
+#### <h4>Ethan</h4>
 
 #### <h4>Personajes sin intereses románticos</h4>
 
-##### <h5>Pietro</h5>
+##### <h4>Pietro</h4>
 
-##### <h5>Sagrario</h5>
+##### <h4>Sagrario</h4>
 
 ### <h3>Entornos y lugares</h3>
 

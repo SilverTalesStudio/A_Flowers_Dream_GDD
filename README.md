@@ -53,6 +53,29 @@ Las plataformas para las que se planea desarrollar el juego son PC y móviles.
 ## <h2>Trasfondo</h2>
 ### <h3>Descripción detallada de la historia y la trama</h3>
 ### <h3>Personajes</h3>
+
+Los personajes del juego se pueden dividir en dos tipos distintos en función del tipo de relación que pueden desarrollar con el/la protagonista: personajes con intereses románticos y personajes sin intereses románticos, que solamente van a comprar flores a la tienda. 
+
+#### <h4>Personajes jugables</h4>
+
+##### <h5>El/la florista</h5>
+
+Tras huir de su país y dejar todo atrás debido a una situación complicada, decide cumplir su sueño y abrir una floristería en una nueva ciudad. Es amable, y siempre da todo de sí misma para que todo salga bien, aunque la personalidad la decide el jugador en base a qué decisiones tome.
+
+#### <h4>Personajes con intereses románticos</h4>
+
+##### <h5>Sophie</h5>
+
+##### <h5>Allan</h5>
+
+##### <h5>Ethan</h5>
+
+#### <h4>Personajes sin intereses románticos</h4>
+
+##### <h5>Pietro</h5>
+
+##### <h5>Sagrario</h5>
+
 ### <h3>Entornos y lugares</h3>
 
 ## <h2>Arte</h2>

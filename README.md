@@ -116,7 +116,7 @@ En esta categoría, se encuentra el personaje que el jugador podrá controlar a 
 #### <h4>El/la florista</h4>
 
 Tras huir de su país y dejar todo atrás debido a una situación complicada, decide cumplir su sueño y abrir una floristería en una nueva ciudad. Es amable y siempre da todo de sí misma para que todo salga bien, aunque la personalidad la decide el jugador en base a qué decisiones tome. Tiene un gato llamado Limón.
-![Foto y firma de la florista](/Images/Personajes/Polaroids/polaroids_florista)
+![Foto y firma de la florista](/Images/polaroids_florista_she)
 
 #### <h4>Personajes con intereses románticos</h4>
 

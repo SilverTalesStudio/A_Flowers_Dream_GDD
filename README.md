@@ -301,6 +301,72 @@ Logo de la empresa
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
+
+####<h4>Los Personajes</h4>
+En el estado actual del proyecto, la mayoría de los personajes están en proceso de desarrollo. Las imágenes que se incluyen a continuación contienen el concept art que hay hasta el día 27 de octubre realizado. Los <em>beautys</em> de cada personaje componen el <em>Sprite principal</em> de cada personaje. 
+
+<b>La florista (fem).</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<b>Sophie</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<b>Allan</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<b>Ethan</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<b>Pietro</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<b>Daphne</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
 ### <h3>Música</h3>
 Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 
 

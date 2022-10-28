@@ -237,8 +237,35 @@ Limón es el gato del protagonista. Es la única compañía que tiene al comienz
 ### <h3>Entornos y lugares</h3>
 
 ## <h2>Arte</h2>
+
+
 ### <h3>Estética general del juego</h3>
 ### <h3>Apartado visual</h3>
+
+####<h4>Imagen corporativa</h4>
+
+Logo del juego
+
+<p align="center">
+  <img src="/Images/logo_juego_thick_500px.png">
+</p>
+
+Banner del juego: Twitter
+
+<p align="center">
+  <img src="/Images/Banner_Juego_Twitter.png">
+</p>
+
+Banner del juego: Otras redes sociales
+
+<p align="center">
+  <img src="/Images/Banner_Juego_Youtube.png">
+</p>
+
+Logo de la empresa
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
 ### <h3>Música</h3>
 ### <h3>Ambiente sonoro</h3>
 

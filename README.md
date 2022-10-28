@@ -142,6 +142,39 @@ El videojuego se puede dividir en dos partes respecto a las mecánicas utilizada
 #### <h4>6.2.1. Visual Novel</h4>
 
 #### <h4>6.2.2. Minijuego de las flores</h4>
+La mecánica principal de este minijuego consiste en seleccionar 5 flores no repetidas para formar un ramo acorde a lo que pide el cliente.  
+
+Existe un libro de flores donde el jugador puede ver una descripción de cada flor para hacerse a la idea de qué flor es mejor y peor para el ramo. Para acceder a este libro, el jugador debe pulsar el botón que indica que abre el libro. Dentro del mismo puede pasar las páginas para poder ver todas las flores.
+
+Las flores que el jugador puede coger se encuentran en un menú que se abre o cierra como una pestaña pulsando un botón. Dentro de este menú está cada flor con su nombre, así el jugador sabe qué flor es y no tiene que estar comparando diseños con el libro. Todas las flores aparecen en una columna que se puede deslizar para alcanzar cada una de ellas. Al interactuar con una flor, esta se puede arrastrar con el ratón o con el dedo (si se están usando dispositivos táctiles) y si se coloca en el ramo, se queda en él y, si no, vuelve a su posición en el menú. 
+
+El racimo debe contener 5 flores, por tanto, si el jugador pulsa el botón de finalizar pedido sin cumplir con el requisito, aparece un pop-up que le avisa de que no tiene 5 flores. Por otra parte, si el jugador intenta añadir más de 5 flores al ramo, no podrá agarrar más flores del menú hasta que no se reduzca el número de flores del ramo. 
+
+Al terminar el minijuego y volver a hablar con el cliente, el diálogo dependerá de las flores seleccionadas, así como la ruta de la partida:  
+
+<li><b>Comprobación de la solución del minijuego</b>
+
+El pedido se genera de forma aleatoria dependiendo del personaje. Las variables a tener en cuenta para el minijuego de las flores son: 
+<ul>
+  <li><b>Flor favorita del cliente:</b> suma 2 puntos al resultado final. 
+  <li><b>Flor odiada por el cliente:</b> restan 2 puntos al resultado final. 
+  <li><b>Color exacto del pedido:</b> suman 1 punto al resultado final. 
+  <li><b>Colores afines al pedido (Máximo 2 colores):</b> suman 1 punto al resultado final. 
+  <li><b>Colores no afines al pedido (Máximo 2 colores):</b> restan 1 punto al resultado final. 
+  <li><b>Sentimiento exacto del pedido:</b> suman 1 punto al resultado final. 
+  <li><b>Sentimientos afines al pedido (Máximo 2 sentimientos):</b> suman 1 punto al resultado final. 
+  <li><b>Sentimientos no afines al pedido (Máximo 2 sentimientos):</b> restan 1 punto al resultado final. 
+</ul>
+Estas variables indicadas se comparan con las que el cliente desea para su pedido y se suman o restan dependiendo de si son afines o no, o si son favoritas u odiadas. 
+
+El rango de valores que puede tomar el resultado final es de –12 a 12 puntos. Este resultado tendrá una evaluación cualitativa al terminar el minijuego: 
+<ul>
+  <li><b>Rango de -12 a –4:</b> "mal”. 
+  <li><b>Rango de -4 a 4:</b> "regular”. 
+  <li><b>Rango de 4 a 12:</b> “bien”. 
+</ul>
+
+Por último, la evaluación cualitativa se envía de vuelta a la Visual Novel y se decide qué dialogo y ruta seguirá la partida del jugador.
 
 #### <h4>6.2.3. Clasificación de las flores</h4>
 

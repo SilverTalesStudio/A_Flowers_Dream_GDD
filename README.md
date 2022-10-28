@@ -184,7 +184,7 @@ Un joven artista enigmático que visita la floristería en busca de inspiración
 </ul>
 
 <p align="center">
-  <img src="/Images/polaroids_florista_pietro.png">
+  <img src="/Images/polaroids_pietro.png">
 </p>
 
 ##### <h4>Sagrario</h4>

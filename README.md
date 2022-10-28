@@ -684,7 +684,7 @@ A continuación, se incluye el concept art realizado para los escenarios del jue
 
 **<li><p>Calle: </li></p>**
   
-  * **Referencias:** 
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado gran parte de las referencias empleadas como inspiración para el diseño de la calle: https://pin.it/5wnZEE3. Destacar también que no solo se ha tomado inspiración de estas imágenes sino que, también, se ha empleado *Google Maps* para buscar lugares reales como, por ejemplo, las calles de Chatan, Prefectura de Okinawa (Japón). 
   * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva de la calle.
   * **Boceto:**
   

@@ -122,7 +122,7 @@ Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una pe
 
 ## <h2>Trasfondo</h2>
 ### <h3>Descripción detallada de la historia y la trama</h3>
-En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el Apartado 6. Capítulos, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.
+En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 6. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.
 
 
 El inicio del videojuego introduce a el/la Florista, el protagonista de la historia y el personaje que controla el jugador. Para facilitar la explicación de la historia, en este caso se va a asumir el control de la Florista femenina.  
@@ -155,7 +155,7 @@ Si el jugador decide dejar a Pietro pintar, este se mostrará más amistoso y la
 
 El viernes de la primera semana visitan la floristería Ethan y Sophie. En el camino a la floristería, la Florista se alegra de la llegada del fin de semana y de su fácil adaptación a la nueva zona. Sin embargo, también recuerda a su amiga Leah y su antiguo hogar, haciendo hincapié en el hecho de que tuvo que dejarlo por su propio bien.  
 
-Ya en la floristería, el primer visitante por la mañana será Ethan con el cual la Florista tiene un accidente. Cuando esta estaba a punto de colgar el cartel de descanso para poder comer antes, Ethan abre la puerta y le golpea en la cabeza. La Florista va a caer al suelo desorientada cuando Ethan la sujeta y la ayuda a llegar al mostrador. Aunque el dolor del golpe no la deja pensar bien, pronto se siente mejor y recuerda que la culpa de esta situación es de Ethan. Para intentar librarse de la culpa y aligerar la tensión, Ethan suelta una frase típica de coqueteo. En este punto de la historia, Ethan se gana el apodo de “Eros” por parte del protagonista. Será elección del jugador si reaccionar cortante ante sus avances en esa situación delicada o aceptarlo y reírse por la estupidez del comentario. Mientras ambos personajes conversan, la Florista hace un comentario sobre quedar y Ethan se anima para invitarla a salir. Al igual que en el caso de Allan es decisión del jugador si: aceptar; rechazar temporalmente con posibilidad de aceptar el propio fin de semana; o rechazar completamente a Ethan. Finalmente, Ethan admite haber venido a la floristería corriendo por la necesidad de comprar una flor para su nueva cita que le está esperando.  
+Ya en la floristería, el primer visitante por la mañana es Ethan con el cual la Florista tiene un accidente. Cuando esta estaba a punto de colgar el cartel de descanso para poder comer antes, Ethan abre la puerta y le golpea en la cabeza. La Florista va a caer al suelo desorientada cuando Ethan la sujeta y la ayuda a llegar al mostrador. Aunque el dolor del golpe no la deja pensar bien, pronto se siente mejor y recuerda que la culpa de esta situación es de Ethan. Para intentar librarse de la culpa y aligerar la tensión, Ethan suelta una frase típica de coqueteo. En este punto de la historia, Ethan se gana el apodo de “Eros” por parte del protagonista. Será elección del jugador si reaccionar cortante ante sus avances en esa situación delicada o aceptarlo y reírse por la estupidez del comentario. Mientras ambos personajes conversan, la Florista hace un comentario sobre quedar y Ethan se anima para invitarla a salir. Al igual que en el caso de Allan es decisión del jugador si: aceptar; rechazar temporalmente con posibilidad de aceptar el propio fin de semana; o rechazar completamente a Ethan. Finalmente, Ethan admite haber venido a la floristería corriendo por la necesidad de comprar una flor para su nueva cita que le está esperando.  
 
 Antes del cierre de la tienda, Sophie aparece. Su principal objetivo es disculparse dado que a su hermana le han encantado los ramos que le ha estado llevando. El jugador podrá aceptar más fácilmente o no las disculpas, pero al final ambas empiezan la relación desde cero. Al aprender la Florista sobre la persona a la que van dirigidas las flores, esta insiste en que la próxima vez podría venir ella a por el ramo, pero Sophie se queda callada de golpe. El jugador podrá insistir o cambiar de tema. En el primer caso, la reacción de Sophie será cortante. Sophie realiza el pedido y abandona la tienda.  
 
@@ -199,6 +199,7 @@ Este mismo día se produce un evento especialmente importante para la historia. 
 
 Para finalizar la tercera semana, la Florista vuelve a hablar con su amiga para que el jugador pueda obtener un resumen del nivel de afinidad con cada personaje. El jugador puede quedar con Ethan, con Sophie, o con Allan.  
 
+
 Por último, en la cuarta semana se definirán los finales con cada personaje en función de la afinidad obtenida.  
 
 ### <h3>Múltiples finales</h3>
@@ -209,71 +210,53 @@ En el caso de los personajes que son intereses amorosos, habrá tres finales dis
 
 En el caso de los personajes que no son intereses amorosos, habría dos finales disponibles los cuales varían de naturaleza dependiendo del personaje.  
 
-A continuación, se incluye una breve descripción de los finales de cada uno de los personajes de A Flower’s Dream: The Beginning:
+A continuación, se incluye una breve descripción de los finales de cada uno de los personajes de *A Flower’s Dream: The Beginning*:
 
-Personajes con intereses románticos:  
+**1. Personajes con intereses románticos:**
+
+* Sophie:  
+
+* Final bueno: Sophie se siente agradecida por la comprensión y apoyo del protagonista ante su pasado y carácter complicado. Además, su hermana ya se ha recuperado y le han dado el alta en el hospital. Debido a la cercanía que siente hacia el/la protagonista, decide quedar para presentarle a su hermana. Preparan un picnic en el parque. La hermana agradece al protagonista los hermosos ramos y este le sorprende regalándole uno para celebrar su salida del hospital. Sophie siente el pecho cálido ante la escena. Inician una relación romántica.  
+
+* Final neutral (cuarta semana): Sophie se abre con el tema de su hermana pequeña y le cuenta al protagonista para quién son los ramos que encargaba. Es entonces cuando el/la protagonista insiste en conocer a su hermana y llevarla personalmente un ramo de flores hecho con mucho amor. Ante su insistencia y la amistad que siente hacia él/ella, Sophie decide aceptar y ambas acuden a visitar a su hermana al hospital.  
+
+* Final malo: La relación con Sophie no es buena por las continuas contestaciones bordes e insistencias sobre su pasado y hermana. No considera ni una posible amistad. Sus visitas a la floristería son cada vez más escasas hasta que en un momento dado admite que no va a volver porque su hermana ya se encuentra bien y no tiene la obligación de volver a ver la fea cara del protagonista.  
+
+ 
+* Allan:  
+
+* Final bueno (cuarta semana): Allan deja el trabajo al no acceder a las explotaciones laborales de su jefe y expresar sus verdaderos sentimientos gracias al apoyo del protagonista. Aunque ya no tiene trabajo, se siente contento por haber dado la cara por sí mismo. En ese momento, al protagonista se le ocurre la idea de contratar a otro par de manos para la floristería y no se le ocurre nadie mejor que Allan, un gran amante de la naturaleza y alguien a quien ama. Ambos trabajan juntos en la floristería haciendo lo que más disfrutan y en buena compañía. Inician una relación estable. 
+
+* Final neutral: Allan y el/la protagonista continúan siendo amigos y quedando para realizar excursiones al aire libre.  
+
+* Final malo: Allan acude a la floristería, pero con menos frecuencia debido a las muchas horas de trabajo que le están imponiendo. El/La protagonista intenta aconsejarle, pero se siente ofendido. Cada vez que se ven se genera una situación incómoda.  
+
+ 
+* Ethan:  
+
+* Final bueno (cuarta semana): Ethan logra superar su miedo al compromiso y decide dar una oportunidad a la relación con el/la protagonista. Poco a poco deja de lado su máscara para abrirse ante la gente gracias al apoyo y el amor recibido por el/la protagonista. Al final él/ella había pasado por algo similar. Con la esperanza de poder vivir nuevas experiencias juntos y liberarse completamente, Ethan convence al protagonista de comprar unos billetes para viajar. Este/Esta cierra la floristería durante unos meses y se van a recorrer el mundo juntos, sin preocupaciones. 
+
+* Final neutral (cuarta semana): Ethan y el/la protagonista terminan siendo amigos sin desarrollar una relación amorosa. Ambos suelen quedar y mantener conversaciones largas por teléfono sobre libros, una pasión que comparten los dos y que el/la protagonista es de las pocas personas que conoce. En la cuarta semana, Ethan espera a que termine el turno de trabajo en la floristería para quedar a tomar algo, hablar y ponerse al día de las nuevas novedades de la vida. Ethan admite haber conocido a alguien y estar realmente feliz.  
+
+* Final malo (cuarta semana): En un día de la cuarta semana, Ethan visita la floristería con su nueva pareja, compra un ramo y cuando la pareja pregunta por el/la protagonista, hace como que no le conoce. La relación que tenía con Ethan se termina, pues este ha decidido pasar página y continuar con su vida de citas y apariencias.  
 
  
 
-Sophie:  
+**2. Personajes sin intereses amorosos:** 
 
-Final bueno: Sophie se siente agradecida por la comprensión y apoyo del protagonista ante su pasado y carácter complicado. Además, su hermana ya se ha recuperado y le han dado el alta en el hospital. Debido a la cercanía que siente hacia el/la protagonista, decide quedar para presentarle a su hermana. Preparan un picnic en el parque. La hermana agradece al protagonista los hermosos ramos y este le sorprende regalándole uno para celebrar su salida del hospital. Sophie siente el pecho cálido ante la escena. Inician una relación romántica.  
+* Pietro:  
 
- 
+* Final bueno (cuarta semana): Pietro se siente cómodo por la actitud cercana y abierta del protagonista al dejarle pintar en la tienda y el interés que muestra hacia su arte. Por ello, en la cuarta semana viene a ver al protagonista para hablarle sobre su vida y futuro. Después de muchas dudas, Pietro decide luchar por dedicarse profesionalmente al arte y se va a ir a estudiar a la universidad. Debido a la lejanía de esta y al cariño que siente hacia el/la protagonista, le da su teléfono para poder mantenerse en contacto por la amistad que se ha creado.  
 
-Final neutral (cuarta semana): Sophie se abre con el tema de su hermana pequeña y le cuenta al protagonista para quién son los ramos que encargaba. Es entonces cuando el/la protagonista insiste en conocer a su hermana y llevarla personalmente un ramo de flores hecho con mucho amor. Ante su insistencia y la amistad que siente hacia él/ella, Sophie decide aceptar y ambas acuden a visitar a su hermana al hospital.  
-
- 
-
-Final malo: La relación con Sophie no es buena por las continuas contestaciones bordes e insistencias sobre su pasado y hermana. No considera ni una posible amistad. Sus visitas a la floristería son cada vez más escasas hasta que en un momento dado admite que no va a volver porque su hermana ya se encuentra bien y no tiene la obligación de volver a ver la fea cara del protagonista.  
+* Final malo (tercera semana): Debido a la elección del jugador de aquellas opciones secas y cortantes hacia Pietro por entrar a pintar en la floristería sin decir nada y no comprar en algunas ocasiones, Pietro se cansa y en la tercera semana deja de ir a la floristería. El/La protagonista se pregunta por qué Pietro no ha venido en los últimos días a la tienda y, en ese momento, puede ver cómo su figura pasa caminando por la calle a través de las ventanas del escaparate. Dado a que lleva un ramo de flores bajo el brazo, se da a entender que ha ido a otra floristería y que no va a volver.  
 
  
+* Sagrario:  
 
-Allan:  
+* Final bueno (cuarta semana): Sagrario acude a la floristería con su pareja para presentársela al protagonista porque le encantaron los ramos que hizo y Sagrario le enviaba a su hogar.  
 
-Final bueno (cuarta semana): Allan deja el trabajo al no acceder a las explotaciones laborales de su jefe y expresar sus verdaderos sentimientos gracias al apoyo del protagonista. Aunque ya no tiene trabajo, se siente contento por haber dado la cara por sí mismo. En ese momento, al protagonista se le ocurre la idea de contratar a otro par de manos para la floristería y no se le ocurre nadie mejor que Allan, un gran amante de la naturaleza y alguien a quien ama. Ambos trabajan juntos en la floristería haciendo lo que más disfrutan y en buena compañía. Inician una relación estable. 
+* Final neutro (cuarta semana): Sagrario acude a la floristería para pedir su último ramo, pero dado que el nivel de afinidad no es lo suficientemente alto, la información aportada es incompleta. No se llega a conocer su verdadera historia.  
 
- 
-
-Final neutral: Allan y el/la protagonista continúan siendo amigos y quedando para realizar excursiones al aire libre.  
-
- 
-
-Final malo: Allan acude a la floristería, pero con menos frecuencia debido a las muchas horas de trabajo que le están imponiendo. El/La protagonista intenta aconsejarle, pero se siente ofendido. Cada vez que se ven se genera una situación incómoda.  
-
- 
-
-Ethan:  
-
-Final bueno (cuarta semana): Ethan logra superar su miedo al compromiso y decide dar una oportunidad a la relación con el/la protagonista. Poco a poco deja de lado su máscara para abrirse ante la gente gracias al apoyo y el amor recibido por el/la protagonista. Al final él/ella había pasado por algo similar. Con la esperanza de poder vivir nuevas experiencias juntos y liberarse completamente, Ethan convence al protagonista de comprar unos billetes para viajar. Este/Esta cierra la floristería durante unos meses y se van a recorrer el mundo juntos, sin preocupaciones. 
-
- 
-
-Final neutral (cuarta semana): Ethan y el/la protagonista terminan siendo amigos sin desarrollar una relación amorosa. Ambos suelen quedar y mantener conversaciones largas por teléfono sobre libros, una pasión que comparten los dos y que el/la protagonista es de las pocas personas que conoce. En la cuarta semana, Ethan espera a que termine el turno de trabajo en la floristería para quedar a tomar algo, hablar y ponerse al día de las nuevas novedades de la vida. Ethan admite haber conocido a alguien y estar realmente feliz.  
-
- 
-
-Final malo (cuarta semana): En un día de la cuarta semana, Ethan visita la floristería con su nueva pareja, compra un ramo y cuando la pareja pregunta por el/la protagonista, hace como que no le conoce. La relación que tenía con Ethan se termina, pues este ha decidido pasar página y continuar con su vida de citas y apariencias.  
-
- 
-
-2. Personajes sin intereses amorosos:  
-
-Pietro:  
-
-Final bueno (cuarta semana): Pietro se siente cómodo por la actitud cercana y abierta del protagonista al dejarle pintar en la tienda y el interés que muestra hacia su arte. Por ello, en la cuarta semana viene a ver al protagonista para hablarle sobre su vida y futuro. Después de muchas dudas, Pietro decide luchar por dedicarse profesionalmente al arte y se va a ir a estudiar a la universidad. Debido a la lejanía de esta y al cariño que siente hacia el/la protagonista, le da su teléfono para poder mantenerse en contacto por la amistad que se ha creado.  
-
- 
-
-Final malo (tercera semana): Debido a la elección del jugador de aquellas opciones secas y cortantes hacia Pietro por entrar a pintar en la floristería sin decir nada y no comprar en algunas ocasiones, Pietro se cansa y en la tercera semana deja de ir a la floristería. El/La protagonista se pregunta por qué Pietro no ha venido en los últimos días a la tienda y, en ese momento, puede ver cómo su figura pasa caminando por la calle a través de las ventanas del escaparate. Dado a que lleva un ramo de flores bajo el brazo, se da a entender que ha ido a otra floristería y que no va a volver.  
-
- 
-
-Sagrario:  
-
-Final bueno (cuarta semana): Sagrario acude a la floristería con su pareja para presentársela al protagonista porque le encantaron los ramos que hizo y Sagrario le enviaba a su hogar.  
-
-Final neutro (cuarta semana): Sagrario acude a la floristería para pedir su último ramo, pero dado que el nivel de afinidad no es lo suficientemente alto, la información aportada es incompleta. No se llega a conocer su verdadera historia.  
 
 ### <h3>Personajes</h3>
 

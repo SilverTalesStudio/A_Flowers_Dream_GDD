@@ -269,6 +269,8 @@ Para la interfaz, se ha optado por crear una serie de assets propios con degrada
   <img width="460" src="/Images/maxresdefault.jpg">
 </p>
 
+<p align="center"><em>Referencia 2 Menús de juegos varios</em></p>
+
 Para la música, se ha utilizado mucho una tonalidad alegre y vivaz para la gran mayoría de partes con la excepción de los momentos de más tensión o tristeza. La música que se interpreta es de procedencia externa sin derechos de autor. La mayoría de los instrumentos que componen los distintos sonidos son de cuerda, percusión o de viento. Muy similar a la música clásica, para que sea ameno para el jugador sin distraer mucho del juego. 
 
 El objetivo de todo el apartado artístico es hacer sentir al jugador lo más inmerso y atraído posible por el videojuego. A la par de llamar la atención visualmente. 

@@ -49,6 +49,38 @@ Las plataformas para las que se planea desarrollar el juego son PC y móviles.
 ## <h2>Mecánicas de juego y elementos de juego</h2>
 ### <h3>Descripción detallada del concepto de juego</h3>
 ### <h3>Descripción detallada de las mecánicas de juego</h3>
+
+El videojuego se puede dividir en dos partes respecto a las mecánicas utilizadas, ya que ambas partes son muy diferentes de jugar entre sí. Por un lado, están las fases narrativas en formato Visual Novel, y por otro están las fases de creación de ramos en formato minijuego. 
+
+#### <h4>Visual Novel</h4>
+
+#### <h4>Minijuego de las flores</h4>
+
+#### <h4>Clasificación de las flores</h4>
+
+En esta tabla, se representan las flores que se van a incluir en el minijuego de la floristería. Al realizar los pedidos, el usuario podrá escoger entre estas flores para generar el ramo correspondiente. El objetivo será tratar de combinar las flores de forma que se acerque lo máximo posible a los requisitos del pedido. En concreto, se mirarán los siguientes factores: colores; sentimientos; y preferencias de cada personaje. En función de estos factores, se otorgarán puntos al jugador. Al final del minijuego, se revisará si la puntuación final supera unos rangos y esto indicará el resultado final que se enviará a la VN para contabilizar en las variables de los personajes. Habrá tres resultados finales posibles: mal, regular, y bien.  
+
+Para ayudar al jugador ante la cantidad de flores incluidas, en total 20, se le proporcionará durante el minijuego un libro en el que podrá consultar información sobre cada flor, incluyendo colores y significados.  
+
+Asimismo, es importante destacar los siguientes factores:  
+
+<ul>
+  <li><p>Entre las 20 flores incorporadas, se ha incluido una que siempre va a restar para todos los personajes en caso de que el jugador la incluya en el ramo. Esta flor es el Ciclamen la cual presenta un sentimiento negativo de decepción y desconfianza. El objetivo de esta decisión es recordar al usuario la existencia del libro de información en caso de que juegue añadiendo arbitrariamente flores al ramo. </p></li>
+  <li><p>Cada personaje tiene una flor favorita y una flor odiada en función de su historia y personalidad. Añadir al ramo la flor favorita otorga internamente puntos positivos adicionales. Añadir al ramo la flor odiada otorga internamente puntos negativos. </p></li>
+</ul>
+
+La siguiente tabla recoge las 20 flores incluidas en el minijuego de la floristería y que el jugador tendrá a su disposición para la creación del ramo. Por cada flor se especifica: su nombre, su color, su sentimiento, y una referencia visual.  
+
+| Nombre | Color | Sentimiento | Referencia|
+|:------------:|:-------------:|:-------------:|:-------------:|
+| Dalia Malva | Malva | Agradecimiento y gratitud  | Imagen|
+| Campánula | Morada | Agradecimiento y gratitud  | Imagen|
+
+
+#### <h4>Pedidos</h4>
+
+Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una petición de alguna flor de un color determinado y alguna flor que transmita un sentimiento en concreto (flores incluidas en la tabla del apartado clasificación de las flores). Además de esto, una vez se muestre el pedido al jugador y mientras este realiza el ramo, se visualizará un resumen del mismo. 
+
 ### <h3>Controles</h3>
 ### <h3>Niveles y misiones</h3>
 ### <h3>Objetos, armas y power ups</h3>

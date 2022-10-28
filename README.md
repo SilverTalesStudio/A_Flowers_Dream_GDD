@@ -156,22 +156,22 @@ Al terminar el minijuego y volver a hablar con el cliente, el diálogo depender�
 
 El pedido se genera de forma aleatoria dependiendo del personaje. Las variables a tener en cuenta para el minijuego de las flores son: 
 <ul>
-  <li><b>Flor favorita del cliente:</b> suma 2 puntos al resultado final. 
-  <li><b>Flor odiada por el cliente:</b> restan 2 puntos al resultado final. 
-  <li><b>Color exacto del pedido:</b> suman 1 punto al resultado final. 
-  <li><b>Colores afines al pedido (Máximo 2 colores):</b> suman 1 punto al resultado final. 
-  <li><b>Colores no afines al pedido (Máximo 2 colores):</b> restan 1 punto al resultado final. 
-  <li><b>Sentimiento exacto del pedido:</b> suman 1 punto al resultado final. 
-  <li><b>Sentimientos afines al pedido (Máximo 2 sentimientos):</b> suman 1 punto al resultado final. 
-  <li><b>Sentimientos no afines al pedido (Máximo 2 sentimientos):</b> restan 1 punto al resultado final. 
+    <li><b>Flor favorita del cliente:</b> suma 2 puntos al resultado final. 
+    <li><b>Flor odiada por el cliente:</b> restan 2 puntos al resultado final. 
+    <li><b>Color exacto del pedido:</b> suman 1 punto al resultado final. 
+    <li><b>Colores afines al pedido (Máximo 2 colores):</b> suman 1 punto al resultado final. 
+    <li><b>Colores no afines al pedido (Máximo 2 colores):</b> restan 1 punto al resultado final. 
+    <li><b>Sentimiento exacto del pedido:</b> suman 1 punto al resultado final. 
+    <li><b>Sentimientos afines al pedido (Máximo 2 sentimientos):</b> suman 1 punto al resultado final. 
+    <li><b>Sentimientos no afines al pedido (Máximo 2 sentimientos):</b> restan 1 punto al resultado final. 
 </ul>
 Estas variables indicadas se comparan con las que el cliente desea para su pedido y se suman o restan dependiendo de si son afines o no, o si son favoritas u odiadas. 
 
 El rango de valores que puede tomar el resultado final es de –12 a 12 puntos. Este resultado tendrá una evaluación cualitativa al terminar el minijuego: 
 <ul>
-  <li><b>Rango de -12 a –4:</b> "mal”. 
-  <li><b>Rango de -4 a 4:</b> "regular”. 
-  <li><b>Rango de 4 a 12:</b> “bien”. 
+    <li><b>Rango de -12 a –4:</b> "mal”. 
+    <li><b>Rango de -4 a 4:</b> "regular”. 
+    <li><b>Rango de 4 a 12:</b> “bien”. 
 </ul>
 
 Por último, la evaluación cualitativa se envía de vuelta a la Visual Novel y se decide qué dialogo y ruta seguirá la partida del jugador.

@@ -144,6 +144,7 @@ Un chico bondadoso y de gran corazón. Es amante de la naturaleza y por ello tie
   <li><p>Motivo para comprar flores: Allan visita la floristería debido a su gran amor por las plantas. Principalmente, compra flores porque le gustan y quiere decorar su casa. </p></li>
   <li><p>Información clave: Allan es un chico bueno y humilde. Trabaja en un supermercado cercano a la floristería. Dado su gran corazón e inseguridad, muchas personas intentan aprovecharse de él, incluido su jefe que le explota en el trabajo. Le cuesta dar la cara por sí mismo. Una de sus grandes virtudes es su amplio conocimiento sobre plantas y flores debido a su amor por la naturaleza. Le encanta pasar tiempo al aire libre. Visitará la floristería con frecuencia para adquirir más flores para su casa, incluso llegando a preguntar por flores exóticas o difíciles de conseguir. Al hablar con el/la protagonista sobre plantas se emociona, pues siente que le comprenden. Le gusta el deporte y se encuentra en buena forma. </p></li>
 </ul>
+
 ![Foto y firma de Allan](/Images/polaroids_allan.png)
 
 #### <h4>Ethan</h4>
@@ -154,6 +155,7 @@ Un joven de apariencia hermosa y carácter coqueto, Ethan siempre se encuentra d
   <li><p>Motivo para comprar flores: Ethan compra flores para regalárselas a sus citas. Dado que generalmente sus relaciones duran poco y siempre se encuentra de cita en cita, visita con frecuencia la floristería. </p></li>
   <li><p>Información clave: Ethan es un chico extrovertido y muy preocupado por su apariencia. Le gusta vestir a la última moda y que su cara se vea hermosa, aunque ya lo es por naturaleza. Siempre se encuentra rodeado de gente y yendo de un lugar para otro. Por su naturaleza coqueta y seductora, suele tener muchos admiradores y admiradoras con los que termina teniendo alguna relación, aunque breve. De hecho, es habitual que muchas de estas no terminen bien. Este carácter hará que se gane el apodo de “Eros” por parte del protagonista. En realidad, toda esta obsesión con la apariencia se debe a su poca autoestima y miedo a la soledad. Se esconde detrás de una máscara ocultando su verdadero ser y gustos, como la cocina o la lectura. También, tiene miedo al compromiso y tiende a huir ante relaciones serias. </p></li>
 </ul>
+
 ![Foto y firma de Ethan](/Images/polaroids_Ethan.png)
 
 #### <h4>Personajes sin intereses románticos</h4>
@@ -168,6 +170,7 @@ Un joven artista enigmático que visita la floristería en busca de inspiración
   <li><p>Motivo para comprar flores: Pietro suele comprar flores con la intención de pintar bodegones o escenas inspiradas en estas en su casa. </p></li>
   <li><p>Información: es pintor de corazón, pero no de profesión. Ama todo lo relacionado con el arte y las letras. Su técnica favorita es el óleo por lo que siempre se le suele ver con alguna que otra mancha en rostro y ropa. Le encanta visitar la floristería para pintar aquellas flores que más le inspiran, aunque en alguna ocasión no compre nada. Asimismo, debido a su naturaleza tranquila y filosófica, suele pasarse largos ratos mirando a la nada, pensando. Debido a esto, es difícil captar su atención lo suficiente como para mantener una conversación continua, pero cuando se consigue suelen ser conversaciones profundas. Su mayor referente artístico es Salvador Dalí. Le encantan los zuecos y la ropa holgada. </p></li>
 </ul>
+
 ![Foto y firma de Pietro](/Images/polaroids_pietro.png)
 
 ##### <h4>Sagrario</h4>
@@ -191,7 +194,9 @@ Daphne es la antigua pareja de Ethan, una mujer despampanante, presumida y siemp
   <li><p>Motivo de aparición: Daphne irrumpe en la floristería en busca de Ethan el cual se encuentra escondido tras el mostrador intentado ocultarse de ella tras su huida durante la cita. </p></li>
   <li><p>Información: Expareja de Ethan. Entra enfadada en la tienda con el objetivo de encontrar a Ethan para romper con él por su actitud infantil y maleducada al huir en plena cita. Es una mujer exuberante, de ideas fijas y claras. Ante su aparición, el jugador podrá ayudar a Ethan o delatar su posición a Daphne. </p></li>
 </ul>
+
 ![Foto y firma de Daphne](/Images/polaroids_daphne.png)
+
 ##### <h4>Jacob</h4>
 
 Jacob es la expareja del protagonista de la historia. Tenía una relación tóxica de varios años con él/ella. Es la principal razón de su huida a la nueva ciudad.  

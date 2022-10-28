@@ -260,11 +260,11 @@ Limón es el gato del protagonista. Es la única compañía que tiene al comienz
 Dada que la tecnología a utilizar es 2D, el estilo que se ha utilizado es un cartoon estilizado combinando cellshading con degradados. Las principales referencias han sido <em>The Arcana</em>, así como artistas freelance como <em>BoissB</em>. 
 
 <p align="center">
-  <img src="/Images/refes_theArcana.png">
+  <img src="/Images/refes_theArcana.PNG">
 </p>
 
 <p align="center">
-  <img src="/Images/refes_boissb.png">
+  <img src="/Images/refes_boissb.PNG">
 </p>
 
 <p align="center"><em>Referencia 1 Personajes</em></p>
@@ -357,7 +357,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <b>Allan</b>
 <p align="center">
-  <img src="/Images/pjs_allan_siluetas.png">
+  <img src="/Images/pjs_allan_siluetas.PNG">
 </p>
 
 <p align="center"><em>Ilustración  Siluetas - Allan</em></p>
@@ -378,7 +378,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <b>Pietro</b>
 <p align="center">
-  <img src="/Images/pjs_pietro_siluetas.png">
+  <img src="/Images/pjs_pietro_siluetas.PNG">
 </p>
 <p align="center"><em>Ilustración  Siluetas – Pietro </em></p>
 
@@ -402,7 +402,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <b>Daphne</b>
 <p align="center">
-  <img src="/Images/pjs_daphne_desarrollo.png">
+  <img src="/Images/pjs_daphne_desarrollo.PNG">
 </p>
 
 <p align="center"><em>Ilustración Proceso actual - Daphne</em></p>

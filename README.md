@@ -277,29 +277,29 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 
 Entornos no románticos 
 
-<li><p>Floristería: El ambiente tiene que ser ameno, alegre, positivo, muy al estilo clásico. Es donde se va a efectuar la jugabilidad de las flores por lo que tiene que ser música muy relajante y a la vez que no sobresalga demasiado para que no distraiga al jugador, pero si para que se sienta a gusto como se sentiría el protagonista del juego. </p></li>
+<li><p>Floristería: El ambiente tiene que ser ameno, alegre, positivo, muy al estilo clásico. Es donde se va a efectuar la jugabilidad de las flores por lo que tiene que ser música muy relajante y a la vez que no sobresalga demasiado para que no distraiga al jugador, pero si para que se sienta a gusto como se sentiría el protagonista del juego.</p></li>
 
  
 
-<li><p>Calle: Más bullicioso y movido para dar sensación de multitud y de salida, acompañada de efectos sonoros de personas andando y hablando por el fondo sin llegar a desorientar o perturbar al jugador. </p></li>
+<li><p>Calle: Más bullicioso y movido para dar sensación de multitud y de salida, acompañada de efectos sonoros de personas andando y hablando por el fondo sin llegar a desorientar o perturbar al jugador.</p></li>
 
  
 
-<li><p>Casa del personaje: Es más tranquila y acogedora, después de todo es la casa del personaje, algo así como su fortaleza o santuario personal en el cual puede descansar después de su día a día. </p></li>
+<li><p>Casa del personaje: Es más tranquila y acogedora, después de todo es la casa del personaje, algo así como su fortaleza o santuario personal en el cual puede descansar después de su día a día.</p></li>
 
  
 
-<li><p>Tienda: Música más típica de tiendas de conveniencia, siendo la más neutral de todas. La típica tienda donde ponen música de la radio o actuales de forma de ambiente un poco baja para no incomodar a los clientes. </p></li>
+<li><p>Tienda: Música más típica de tiendas de conveniencia, siendo la más neutral de todas. La típica tienda donde ponen música de la radio o actuales de forma de ambiente un poco baja para no incomodar a los clientes.</p></li>
 
  
 
 Entornos para las citas 
 
-<li><p>Cine: Se ha optado por un inicio de música de ambiente de la calle para pasar a un silencio y a sonidos típicos de película de terror debido a la historia lo amerita, también hay efectos sonoros de personas murmullando y alguno que otro grito de miedo. </p></li>
+<li><p>Cine: Se ha optado por un inicio de música de ambiente de la calle para pasar a un silencio y a sonidos típicos de película de terror debido a la historia lo amerita, también hay efectos sonoros de personas murmullando y alguno que otro grito de miedo.</p></li>
 
  
 
-<li><p>Jardín botánico: En este jardín se tiene que demostrar positivismo y alegría muy similares a la floristería, pero más movida y dinámica porque se encuentran de paseo en dicho lugar. </p></li>
+<li><p>Jardín botánico: En este jardín se tiene que demostrar positivismo y alegría muy similares a la floristería, pero más movida y dinámica porque se encuentran de paseo en dicho lugar.</p></li>
 
  
 
@@ -307,47 +307,47 @@ Entornos para las citas
 
  
 
-<li><p>Concierto: Se ha optado por buscar música de rock muy movida que este muy de fondo y los gritos de celebración de las personas que estarían también en dicho concierto. Es mucho más movida debido al escenario en el que nos encontramos. </p></li>
+<li><p>Concierto: Se ha optado por buscar música de rock muy movida que este muy de fondo y los gritos de celebración de las personas que estarían también en dicho concierto. Es mucho más movida debido al escenario en el que nos encontramos.</p></li>
 
  
 
-<li><p>Bosque: Muy similar a la del jardín Botánico, pero siendo más libre, más relajada y natural para evocar espacio abierto y mucha naturaleza. Para los efectos sonoros se pondrán pequeños sonidos de aves diversas y el viento. </p></li>
+<li><p>Bosque: Muy similar a la del jardín Botánico, pero siendo más libre, más relajada y natural para evocar espacio abierto y mucha naturaleza. Para los efectos sonoros se pondrán pequeños sonidos de aves diversas y el viento.</p></li>
 
  
 
-<li><p>Acuario: Más orientada a lo acuático, profundo, pero manteniendo la alegría porque está en una cita nuestro protagonista. Los efectos sonoros son personas hablando y murmurando junto con algún efecto marino como pueden ser burbujas o algún sonido de focas o pingüinos. </p></li>
+<li><p>Acuario: Más orientada a lo acuático, profundo, pero manteniendo la alegría porque está en una cita nuestro protagonista. Los efectos sonoros son personas hablando y murmurando junto con algún efecto marino como pueden ser burbujas o algún sonido de focas o pingüinos.</p></li>
 
 Efectos Sonoros 
 
 Una lista de los efectos sonoros necesarios: 
 
-<li><p>Gente murmurando </p></li>
+<li><p>Gente murmurando</p></li>
 
-<li><p>Gente hablando </p></li>
+<li><p>Gente hablando</p></li>
 
-<li><p>Gente gritando o/y asustada </p></li>
+<li><p>Gente gritando o/y asustada</p></li>
 
-<li><p>Gente riendo </p></li>
+<li><p>Gente riendo</p></li>
 
-<li><p>Gente caminando </p></li>
+<li><p>Gente caminando</p></li>
 
-<li><p>Sonidos de gato </p></li>
+<li><p>Sonidos de gato</p></li>
 
-<li><p>Sonido de puertas de madera/automáticas abriéndose </p></li>
+<li><p>Sonido de puertas de madera/automáticas abriéndose</p></li>
 
-<li><p>Sonido de pisadas en distintos ambientes </p></li>
+<li><p>Sonido de pisadas en distintos ambientes</p></li>
 
-<li><p>Sonidos marinos </p></li>
+<li><p>Sonidos marinos</p></li>
 
-<li><p>Sonidos de timbre/campanilla </p></li>
+<li><p>Sonidos de timbre/campanilla</p></li>
 
-<li><p>Sonidos de animales: pájaros </p></li>
+<li><p>Sonidos de animales: pájaros</p></li>
 
-<li><p>Sonidos de golpes </p></li>
+<li><p>Sonidos de golpes</p></li>
 
-<li><p>Sonido de viento y hojas moviéndose </p></li>
+<li><p>Sonido de viento y hojas moviéndose</p></li>
 
-<li><p>Sonido del chocar de copas </p></li>
+<li><p>Sonido del chocar de copas</p></li>
 
  
 

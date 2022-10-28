@@ -109,6 +109,13 @@ Para finalizar, en la siguiente tabla se recogen la flor favorita y la flor odia
 
 Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una petición de alguna flor de un color determinado y alguna flor que transmita un sentimiento en concreto (flores incluidas en la tabla del apartado clasificación de las flores). Además de esto, una vez se muestre el pedido al jugador y mientras este realiza el ramo, se visualizará un resumen del mismo. 
 
+| Color | Color no afín | Sentimiento | Sentimiento no afín |
+|:------------:|:-------------:|:-------------:|:-------------:|
+| Malva | Amarillo | Agradecimiento y gratitud | Belleza, belleza del alma  |
+| Morado | Azul | Decepción, desconfianza  | Felicidad, alegría, confianza -- Sinceridad  |
+| Rosa | Rojo | Amistad | Amor eterno, amor verdadero |
+| Blanco | Rojo | Seducción, amor secreto | Buena suerte, buenas noticias -- Pureza del corazón |
+
 ### <h3>Controles</h3>
 ### <h3>Niveles y misiones</h3>
 ### <h3>Objetos, armas y power ups</h3>

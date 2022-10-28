@@ -92,7 +92,11 @@ La siguiente tabla recoge las 20 flores incluidas en el minijuego de la floriste
 | Centaurea | Morada | Felicidad, alegría, confianza | ![Centaurea!](/Images/Centaurea.png) |
 | Coreopsis | Amarilla | Felicidad, alegría, confianza | ![Coreopsis!](/Images/Coreopsis.png) |
 | Lirio del Valle | Blanca | Felicidad, alegría, confianza | ![Lirio del Valle!](/Images/LirioDelValle.png) |
-| Gardenia | Blanca | Sinceridad | ![Gardenia!](/Images/Gardenia.png) |
+| Gardenia | Blanca | Sinceridad | ![Gardenia!](/Images/Gardenia1.png) |
+
+
+Para finalizar, en la siguiente tabla se recogen la flor favorita y la flor odiada de cada personaje: 
+
 
 
 #### <h4>Pedidos</h4>

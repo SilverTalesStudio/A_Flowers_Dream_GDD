@@ -500,11 +500,32 @@ Dada que la tecnología a utilizar es 2D, el estilo que se ha utilizado es un ca
   <img src="/Images/refes_boissb.PNG">
 </p>
 
-<p align="center"><em>Referencia 1 Personajes</em></p>
+<p align="center"><em>Referencia 1. Personajes</em></p>
 
-Para los escenarios, la inspiración principal ha sido diversas referencias de lugares reales obtenidas mediante <em>Pinterest</em> y <em>Google Maps</em>. Asimismo, también se ha tomado gran inspiración de los escenarios característicos de este tipo de juegos, las novelas visuales y los simuladores de citas.  
+Para los escenarios, la principal inspiración han sido diversas referencias de lugares reales obtenidas mediante *Pinterest* y *Google Maps*.  
 
+<p align="center">
+  <img width="460" src="/Images/Referencia_Floristería_Pinterest_4.png">
+  <img width="460" src="/Images/Referencia_Floristería_Pinterest_2.png">
+</p>
 
+<p align="center"><em>Referencia 2. Escenarios (Pinterest)</em></p> 
+
+<p align="center">
+  <img width="460" src="/Images/Referencia_Calle_Chatan_Prefectura de Okinawa.png">
+</p>
+<p align="center"><em>Referencia 3. Escenarios (Google Maps)</em></p>
+
+Esto se ha complementado con la búsqueda de imágenes reales de plantas y flores para poder decorar, por ejemplo, la floristería en la que se desarrolla gran parte de la historia. Estas referencias también se han encontrado en *Pinterest*.  
+
+<p align="center">
+  <img width="460" src="/Images/Referencia_Floristería_Pinterest_1.png">
+  <img width="460" src="/Images/Referencia_Floristería_Pinterest_3.png">
+</p>
+
+<p align="center"><em>Referencia 4. Elementos y props escenarios (Pinterest)</em></p> 
+
+También, se ha tomado gran inspiración de los escenarios característicos de este tipo de juegos: las novelas visuales y los simuladores de citas. En concreto, estas últimas referencias se han consultado principalmente para la aplicación de perspectiva. Asimismo, se han buscado algunas paletas de color que sirvan de inspiración para el ambiente y atmósfera de cada escenario.  
 
 
 Para la interfaz, se ha optado por crear una serie de assets propios con degradados, dando la sensación de que los botones y los marcos son de oro, muy utilizados frecuentemente en el color para distintos juegos referentes a simulaciones de citas.
@@ -521,7 +542,7 @@ Para la interfaz, se ha optado por crear una serie de assets propios con degrada
   <img width="460" src="/Images/maxresdefault.jpg">
 </p>
 
-<p align="center"><em>Referencia 2 Menús de juegos varios</em></p>
+<p align="center"><em>Referencia 4. Menús de juegos varios</em></p>
 
 Para la música, se ha utilizado mucho una tonalidad alegre y vivaz para la gran mayoría de partes con la excepción de los momentos de más tensión o tristeza. La música que se interpreta es de procedencia externa sin derechos de autor. La mayoría de los instrumentos que componen los distintos sonidos son de cuerda, percusión o de viento. Muy similar a la música clásica, para que sea ameno para el jugador sin distraer mucho del juego. 
 

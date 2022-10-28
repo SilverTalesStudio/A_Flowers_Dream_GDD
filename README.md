@@ -384,13 +384,13 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 
 <p align="center">
-  <img src="/Images/pjs_pietro_desarrollo_2.png">
+  <img src="/Images/pjs_pietro_desarrollo_2.PNG">
   <img src="/Images/pjs_pietro_Desarrollo_1.png">
 </p>
 <p align="center"><em>Ilustración  Desarrollo - Pietro</em></p>
 
 <p align="center">
-  <img src="/Images/pjs_prietro_pruebasColor.png">
+  <img src="/Images/pjs_pietro_pruebasColor.png">
 </p>
 <p align="center"><em>Ilustración  Pruebas de color - Pietro</em></p>
 

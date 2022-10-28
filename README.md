@@ -144,6 +144,8 @@ El videojuego se puede dividir en dos partes respecto a las mecánicas utilizada
 #### <h4>6.2.2. Minijuego de las flores</h4>
 La mecánica principal de este minijuego consiste en seleccionar 5 flores no repetidas para formar un ramo acorde a lo que pide el cliente.  
 
+Al empezar el minijuego, lo primero que aparece es un pop-up con una foto del cliente y el pedido que quiere hacer. Al continuar a la pantalla de interacción con las flores, se indica un resumen del pedido junto a los demás objetos del minijuego para tener una receta de lo que ha pedido el cliente.
+
 Existe un libro de flores donde el jugador puede ver una descripción de cada flor para hacerse a la idea de qué flor es mejor y peor para el ramo. Para acceder a este libro, el jugador debe pulsar el botón que indica que abre el libro. Dentro del mismo puede pasar las páginas para poder ver todas las flores.
 
 Las flores que el jugador puede coger se encuentran en un menú que se abre o cierra como una pestaña pulsando un botón. Dentro de este menú está cada flor con su nombre, así el jugador sabe qué flor es y no tiene que estar comparando diseños con el libro. Todas las flores aparecen en una columna que se puede deslizar para alcanzar cada una de ellas. Al interactuar con una flor, esta se puede arrastrar con el ratón o con el dedo (si se están usando dispositivos táctiles) y si se coloca en el ramo, se queda en él y, si no, vuelve a su posición en el menú. 
@@ -203,7 +205,7 @@ Por último, la evaluación cualitativa se envía de vuelta a la Visual Novel y 
 <p align="center"><em>Pantalla del minijuego con aviso de menos de 5 flores</em></p>
 
 <p align="center">
-  <img src="/Images/Minijuego5.png">
+  <img src="/Images/Minijuego5.jpg">
 </p>
 
 <p align="center"><em>Boceto del libro de flores</em></p>

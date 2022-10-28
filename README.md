@@ -117,7 +117,10 @@ En esta categoría, se encuentra el personaje que el jugador podrá controlar a 
 
 Tras huir de su país y dejar todo atrás debido a una situación complicada, decide cumplir su sueño y abrir una floristería en una nueva ciudad. Es amable y siempre da todo de sí misma para que todo salga bien, aunque la personalidad la decide el jugador en base a qué decisiones tome. Tiene un gato llamado Limón.
 
-![Foto y firma de la florista](/Images/polaroids_florista_she.png)
+
+<p align="center">
+  <img src="/Images/polaroids_florista_she.png">
+</p>
 
 #### <h4>Personajes con intereses románticos</h4>
 
@@ -133,7 +136,9 @@ Una chica joven con un pasado oscuro y una personalidad pasota. Aunque en un ini
   <li><p>Información clave: Los padres de Sophie eran maltratadores. En la actualidad, vive sola con su hermana pequeña a la que cuida con mucho cariño para que no le falte nada. Este trágico pasado y el hecho de tener que tomar las riendas de la familia a tan temprana edad son los que han hecho a Sophie cerrada y desconfiada ante nuevos conocidos. Dada su situación, no tiene mucho dinero, así que siempre está pendiente del precio de las flores. Es una gran fan de la música punk y metal. Tiene una ligera adicción al tabaco. </p></li>
 </ul>
 
-![Foto y firma de Sophie](/Images/polaroids_sophie.png)
+<p align="center">
+  <img src="/Images/polaroids_sophie.png">
+</p>
 
 #### <h4>Allan</h4>
 
@@ -145,7 +150,11 @@ Un chico bondadoso y de gran corazón. Es amante de la naturaleza y por ello tie
   <li><p>Información clave: Allan es un chico bueno y humilde. Trabaja en un supermercado cercano a la floristería. Dado su gran corazón e inseguridad, muchas personas intentan aprovecharse de él, incluido su jefe que le explota en el trabajo. Le cuesta dar la cara por sí mismo. Una de sus grandes virtudes es su amplio conocimiento sobre plantas y flores debido a su amor por la naturaleza. Le encanta pasar tiempo al aire libre. Visitará la floristería con frecuencia para adquirir más flores para su casa, incluso llegando a preguntar por flores exóticas o difíciles de conseguir. Al hablar con el/la protagonista sobre plantas se emociona, pues siente que le comprenden. Le gusta el deporte y se encuentra en buena forma. </p></li>
 </ul>
 
-![Foto y firma de Allan](/Images/polaroids_allan.png)
+
+<p align="center">
+  <img src="/Images/polaroids_allan.png">
+</p>
+
 
 #### <h4>Ethan</h4>
 
@@ -157,10 +166,9 @@ Un joven de apariencia hermosa y carácter coqueto, Ethan siempre se encuentra d
 </ul>
 
 <p align="center">
-  <img width="460" height="300" src="/Images/polaroids_ethan.png">
+  <img src="/Images/polaroids_ethan.png">
 </p>
 
-![Foto y firma de Ethan](/Images/polaroids_ethan.png)
 
 #### <h4>Personajes sin intereses románticos</h4>
 
@@ -175,7 +183,9 @@ Un joven artista enigmático que visita la floristería en busca de inspiración
   <li><p>Información: es pintor de corazón, pero no de profesión. Ama todo lo relacionado con el arte y las letras. Su técnica favorita es el óleo por lo que siempre se le suele ver con alguna que otra mancha en rostro y ropa. Le encanta visitar la floristería para pintar aquellas flores que más le inspiran, aunque en alguna ocasión no compre nada. Asimismo, debido a su naturaleza tranquila y filosófica, suele pasarse largos ratos mirando a la nada, pensando. Debido a esto, es difícil captar su atención lo suficiente como para mantener una conversación continua, pero cuando se consigue suelen ser conversaciones profundas. Su mayor referente artístico es Salvador Dalí. Le encantan los zuecos y la ropa holgada. </p></li>
 </ul>
 
-![Foto y firma de Pietro](/Images/polaroids_pietro.png)
+<p align="center">
+  <img src="/Images/polaroids_florista_pietro.png">
+</p>
 
 ##### <h4>Sagrario</h4>
 
@@ -199,7 +209,9 @@ Daphne es la antigua pareja de Ethan, una mujer despampanante, presumida y siemp
   <li><p>Información: Expareja de Ethan. Entra enfadada en la tienda con el objetivo de encontrar a Ethan para romper con él por su actitud infantil y maleducada al huir en plena cita. Es una mujer exuberante, de ideas fijas y claras. Ante su aparición, el jugador podrá ayudar a Ethan o delatar su posición a Daphne. </p></li>
 </ul>
 
-![Foto y firma de Daphne](/Images/polaroids_daphne.png)
+<p align="center">
+  <img src="/Images/polaroids_daphne.png">
+</p>
 
 ##### <h4>Jacob</h4>
 

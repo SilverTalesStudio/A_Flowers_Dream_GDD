@@ -542,7 +542,7 @@ Para la interfaz, se ha optado por crear una serie de assets propios con degrada
   <img width="460" src="/Images/maxresdefault.jpg">
 </p>
 
-<p align="center"><em>Referencia 4. Menús de juegos varios</em></p>
+<p align="center"><em>Referencia 5. Menús de juegos varios</em></p>
 
 Para la música, se ha utilizado mucho una tonalidad alegre y vivaz para la gran mayoría de partes con la excepción de los momentos de más tensión o tristeza. La música que se interpreta es de procedencia externa sin derechos de autor. La mayoría de los instrumentos que componen los distintos sonidos son de cuerda, percusión o de viento. Muy similar a la música clásica, para que sea ameno para el jugador sin distraer mucho del juego. 
 
@@ -667,6 +667,28 @@ En el estado actual del proyecto, no se han desarrollado todavía todos los esce
 
 A continuación, se incluye el concept art realizado para los escenarios del juego hasta el día 29 de octubre de 2022. 
 
+<ul>
+
+  **<li><p>Floristería: </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño de la floristería:  https://pin.it/2G2iOy8 
+  * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva del escenario.
+  
+<p align="center">
+<img src="/Images/Thumbnails_Floristería.png">
+</p>
+
+<p align="center"><em> Thumbnails Floristería</em></p>
+
+  * **Boceto:**
+
+**<li><p>Calle: </li></p>**
+  
+  * **Referencias:** 
+  * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva de la calle.
+  * **Boceto:**
+  
+</ul>
 
 ### <h3>8.3. Música</h3>
 Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 

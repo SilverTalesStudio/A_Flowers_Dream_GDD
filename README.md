@@ -117,7 +117,7 @@ En esta categoría, se encuentra el personaje que el jugador podrá controlar a 
 
 Tras huir de su país y dejar todo atrás debido a una situación complicada, decide cumplir su sueño y abrir una floristería en una nueva ciudad. Es amable y siempre da todo de sí misma para que todo salga bien, aunque la personalidad la decide el jugador en base a qué decisiones tome. Tiene un gato llamado Limón.
 
-#####![Foto y firma de la florista](/Images/polaroids_florista_she.png)
+![Foto y firma de la florista](/Images/polaroids_florista_she.png)
 
 #### <h4>Personajes con intereses románticos</h4>
 
@@ -132,6 +132,7 @@ Una chica joven con un pasado oscuro y una personalidad pasota. Aunque en un ini
   <li><p> Motivo para comprar flores: Sophie va a la tienda a comprar flores para animar a su hermana que se encuentra en el hospital. </p></li>
   <li><p>Información clave: Los padres de Sophie eran maltratadores. En la actualidad, vive sola con su hermana pequeña a la que cuida con mucho cariño para que no le falte nada. Este trágico pasado y el hecho de tener que tomar las riendas de la familia a tan temprana edad son los que han hecho a Sophie cerrada y desconfiada ante nuevos conocidos. Dada su situación, no tiene mucho dinero, así que siempre está pendiente del precio de las flores. Es una gran fan de la música punk y metal. Tiene una ligera adicción al tabaco. </p></li>
 </ul>
+
 ![Foto y firma de Sophie](/Images/polaroids_sophie.png)
 
 #### <h4>Allan</h4>

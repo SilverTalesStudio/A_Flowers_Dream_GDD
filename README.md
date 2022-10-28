@@ -258,15 +258,15 @@ Para los escenarios, la inspiración principal ha sido diversas referencias de l
 Para la interfaz, se ha optado por crear una serie de assets propios con degradados, dando la sensación de que los botones y los marcos son de oro, muy utilizados frecuentemente en el color para distintos juegos referentes a simulaciones de citas.
 
 <p align="center">
-  <img src="/Images/menu.jpg">
+  <img width="460" src="/Images/menu.jpg">
 </p>
 
 <p align="center">
-  <img src="/Images/referencia.png">
+  <img width="460" src="/Images/referencia.png">
 </p>
 
 <p align="center">
-  <img src="/Images/maxresdefault.jpg">
+  <img width="460" src="/Images/maxresdefault.jpg">
 </p>
 
 Para la música, se ha utilizado mucho una tonalidad alegre y vivaz para la gran mayoría de partes con la excepción de los momentos de más tensión o tristeza. La música que se interpreta es de procedencia externa sin derechos de autor. La mayoría de los instrumentos que componen los distintos sonidos son de cuerda, percusión o de viento. Muy similar a la música clásica, para que sea ameno para el jugador sin distraer mucho del juego. 
@@ -454,7 +454,7 @@ Para la interfaz de dialogo se ha utilizado la misma paleta de colores y mismo t
   <img src="/Images/DiagramaFlujos.png">
 </p>
 
-## <h2>Hija de ruta del desarrollo</h2>
+## <h2>Hoja de ruta del desarrollo</h2>
 ### <h3>Hito 1</h3>
 ### <h3>Hito 2</h3>
 ### <h3>Hito 3</h3>

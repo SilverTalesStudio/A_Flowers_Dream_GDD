@@ -5,10 +5,13 @@
 |:------------:|:-------------:|
 | Empresa | Silver Tales Studio |
 | Integrantes |  Andrea María Hodas Tortosa <br> Bárbara Amado Camuñas <br> Clara Núñez Millán <br> Cecilia Garrido Cano <br> María Busto Ramos <br> Karim Elein Castillo Ordinola |  
-| Correos corporativos | correo Andrea <br> b.amado.2019@alumnos.urjc.es <br> c.nunez.2018@alumnos.urjc.es <br> c.garridoc.2019@alumnos.urjc.es <br> m.busto.2018@alumnos.urjc.es <br> correo Karim |
-| Cuentas de GitHub | github Andrea <br> BAmado753 <br> ClaraNM <br> ceciliagarridocano <br> mariabusto <br> github Karim |
+| Correos corporativos | am.hodas.2018@alumnos.urjc.es <br> b.amado.2019@alumnos.urjc.es <br> c.nunez.2018@alumnos.urjc.es <br> c.garridoc.2019@alumnos.urjc.es <br> m.busto.2018@alumnos.urjc.es <br> ke.castillo.2017@alumnos.urjc.es |
+| Cuentas de GitHub | AndreaHodas <br> BAmado753 <br> ClaraNM <br> ceciliagarridocano <br> mariabusto <br> Mirak30 |
 | Género |  Novela visual de simulación de citas (dating sim) |
 |Plataformas| Navegador en PC y móviles | 
+
+## <h2>Versión del GDD</h2>
+Actualmente el GDD se encuentra por la versión 1.0.
 
 ## <h2>Introducción</h2>
 

@@ -47,7 +47,7 @@ Las plataformas para las que se planea desarrollar el juego son PC y móviles.
 El equipo de trabajo estaría formado por tres miembros de arte y tres miembros de programación. Las funcionalidades de los equipos serían las siguientes: 
 
 <b><p>Equipo de arte</p></b>  
-<br></br>
+
 <li><b>Concept y desarrollo de personajes (Cecilia):</b> diseño y realización de los sprites de los personajes que se incluirán en la Visual Novel.</li>  
 <br></br>
 <li><b>Concept y desarrollo de escenarios (María):</b> diseño y realización de los sprites de los escenarios de la Visual Novel (floristería, encuentros con los personajes y citas).</li> 
@@ -82,7 +82,56 @@ Por otra parte, estarían las siguientes funcionalidades que son comunes a ambos
 <li><b>Game design (todo el equipo):</b> diseño del juego y de sus mecánicas.</li> 
 
 ### <h3>5.2. Estimación temporal del desarrollo</h3>
+
+La estimación del desarrollo del proyecto viene dada en función de las tres entregas que se tienen que realizar (entrega Alfa, entrega Beta y entrega del Gold Master). Se plantea la siguiente estimación para cada una de ellas: 
+
+<p><b>Entrega Alfa (mes y medio aproximadamente): </b>es la entrega del prototipo con una funcionalidad básica. En ella se incluyen las siguientes funcionalidades:</p>  
+<li>Los primeros concepts de los personajes, los escenarios y la interfaz (4 semanas). </li>  
+
+<li>La implementación básica del login del usuario y la elección del protagonista (1 semana). </li> 
+
+<li>La inclusión de la primera semana del guión (5 semanas). </li> 
+
+<li>La implementación básica de los menús (1 semana). </li> 
+
+<li>La implementación básica del minijuego y sus funcionalidades (5 semanas). </li> 
+
+<li>Creación del portfolio de empresa (2 semanas). </li> 
+
+<li>Creación de las redes sociales de la empresa (1 semana). </li> 
+
+<p><b>Entrega Beta (3 semanas aproximadamente): </b>es la entrega del juego con todas las mecánicas incluidas corrigiendo los bugs y con todos los assets necesarios. En ella se incluyen las siguientes funcionalidades:</p>  
+
+<li>La implementación e inclusión de los personajes, los escenarios y la interfaz (2 semanas).</li>  
+
+<li>La implementación completa del login del usuario y su correspondiente selección del protagonista (1 semana). </li> 
+
+<li>La inclusión completa del guión y su correspondiente optimización (2 semanas). </li> 
+
+<li>La implementación completa de los menús y el sistema de guardado (2 semanas). </li> 
+
+<li>La implementación del sistema de pausa (1 semana).  </li> 
+
+<li>La implementación completa y optimización del minijuego y el sistema de pedidos (2 semanas). </li> 
+
+<p><b>Entrega del Gold Master (1 mes aproximadamente): </b>es la entrega del juego terminado lo más optimizado posible y con todo el arte incluido. En ella se incluyen las siguientes funcionalidades:</p>  
+
+<li>Mejora del videojuego y de su rejugabilidad (2 - 3 semanas). </li> 
+
+<li>Realización de la etapa de Polishing (4 semanas). </li> 
+
+
 ### <h3>5.3. Costes asociados</h3>
+
+En el caso de este proyecto, los únicos costes que se tienen durante el desarrollo del mismo son las licencias de Adobe Illustrator y Adobe Photoshop, Clip Studio Paint y Procreate, que tienen los siguientes costes: 
+
+<li><b>Adobe Illustrator y Adobe Photoshop:</b> coste de 125, 98€ al mes (dos licencias).</li> 
+
+<li><b>Clip Studio Paint:</b> coste de 42,00€ en un único pago (una licencia).</li> 
+
+<li><b>Procreate:</b> coste de 23,98€ en un único pago (dos licencias).</li> 
+
+El resto de los softwares usados son gratuitos (GitHub y Yarn Spinner) o con una licencia gratuita hasta que no se obtenga una venta del producto por una cantidad de dinero determinada (caso de Unity), por lo que no se tienen costes asociados a estos. 
 
 ## <h2>6. Mecánicas de juego y elementos de juego</h2>
 ### <h3>6.1. Descripción detallada del concepto de juego</h3>

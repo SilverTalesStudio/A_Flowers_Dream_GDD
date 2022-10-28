@@ -117,8 +117,13 @@ Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una pe
 | Blanco | Rojo | Seducción, amor secreto | Buena suerte, buenas noticias -- Pureza del corazón |
 
 ### <h3>6.3. Controles</h3>
-### <h3>6.4. Niveles y misiones</h3>
-### <h3>6.5. Objetos, armas y power ups</h3>
+### <h3>6.4. Capítulos</h3>
+*A Flower’s Dream: The Beginning* consta de 4 capítulos que coinciden con la duración de 4 semanas en el juego, es decir, cada capítulo es una semana. 
+
+Cada capítulo tiene la misma estructura, el jugador experimenta 3 o 4 días de trabajo en la floristería donde va conociendo a los personajes. El sábado hay siempre una llamada con la amiga del protagonista a modo de resumen de la semana donde se muestra el progreso de la relación del jugador con el resto de los personajes. Según el desarrollo que haga en el día a día, ocurre una cita el fin de semana. 
+
+### <h3>6.5. Niveles y misiones</h3>
+### <h3>6.6. Objetos, armas y power ups</h3>
 
 ## <h2>7. Trasfondo</h2>
 ### <h3>7.1. Descripción detallada de la historia y la trama</h3>
@@ -392,7 +397,7 @@ Limón es el gato del protagonista. Es la única compañía que tiene al comienz
 
 </ul>
 
-### <h3>Entornos y lugares</h3>
+### <h3>7.4. Entornos y lugares</h3>
 
 ## <h2>8. Arte</h2>
 
@@ -439,7 +444,7 @@ El objetivo de todo el apartado artístico es hacer sentir al jugador lo más in
 
 ####<h4>8.2.1. Imagen corporativa</h4>
 
-Logo del juego
+**Logo del juego:**
 
 <p align="center">
   <img src="/Images/logo_juego_thick_500px.png">
@@ -467,9 +472,9 @@ Logo de la empresa
 <p align="center"><em>Logo del estudio </em></p>
 
 ####<h4>8.2.2. Los Personajes</h4>
-En el estado actual del proyecto, la mayoría de los personajes están en proceso de desarrollo. Las imágenes que se incluyen a continuación contienen el concept art que hay hasta el día 27 de octubre realizado. Los <em>beautys</em> de cada personaje componen el <em>Sprite principal</em> de cada personaje. 
+En el estado actual del proyecto, la mayoría de los personajes están en proceso de desarrollo. Las imágenes que se incluyen a continuación contienen el concept art que hay hasta el día 27 de octubre. Los <em>beautys</em> de cada personaje componen el <em>Sprite principal</em> de cada personaje. 
 
-<b>La florista (fem).</b>
+* <b>La Florista (fem).</b>
 <p align="center">
   <img src="/Images/pjs_floristafem_siluetas.PNG">
 </p>
@@ -489,14 +494,14 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <p align="center"><em> Beauty final y pruebas de color - Florista (fem)</em></p>
 
-<b>Sophie</b>
+* <b>Sophie</b>
 <p align="center">
   <img src="/Images/pjs_sophie_desarrollo.png">
 </p>
 
 <p align="center"><em> Desarrollo actual de Sophie</em></p>
 
-<b>Allan</b>
+* <b>Allan</b>
 <p align="center">
   <img src="/Images/pjs_allan_siluetas.PNG">
 </p>
@@ -510,14 +515,14 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <p align="center"><em>Ilustración  Desarrollo actual de Allan</em></p>
 
-<b>Ethan</b>
+* <b>Ethan</b>
 <p align="center">
   <img src="/Images/pjs_ethan_desarrollo.png">
 </p>
 
 <p align="center"><em> Proceso actual - Ethan</em></p>
 
-<b>Pietro</b>
+* <b>Pietro</b>
 <p align="center">
   <img src="/Images/pjs_pietro_siluetas.PNG">
 </p>
@@ -541,12 +546,18 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center"><em> Beauty final - Pietro</em></p>
 
 
-<b>Daphne</b>
+* <b>Daphne</b>
 <p align="center">
   <img src="/Images/pjs_daphne_desarrollo.PNG">
 </p>
 
 <p align="center"><em> Proceso actual - Daphne</em></p>
+
+####<h4>8.2.3. Escenarios</h4>
+
+En el estado actual del proyecto, no se han desarrollado todavía todos los escenarios. Únicamente se han explorado mediante thumbnails y se han generado bocetos de algunos de los escenarios incluidos en la primera semana del videojuego.  
+
+A continuación, se incluye el concept art realizado para los escenarios del juego hasta el día 29 de octubre de 2022. 
 
 
 ### <h3>8.3. Música</h3>
@@ -665,7 +676,7 @@ Como se puede apreciar en los distintos menús usados de *Referencias 2* se opt�
   <img src="/Images/Nombres.png">
 </p>
 
-Algunos botones: 
+* <b>Algunos botones:</b>: 
 
 <p align="center">
   <img src="/Images/PartidaNueva.png">
@@ -690,7 +701,7 @@ Como se puede apreciar el predominante es el color dorado en degradado y el marr
 
 Se ha personalizado los botones de las redes sociales para que coincidan con lo que es la estética en si del juego. También se ha utilizado mucho las referencias florales como pequeños detalles debido a la procedencia de la temática del juego que es sobre flores en términos generales. 
 
-<b>Paleta de colores</b>: 
+* <b>Paleta de colores</b>: 
 
 <p align="center">
   <img src="/Images/paletaColor.png">

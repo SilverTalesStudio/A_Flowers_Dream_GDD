@@ -304,7 +304,7 @@ Logo del juego
   <img src="/Images/logo_juego_thick_500px.png">
 </p>
 
-<p align="center"><em>Ilustración 1 Logo del juego</em></p>
+<p align="center"><em>Logo del juego</em></p>
 
 
 <p align="center">

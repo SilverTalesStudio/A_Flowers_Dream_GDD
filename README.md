@@ -122,8 +122,7 @@ Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una pe
 
 ## <h2>7. Trasfondo</h2>
 ### <h3>7.1. Descripción detallada de la historia y la trama</h3>
-En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 6. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.
-
+En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 6. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.  
 
 El inicio del videojuego introduce a el/la Florista, el protagonista de la historia y el personaje que controla el jugador. Para facilitar la explicación de la historia, en este caso se va a asumir el control de la Florista femenina.  
 
@@ -197,8 +196,7 @@ El viernes visita la floristería Pietro. Si el jugador tiene buena afinidad con
 
 Este mismo día se produce un evento especialmente importante para la historia. Jacob, la expareja de la Florista, visita la tienda. Tras investigar sobre el paradero de la Florista ante su misteriosa desaparición, ha descubierto dónde estaba. Enfadado por todo, la acusa en voz alta delante de todos los clientes y la exige volver con él a su antiguo hogar. En este punto, dependiendo del interés romántico con el que el jugador tenga mayor afinidad, se producirá una escena diferente.  
 
-Para finalizar la tercera semana, la Florista vuelve a hablar con su amiga para que el jugador pueda obtener un resumen del nivel de afinidad con cada personaje. El jugador puede quedar con Ethan, con Sophie, o con Allan.  
-
+Para finalizar la tercera semana, la Florista vuelve a hablar con su amiga para que el jugador pueda obtener un resumen del nivel de afinidad con cada personaje. El jugador puede quedar con Ethan, con Sophie, o con Allan.
 
 Por último, en la cuarta semana se definirán los finales con cada personaje en función de la afinidad obtenida.  
 
@@ -269,10 +267,13 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 En esta categoría, se encuentra el personaje que el jugador podrá controlar a lo largo de la Visual Novel. Mediante la toma de decisiones en puntos clave, el jugador decidirá no solo la personalidad del protagonista, sino también el desarrollo y profundidad de las relaciones con el resto de los personajes. Es importante destacar la libertad del jugador a la hora de seleccionar el género del personaje: mujer, hombre, o no binario. 
 
-#### <h4>El/la florista</h4>
+<ul>
+
+**<li><p>El/La Florista:</li></p>**
 
 Tras huir de su país y dejar todo atrás debido a una situación complicada, decide cumplir su sueño y abrir una floristería en una nueva ciudad. Es amable y siempre da todo de sí misma para que todo salga bien, aunque la personalidad la decide el jugador en base a qué decisiones tome. Tiene un gato llamado Limón.
 
+</ul>
 
 <p align="center">
   <img src="/Images/polaroids_florista_she.png">
@@ -282,29 +283,27 @@ Tras huir de su país y dejar todo atrás debido a una situación complicada, de
 
 En esta categoría, se encuentran los personajes no jugables con los que el jugador puede interactuar de forma romántica. Si el jugador selecciona aquellas respuestas que mejor encajan con la personalidad y forma de ser de cada uno de estos personajes, su afinidad subirá y su relación avanzará. Aquel interés romántico con el que tenga mayor afinidad al final del juego será con el que termine teniendo una relación amorosa. Los personajes con intereses románticos presentan tres tipos de finales: bueno (relación amorosa), neutral y malo. 
 
-#### <h4>Sophie</h4>
+<ul>
+
+**<li><p>Sophie:</li></p>**
 
 Una chica joven con un pasado oscuro y una personalidad pasota. Aunque en un inicio el personaje se presentará frío y borde con el jugador, poco a poco irá contando su historia y abriendo su corazón tras el cual se esconde una chica entregada a su familia más cercana, su hermana pequeña. 
 
+* **Motivo para comprar flores:** Sophie va a la tienda a comprar flores para animar a su hermana que se encuentra en el hospital.
+* **Información clave:** Los padres de Sophie eran maltratadores. En la actualidad, vive sola con su hermana pequeña a la que cuida con mucho cariño para que no le falte nada. Este trágico pasado y el hecho de tener que tomar las riendas de la familia a tan temprana edad son los que han hecho a Sophie cerrada y desconfiada ante nuevos conocidos. Dada su situación, no tiene mucho dinero, así que siempre está pendiente del precio de las flores. Es una gran fan de la música punk y metal. Tiene una ligera adicción al tabaco.
 
-<ul>
-  <li><p> Motivo para comprar flores: Sophie va a la tienda a comprar flores para animar a su hermana que se encuentra en el hospital. </p></li>
-  <li><p>Información clave: Los padres de Sophie eran maltratadores. En la actualidad, vive sola con su hermana pequeña a la que cuida con mucho cariño para que no le falte nada. Este trágico pasado y el hecho de tener que tomar las riendas de la familia a tan temprana edad son los que han hecho a Sophie cerrada y desconfiada ante nuevos conocidos. Dada su situación, no tiene mucho dinero, así que siempre está pendiente del precio de las flores. Es una gran fan de la música punk y metal. Tiene una ligera adicción al tabaco. </p></li>
-</ul>
 
 <p align="center">
   <img src="/Images/polaroids_sophie.png">
 </p>
 
-#### <h4>Allan</h4>
+**<li><p>Allan:</li></p>**
 
 Un chico bondadoso y de gran corazón. Es amante de la naturaleza y por ello tiene un amplio conocimiento sobre esta. En todo momento se mostrará cercano al jugador, especialmente al hablar sobre flores y plantas, algo que ambos tienen en común. A pesar de ello, es algo inseguro y se avergüenza con facilidad al recibir ciertos comentarios coquetos. 
 
+* **Motivo para comprar flores:** Allan visita la floristería debido a su gran amor por las plantas. Principalmente, compra flores porque le gustan y quiere decorar su casa. 
+* **Información clave:** Allan es un chico bueno y humilde. Trabaja en un supermercado cercano a la floristería. Dado su gran corazón e inseguridad, muchas personas intentan aprovecharse de él, incluido su jefe que le explota en el trabajo. Le cuesta dar la cara por sí mismo. Una de sus grandes virtudes es su amplio conocimiento sobre plantas y flores debido a su amor por la naturaleza. Le encanta pasar tiempo al aire libre. Visitará la floristería con frecuencia para adquirir más flores para su casa, incluso llegando a preguntar por flores exóticas o difíciles de conseguir. Al hablar con el/la protagonista sobre plantas se emociona, pues siente que le comprenden. Le gusta el deporte y se encuentra en buena forma. 
 
-<ul>
-  <li><p>Motivo para comprar flores: Allan visita la floristería debido a su gran amor por las plantas. Principalmente, compra flores porque le gustan y quiere decorar su casa. </p></li>
-  <li><p>Información clave: Allan es un chico bueno y humilde. Trabaja en un supermercado cercano a la floristería. Dado su gran corazón e inseguridad, muchas personas intentan aprovecharse de él, incluido su jefe que le explota en el trabajo. Le cuesta dar la cara por sí mismo. Una de sus grandes virtudes es su amplio conocimiento sobre plantas y flores debido a su amor por la naturaleza. Le encanta pasar tiempo al aire libre. Visitará la floristería con frecuencia para adquirir más flores para su casa, incluso llegando a preguntar por flores exóticas o difíciles de conseguir. Al hablar con el/la protagonista sobre plantas se emociona, pues siente que le comprenden. Le gusta el deporte y se encuentra en buena forma. </p></li>
-</ul>
 
 
 <p align="center">
@@ -312,83 +311,86 @@ Un chico bondadoso y de gran corazón. Es amante de la naturaleza y por ello tie
 </p>
 
 
-#### <h4>Ethan</h4>
+**<li><p>Ethan:</li></p>**
 
 Un joven de apariencia hermosa y carácter coqueto, Ethan siempre se encuentra de cita en cita conquistando a nueva gente. Tiene don de gente y siempre se le ve feliz, aunque detrás de esa faceta seductora y amigable se esconde algo más: su verdadero yo. 
 
-<ul>
-  <li><p>Motivo para comprar flores: Ethan compra flores para regalárselas a sus citas. Dado que generalmente sus relaciones duran poco y siempre se encuentra de cita en cita, visita con frecuencia la floristería. </p></li>
-  <li><p>Información clave: Ethan es un chico extrovertido y muy preocupado por su apariencia. Le gusta vestir a la última moda y que su cara se vea hermosa, aunque ya lo es por naturaleza. Siempre se encuentra rodeado de gente y yendo de un lugar para otro. Por su naturaleza coqueta y seductora, suele tener muchos admiradores y admiradoras con los que termina teniendo alguna relación, aunque breve. De hecho, es habitual que muchas de estas no terminen bien. Este carácter hará que se gane el apodo de “Eros” por parte del protagonista. En realidad, toda esta obsesión con la apariencia se debe a su poca autoestima y miedo a la soledad. Se esconde detrás de una máscara ocultando su verdadero ser y gustos, como la cocina o la lectura. También, tiene miedo al compromiso y tiende a huir ante relaciones serias. </p></li>
-</ul>
+* **Motivo para comprar flores:** Ethan compra flores para regalárselas a sus citas. Dado que generalmente sus relaciones duran poco y siempre se encuentra de cita en cita, visita con frecuencia la floristería.
+* **Información clave:** Ethan es un chico extrovertido y muy preocupado por su apariencia. Le gusta vestir a la última moda y que su cara se vea hermosa, aunque ya lo es por naturaleza. Siempre se encuentra rodeado de gente y yendo de un lugar para otro. Por su naturaleza coqueta y seductora, suele tener muchos admiradores y admiradoras con los que termina teniendo alguna relación, aunque breve. De hecho, es habitual que muchas de estas no terminen bien. Este carácter hará que se gane el apodo de “Eros” por parte del protagonista. En realidad, toda esta obsesión con la apariencia se debe a su poca autoestima y miedo a la soledad. Se esconde detrás de una máscara ocultando su verdadero ser y gustos, como la cocina o la lectura. También, tiene miedo al compromiso y tiende a huir ante relaciones serias. 
 
 <p align="center">
   <img src="/Images/polaroids_ethan.png">
 </p>
 
+</ul>
 
 #### <h4>7.3.3. Personajes sin intereses románticos</h4>
 
 Aquí se encuentran aquellos personajes no jugables que participan en la historia, pero de forma menos relevante. El jugador puede interactuar con estos personajes cuando visitan la tienda para realizar pedidos y puede desarrollar en mayor o menor medida su relación con estos en función de sus decisiones. Sin embargo, las tramas de estos personajes son secundarias y no son intereses amorosos por lo que al final del juego el jugador no podrá tener una relación romántica con ellos, aunque su afinidad sea elevada. El principal objetivo de estos personajes es la realización de pedidos y desarrollo de historias secundarias. Estos personajes, a diferencia de aquellos principales, presentan únicamente dos finales en la historia. La naturaleza de estos varía en función del personaje.  
 
-##### <h4>Pietro</h4>
+<ul>
+
+**<li><p>Pietro:</li></p>**
 
 Un joven artista enigmático que visita la floristería en busca de inspiración y flores que poder pintar. Se caracteriza por su aura calmada y una forma extraña y filosófica de hablar provocando que a veces la gente no entienda lo que quiere decir. 
 
-<ul>
-  <li><p>Motivo para comprar flores: Pietro suele comprar flores con la intención de pintar bodegones o escenas inspiradas en estas en su casa. </p></li>
-  <li><p>Información: es pintor de corazón, pero no de profesión. Ama todo lo relacionado con el arte y las letras. Su técnica favorita es el óleo por lo que siempre se le suele ver con alguna que otra mancha en rostro y ropa. Le encanta visitar la floristería para pintar aquellas flores que más le inspiran, aunque en alguna ocasión no compre nada. Asimismo, debido a su naturaleza tranquila y filosófica, suele pasarse largos ratos mirando a la nada, pensando. Debido a esto, es difícil captar su atención lo suficiente como para mantener una conversación continua, pero cuando se consigue suelen ser conversaciones profundas. Su mayor referente artístico es Salvador Dalí. Le encantan los zuecos y la ropa holgada. </p></li>
-</ul>
+* **Motivo para comprar flores:** Pietro suele comprar flores con la intención de pintar bodegones o escenas inspiradas en estas en su casa.
+* **Información clave:** es pintor de corazón, pero no de profesión. Ama todo lo relacionado con el arte y las letras. Su técnica favorita es el óleo por lo que siempre se le suele ver con alguna que otra mancha en rostro y ropa. Le encanta visitar la floristería para pintar aquellas flores que más le inspiran, aunque en alguna ocasión no compre nada. Asimismo, debido a su naturaleza tranquila y filosófica, suele pasarse largos ratos mirando a la nada, pensando. Debido a esto, es difícil captar su atención lo suficiente como para mantener una conversación continua, pero cuando se consigue suelen ser conversaciones profundas. Su mayor referente artístico es Salvador Dalí. Le encantan los zuecos y la ropa holgada.
 
 <p align="center">
   <img src="/Images/polaroids_pietro.png">
 </p>
 
-##### <h4>Sagrario</h4>
+**<li><p>Sagrario:</li></p>**
 
-Mujer mayor con una pareja homosexual.
+Mujer mayor muy misteriosa y cerrada. Tiene un gran motivo para ir a comprar flores a la tienda, pero le cuesta dar esa información al protagonista haciendo que a veces los pedidos sean algo ambiguos. Su novia vive bastante lejos, pero se mantiene continuamente en contacto con ella mediante cartas.
 
-<ul>
-  <li><p>Motivo para comprar flores: compra flores para poder prensarlas y decorar las cartas que le manda a su pareja que vive lejos. </p></li>
-  <li><p>Información: Sagrario es una mujer mayor COMPLETAR. suele leer al personaje fragmentos de las cartas para ayudarle a encontrar las flores adecuadas para el mensaje que quiere transmitir. </p></li>
+* **Motivo para comprar flores:** compra flores para poder prensarlas y decorar las cartas que le manda a su pareja que vive lejos. 
+* **Información clave:** Sagrario es una mujer mayor misteriosa y a la que le cuesta confiar en los demás. Es amante de las cosas tradicionales como la mensajería por carta mediante la cual se mantiene en contacto con su novia. Al principio, no sabe si confiar en el/la protagonista por lo que los pedidos suelen ser bastante ambiguos. Sin embargo, a medida que aumente la afinidad irá descubriendo más sobre su historia y el verdadero propósito de sus visitas a la floristería. Suele leer al personaje fragmentos de las cartas para ayudarle a encontrar las flores adecuadas para el mensaje que quiere transmitir.
+
 </ul>
 
 #### <h4>7.3.4. Personajes secundarios</h4>
 
 Son personajes que aparecen en momentos puntuales de la trama en la floristería y con los que el jugador interactúa de forma breve. Su objetivo no es el desarrollo de relaciones, sino mejorar y facilitar el progreso de la trama. De entre estos personajes, el más importante a destacar es Jacob, la expareja del protagonista, que aparecerá en un punto clave de la historia. 
 
-##### <h4>Daphne</h4>
+<ul>
+
+**<li><p>Daphne:</li></p>**
 
 Daphne es la antigua pareja de Ethan, una mujer despampanante, presumida y siempre a la moda. 
 
-<ul>
-  <li><p>Motivo de aparición: Daphne irrumpe en la floristería en busca de Ethan el cual se encuentra escondido tras el mostrador intentado ocultarse de ella tras su huida durante la cita. </p></li>
-  <li><p>Información: Expareja de Ethan. Entra enfadada en la tienda con el objetivo de encontrar a Ethan para romper con él por su actitud infantil y maleducada al huir en plena cita. Es una mujer exuberante, de ideas fijas y claras. Ante su aparición, el jugador podrá ayudar a Ethan o delatar su posición a Daphne. </p></li>
-</ul>
+* **Motivo de aparición:** Daphne irrumpe en la floristería en busca de Ethan el cual se encuentra escondido tras el mostrador intentado ocultarse de ella tras su huida durante la cita.
+* **Información clave:** Expareja de Ethan. Entra enfadada en la tienda con el objetivo de encontrar a Ethan para romper con él por su actitud infantil y maleducada al huir en plena cita. Es una mujer exuberante, de ideas fijas y claras. Ante su aparición, el jugador podrá ayudar a Ethan o delatar su posición a Daphne.
 
 <p align="center">
   <img src="/Images/polaroids_daphne.png">
 </p>
 
-##### <h4>Jacob</h4>
+**<li><p>Jacob:</li></p>**
 
 Jacob es la expareja del protagonista de la historia. Tenía una relación tóxica de varios años con él/ella. Es la principal razón de su huida a la nueva ciudad.  
 
-<ul>
-  <li><p>Motivo de aparición: Jacob aparece en la floristería tras varias semanas de encontrarse el/la protagonista viviendo en la nueva ciudad. Ante la huida inesperada del protagonista, Jacob investiga sobre su paradero hasta dar con la tienda. Su principal objetivo es buscar explicaciones y llevarse de vuelta a su “hogar” a el/la protagonista para continuar su “relación”. </p></li>
-  <li><p>Información: Expareja del protagonista. Tuvo una relación de varios años con el/la protagonista. Su actitud siempre fue tóxica y no dejaba al protagonista expresarse y ser libre, siempre menospreciándole. Gracias a la ayuda de amigos y familiares, el/la protagonista pudo finalmente terminar la relación y huir a un nuevo hogar sin que Jacob supiera nada. Es una persona insegura, irascible y orgullosa. No le gusta que le lleven la contraria. Al enterarse de lo que había pasado, estalló en ira y decidió investigar sobre su paradero. </p></li>
+* **Motivo de aparición:** Jacob aparece en la floristería tras varias semanas de encontrarse el/la protagonista viviendo en la nueva ciudad. Ante la huida inesperada del protagonista, Jacob investiga sobre su paradero hasta dar con la tienda. Su principal objetivo es buscar explicaciones y llevarse de vuelta a su “hogar” a el/la protagonista para continuar su “relación”.
+* **Información clave:** Expareja del protagonista. Tuvo una relación de varios años con el/la protagonista. Su actitud siempre fue tóxica y no dejaba al protagonista expresarse y ser libre, siempre menospreciándole. Gracias a la ayuda de amigos y familiares, el/la protagonista pudo finalmente terminar la relación y huir a un nuevo hogar sin que Jacob supiera nada. Es una persona insegura, irascible y orgullosa. No le gusta que le lleven la contraria. Al enterarse de lo que había pasado, estalló en ira y decidió investigar sobre su paradero. 
+
 </ul>
 
 #### <h4>7.3.5. Personajes de apoyo</h4>
 
 En último lugar, se encuentran los personajes de apoyo. Estos son personajes que no aparecen en la floristería, pero con los que el personaje puede hablar e interactuar de otras maneras. El principal objetivo de estos personajes es aportar algún tipo de feedback al jugador a modo de resumen de la historia. 
 
-##### <h4>Leah</h4>
+<ul>
+
+**<li><p>Leah:</li></p>**
 
 Leah es la amiga incondicional del protagonista. La conoce desde la infancia y es su conexión con su antigua vida y hogar. Se siente muy agradecida con ella por el gran apoyo y ayuda que le brindó ante la situación compleja con su expareja. Leah es extrovertida, habladora y curiosa. Contacta con el/la protagonista los fines de semana para preguntarle sobre su vida y el desarrollo de su relación con los personajes. En caso de no quedar con ninguno de los personajes en fin de semana, el/la protagonista queda con ella.  
 
-##### <h4>Limón</h4>
+**<li><p>Limón:</li></p>**
 
 Limón es el gato del protagonista. Es la única compañía que tiene al comienzo de la historia. En muchas ocasiones, el/la protagonista habla con él dando pie a que exprese sus pensamientos en voz alta. 
+
+</ul>
 
 ### <h3>Entornos y lugares</h3>
 

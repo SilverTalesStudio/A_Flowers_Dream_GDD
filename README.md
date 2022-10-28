@@ -74,7 +74,7 @@ La siguiente tabla recoge las 20 flores incluidas en el minijuego de la floriste
 | Nombre | Color | Sentimiento | Referencia |
 |:------------:|:-------------:|:-------------:|:-------------:|
 | Dalia Malva | Malva | Agradecimiento y gratitud | Imagen |
-| Campánula | Morada | Agradecimiento y gratitud | ![Campánula!] (/images/FloresJuego/Campanula.png) |
+| Campánula | Morada | Agradecimiento y gratitud | ![Campánula!] (/Images/FloresJuego/Campanula.png) |
 | Ciclamen | Rosa | Decepción, desconfianza | Imagen |
 | Jazmín blanco | Blanca | Amistad | Imagen |
 | Rosa amarilla | Amarilla | Amistad | Imagen |

@@ -277,77 +277,77 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 
 Entornos no románticos 
 
-Floristería: El ambiente tiene que ser ameno, alegre, positivo, muy al estilo clásico. Es donde se va a efectuar la jugabilidad de las flores por lo que tiene que ser música muy relajante y a la vez que no sobresalga demasiado para que no distraiga al jugador, pero si para que se sienta a gusto como se sentiría el protagonista del juego. 
+<li><p>Floristería: El ambiente tiene que ser ameno, alegre, positivo, muy al estilo clásico. Es donde se va a efectuar la jugabilidad de las flores por lo que tiene que ser música muy relajante y a la vez que no sobresalga demasiado para que no distraiga al jugador, pero si para que se sienta a gusto como se sentiría el protagonista del juego. </p></li>
 
  
 
-Calle: Más bullicioso y movido para dar sensación de multitud y de salida, acompañada de efectos sonoros de personas andando y hablando por el fondo sin llegar a desorientar o perturbar al jugador. 
+<li><p>Calle: Más bullicioso y movido para dar sensación de multitud y de salida, acompañada de efectos sonoros de personas andando y hablando por el fondo sin llegar a desorientar o perturbar al jugador. </p></li>
 
  
 
-Casa del personaje: Es más tranquila y acogedora, después de todo es la casa del personaje, algo así como su fortaleza o santuario personal en el cual puede descansar después de su día a día. 
+<li><p>Casa del personaje: Es más tranquila y acogedora, después de todo es la casa del personaje, algo así como su fortaleza o santuario personal en el cual puede descansar después de su día a día. </p></li>
 
  
 
-Tienda: Música más típica de tiendas de conveniencia, siendo la más neutral de todas. La típica tienda donde ponen música de la radio o actuales de forma de ambiente un poco baja para no incomodar a los clientes. 
+<li><p>Tienda: Música más típica de tiendas de conveniencia, siendo la más neutral de todas. La típica tienda donde ponen música de la radio o actuales de forma de ambiente un poco baja para no incomodar a los clientes. </p></li>
 
  
 
 Entornos para las citas 
 
-Cine: Se ha optado por un inicio de música de ambiente de la calle para pasar a un silencio y a sonidos típicos de película de terror debido a la historia lo amerita, también hay efectos sonoros de personas murmullando y alguno que otro grito de miedo. 
+<li><p>Cine: Se ha optado por un inicio de música de ambiente de la calle para pasar a un silencio y a sonidos típicos de película de terror debido a la historia lo amerita, también hay efectos sonoros de personas murmullando y alguno que otro grito de miedo. </p></li>
 
  
 
-Jardín botánico: En este jardín se tiene que demostrar positivismo y alegría muy similares a la floristería, pero más movida y dinámica porque se encuentran de paseo en dicho lugar. 
+<li><p>Jardín botánico: En este jardín se tiene que demostrar positivismo y alegría muy similares a la floristería, pero más movida y dinámica porque se encuentran de paseo en dicho lugar. </p></li>
 
  
 
-Bar: El ambiente es más coloquial y divertido así que la parte sonora tiene más dinamismo y alegría típica que puede haber en un bar. Los efectos sonoros son gente murmurando, choque de vasos de cristal y algunas risas mezcladas de fondo. 
+<li><p>Bar: El ambiente es más coloquial y divertido así que la parte sonora tiene más dinamismo y alegría típica que puede haber en un bar. Los efectos sonoros son gente murmurando, choque de vasos de cristal y algunas risas mezcladas de fondo.</p></li> 
 
  
 
-Concierto: Se ha optado por buscar música de rock muy movida que este muy de fondo y los gritos de celebración de las personas que estarían también en dicho concierto. Es mucho más movida debido al escenario en el que nos encontramos. 
+<li><p>Concierto: Se ha optado por buscar música de rock muy movida que este muy de fondo y los gritos de celebración de las personas que estarían también en dicho concierto. Es mucho más movida debido al escenario en el que nos encontramos. </p></li>
 
  
 
-Bosque: Muy similar a la del jardín Botánico, pero siendo más libre, más relajada y natural para evocar espacio abierto y mucha naturaleza. Para los efectos sonoros se pondrán pequeños sonidos de aves diversas y el viento. 
+<li><p>Bosque: Muy similar a la del jardín Botánico, pero siendo más libre, más relajada y natural para evocar espacio abierto y mucha naturaleza. Para los efectos sonoros se pondrán pequeños sonidos de aves diversas y el viento. </p></li>
 
  
 
-Acuario: Más orientada a lo acuático, profundo, pero manteniendo la alegría porque está en una cita nuestro protagonista. Los efectos sonoros son personas hablando y murmurando junto con algún efecto marino como pueden ser burbujas o algún sonido de focas o pingüinos. 
+<li><p>Acuario: Más orientada a lo acuático, profundo, pero manteniendo la alegría porque está en una cita nuestro protagonista. Los efectos sonoros son personas hablando y murmurando junto con algún efecto marino como pueden ser burbujas o algún sonido de focas o pingüinos. </p></li>
 
 Efectos Sonoros 
 
 Una lista de los efectos sonoros necesarios: 
 
-Gente murmurando 
+<li><p>Gente murmurando </p></li>
 
-Gente hablando 
+<li><p>Gente hablando </p></li>
 
-Gente gritando o/y asustada 
+<li><p>Gente gritando o/y asustada </p></li>
 
-Gente riendo 
+<li><p>Gente riendo </p></li>
 
-Gente caminando 
+<li><p>Gente caminando </p></li>
 
-Sonidos de gato 
+<li><p>Sonidos de gato </p></li>
 
-Sonido de puertas de madera/automáticas abriéndose 
+<li><p>Sonido de puertas de madera/automáticas abriéndose </p></li>
 
-Sonido de pisadas en distintos ambientes 
+<li><p>Sonido de pisadas en distintos ambientes </p></li>
 
-Sonidos marinos 
+<li><p>Sonidos marinos </p></li>
 
-Sonidos de timbre/campanilla 
+<li><p>Sonidos de timbre/campanilla </p></li>
 
-Sonidos de animales: pájaros 
+<li><p>Sonidos de animales: pájaros </p></li>
 
-Sonidos de golpes 
+<li><p>Sonidos de golpes </p></li>
 
-Sonido de viento y hojas moviéndose 
+<li><p>Sonido de viento y hojas moviéndose </p></li>
 
-Sonido del chocar de copas 
+<li><p>Sonido del chocar de copas </p></li>
 
  
 
@@ -355,23 +355,24 @@ Personajes
 
 Al igual que los lugares también se incluye un leitmotiv para cada uno de los personajes interactuables y más importantes del juego. 
 
-Allan: Al ser el personaje más agradable y majo de los pretendientes la música que le acompaña es alegre y tranquila.  
+<li><p>Allan: Al ser el personaje más agradable y majo de los pretendientes la música que le acompaña es alegre y tranquila.  </p></li>
 
  
 
-Pietro: Al ser un personaje excéntrico y un poco extraño se ha optado por ponerle música clásica estridente sin ser demasiado llamativa.  
+<li><p>Pietro: Al ser un personaje excéntrico y un poco extraño se ha optado por ponerle música clásica estridente sin ser demasiado llamativa.  </p></li>
 
  
 
-Ethan: Es el ligón del grupo por lo que se le asigna una música alegre y provocadora y suave. 
+<li><p>Ethan: Es el ligón del grupo por lo que se le asigna una música alegre y provocadora y suave. </p></li>
 
  
 
-Sophie: Al principio es muy dura con el protagonista debido a su personalidad poco confiada, pero al pasar el tiempo es más amable. Ella pasa de una música más fuerte y desafiante a una más dulce y alegre. 
+<li><p>Sophie: Al principio es muy dura con el protagonista debido a su personalidad poco confiada, pero al pasar el tiempo es más amable. Ella pasa de una música más fuerte y desafiante a una más dulce y alegre. </p></li>
 
  
 
-Sagrario: La dulce abuelita tiene un tono alegre, pero también más calmado y de tonalidades relajantes que evocan paz. 
+<li><p>Sagrario: La dulce abuelita tiene un tono alegre, pero también más calmado y de tonalidades relajantes que evocan paz. </p></li>
+
 ## <h2>Interfaz</h2>
 ### <h3>Diseño básico de los menús</h3>
 Como se puede apreciar en los distintos menús usados de Referencias 2 se optó por usar el dorado como base para todo lo que es interfaz. Aunque antes de llegar a esta temática se pasaron por varios procesos. 

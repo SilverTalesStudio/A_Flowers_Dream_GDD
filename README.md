@@ -47,26 +47,38 @@ Las plataformas para las que se planea desarrollar el juego son PC y móviles.
 El equipo de trabajo estaría formado por tres miembros de arte y tres miembros de programación. Las funcionalidades de los equipos serían las siguientes: 
 
 <b><p>Equipo de arte</p></b>  
-
+<br></br>
 <li><b>Concept y desarrollo de personajes (Cecilia):</b> diseño y realización de los sprites de los personajes que se incluirán en la Visual Novel.</li>  
+<br></br>
 <li><b>Concept y desarrollo de escenarios (María):</b> diseño y realización de los sprites de los escenarios de la Visual Novel (floristería, encuentros con los personajes y citas).</li> 
+<br></br>
 <li><b>Concept y desarrollo de la interfaz (Karim):</b> diseño y realización de los sprites correspondientes a la interfaz (textos, botones, etc.).</li> 
+<br></br>
 <li><b>Portfolio de la empresa (Karim y María):</b> diseño y creación del portfolio de la empresa en Github pages.</li>
+<br></br>
 <li><b>Redes sociales (Cecilia):</b> actualización de las redes sociales y subida de comentarios y encuestas sobre los personajes.</li>
+<br></br>
 <li><b>Búsqueda de Música (Karim):</b> búsqueda de los distintos efectos sonoros y música ambiental para cada situación y personaje.</li>
-
+<br></br>
 
 <b><p>Equipo de desarrollo</p></b>  
 
 <li><b>Implementación de los menús (Bárbara):</b> programación de los menús de inicio (menú, pantalla de créditos, galería, etc.) y de contacto del juego.</li> 
+<br></br>
 <li><b>Desarrollo de la Visual Novel y pausa (Clara):</b> programación de la Visual Novel a partir del guión e implementación de la pausa.</li> 
+<br></br>
 <li><b>Desarrollo del minijuego (Andrea y Bárbara):</b> implementación del sistema de pedidos y el sistema de realización de los ramos de flores durante el minijuego.</li> 
+<br></br>
 <li><b>Desarrollo del sistema de guardado (por determinar):</b> implementación del guardado del progreso del jugador a lo largo de la Visual Novel y la posibilidad de iniciar una nueva partida.</li>
+<br></br>
 <li><b>Desarrollo del login y selección del protagonista (Clara):</b> creación de una pantalla inicial desde donde el jugador pueda elegir el nombre y el género del personaje protagonista. </li>
+
+<br></br>
 
 Por otra parte, estarían las siguientes funcionalidades que son comunes a ambos equipos: 
 
 <li><b>Guión (Clara y María):</b> desarrollo de la narrativa de la Visual Novel y todas las posibles rutas que el jugador puede seguir en función de la afinidad que consiga con los personajes.</li>  
+<br></br>
 <li><b>Game design (todo el equipo):</b> diseño del juego y de sus mecánicas.</li> 
 
 ### <h3>5.2. Estimación temporal del desarrollo</h3>

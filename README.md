@@ -179,31 +179,31 @@ Por último, la evaluación cualitativa se envía de vuelta a la Visual Novel y 
 <li><b>Prototipo y bocetos del minijuego</b>
 
 <p align="center">
-  <img src="/Images/Minijuego1.PNG">
+  <img src="/Images/Minijuego1.png">
 </p>
 
 <p align="center"><em>Pantalla inicial del minijuego: pedido con foto del cliente</em></p>
 
 <p align="center">
-  <img src="/Images/Minijuego2.PNG">
+  <img src="/Images/Minijuego2.png">
 </p>
 
 <p align="center"><em>Pantalla del minijuego por defecto</em></p>
 
 <p align="center">
-  <img src="/Images/Minijuego3.PNG">
+  <img src="/Images/Minijuego3.png">
 </p>
 
 <p align="center"><em>Pantalla del minijuego con flores en el ramo</em></p>
 
 <p align="center">
-  <img src="/Images/Minijuego4.PNG">
+  <img src="/Images/Minijuego4.png">
 </p>
 
 <p align="center"><em>Pantalla del minijuego con aviso de menos de 5 flores</em></p>
 
 <p align="center">
-  <img src="/Images/Minijuego5.PNG">
+  <img src="/Images/Minijuego5.png">
 </p>
 
 <p align="center"><em>Boceto del libro de flores</em></p>

@@ -439,7 +439,7 @@ Se ha personalizado los botones de las redes sociales para que coincidan con lo 
 <b>Paleta de colores</b>: 
 
 <p align="center">
-  <img src="/Images/paletaColores.png">
+  <img src="/Images/paletaColor.png">
 </p>
 
 Para la interfaz de dialogo se ha utilizado la misma paleta de colores y mismo tema para no desviarnos del arte ya utilizado. 

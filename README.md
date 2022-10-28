@@ -332,7 +332,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
   <img src="/Images/pjs_floristafem_siluetas.png">
 </p>
 
-<p align="center"><em>Ilustración 5 SILUETAS - FLORISTA (FEM)</em></p>
+<p align="center"><em> Siluetas - Florista (FEM) (FEM)</em></p>
 
 <p align="center">
   <img src="/Images/pjs_floristafem_desarrollo.png">

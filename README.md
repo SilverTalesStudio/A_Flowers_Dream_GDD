@@ -240,6 +240,39 @@ Limón es el gato del protagonista. Es la única compañía que tiene al comienz
 
 
 ### <h3>Estética general del juego</h3>
+Dada que la tecnología a utilizar es 2D, el estilo que se ha utilizado es un cartoon estilizado combinando cellshading con degradados. Las principales referencias han sido <em>The Arcana</em>, así como artistas freelance como <em>BoissB</em>. 
+
+<p align="center">
+  <img src="/Images/logo_juego_thick_500px.png">
+</p>
+
+<p align="center">
+  <img src="/Images/logo_juego_thick_500px.png">
+</p>
+
+Para los escenarios, la inspiración principal ha sido diversas referencias de lugares reales obtenidas mediante <em>Pinterest</em> y <em>Google Maps</em>. Asimismo, también se ha tomado gran inspiración de los escenarios característicos de este tipo de juegos, las novelas visuales y los simuladores de citas.  
+
+
+
+
+Para la interfaz, se ha optado por crear una serie de assets propios con degradados, dando la sensación de que los botones y los marcos son de oro, muy utilizados frecuentemente en el color para distintos juegos referentes a simulaciones de citas.
+
+<p align="center">
+  <img src="/Images/menu.jpg">
+</p>
+
+<p align="center">
+  <img src="/Images/referencia.png">
+</p>
+
+<p align="center">
+  <img src="/Images/maxresdefault.jpg">
+</p>
+
+Para la música, se ha utilizado mucho una tonalidad alegre y vivaz para la gran mayoría de partes con la excepción de los momentos de más tensión o tristeza. La música que se interpreta es de procedencia externa sin derechos de autor. La mayoría de los instrumentos que componen los distintos sonidos son de cuerda, percusión o de viento. Muy similar a la música clásica, para que sea ameno para el jugador sin distraer mucho del juego. 
+
+El objetivo de todo el apartado artístico es hacer sentir al jugador lo más inmerso y atraído posible por el videojuego. A la par de llamar la atención visualmente. 
+
 ### <h3>Apartado visual</h3>
 
 ####<h4>Imagen corporativa</h4>
@@ -354,15 +387,81 @@ Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno
 ### <h3>Diseño básico de los menús</h3>
 Como se puede apreciar en los distintos menús usados de *Referencias 2* se optó por usar el dorado como base para todo lo que es interfaz. Aunque antes de llegar a esta temática se pasaron por varios procesos. 
 
+<p align="center">
+  <img src="/Images/Pantalla_Principal_V1.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Principal_V3.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Principal_V3-2.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Principal_V3-3.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Boceto_Contacto_v1.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Contacto_V1.png">
+</p>
+
+Algunos botones: 
+
+<p align="center">
+  <img src="/Images/PartidaNueva.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Eleccion_bloqueda.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Eleccion-normal.png">
+</p>
+
+<p align="center">
+  <img src="/Images/BTwitter.png">
+</p>
+<p align="center">
+  <img src="/Images/BGoogle.png">
+</p>
+<p align="center">
+  <img src="/Images/BYoutube.png">
+</p>
+<p align="center">
+  <img src="/Images/BItchio.png">
+</p>
+<p align="center">
+  <img src="/Images/b_atras.png">
+</p>
+
 Como se puede apreciar el predominante es el color dorado en degradado y el marrón. 
 
 Se ha personalizado los botones de las redes sociales para que coincidan con lo que es la estética en si del juego. También se ha utilizado mucho las referencias florales como pequeños detalles debido a la procedencia de la temática del juego que es sobre flores en términos generales. 
 
 <b>Paleta de colores</b>: 
 
+<p align="center">
+  <img src="/Images/paletaColores.png">
+</p>
+
 Para la interfaz de dialogo se ha utilizado la misma paleta de colores y mismo tema para no desviarnos del arte ya utilizado. 
 
+<p align="center">
+  <img src="/Images/Marco-dialogo.png">
+</p>
+
 ### <h3>Diagrama de flujo</h3>
+
+<p align="center">
+  <img src="/Images/DiagramaFlujos.png">
+</p>
 
 ## <h2>Hija de ruta del desarrollo</h2>
 ### <h3>Hito 1</h3>

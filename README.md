@@ -300,14 +300,14 @@ Logo del juego
 Banner del juego: Twitter
 
 <p align="center">
-  <img src="/Images/Banner_Juego_Twitter.png">
+  <img src="/Images/Banner_Juego_Twitter.jpg">
 </p>
 <p align="center"><em>Ilustración 2 Banner del juego: Twitter</em></p>
 
 Banner del juego: Otras redes sociales
 
 <p align="center">
-  <img src="/Images/Banner_Juego_Youtube.png">
+  <img src="/Images/Banner_Juego_Youtube.jpg">
 </p>
 <p align="center"><em>Ilustración 3 Banner del juego: Otras redes sociales</em></p>
 
@@ -349,7 +349,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <b>Allan</b>
 <p align="center">
-  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/pjs_allan_desarrollo.png">
 </p>
 
 <p align="center"><em>Ilustración  Siluetas - Allan</em></p>

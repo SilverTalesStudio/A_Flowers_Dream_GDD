@@ -71,10 +71,28 @@ Asimismo, es importante destacar los siguientes factores:
 
 La siguiente tabla recoge las 20 flores incluidas en el minijuego de la floristería y que el jugador tendrá a su disposición para la creación del ramo. Por cada flor se especifica: su nombre, su color, su sentimiento, y una referencia visual.  
 
-| Nombre | Color | Sentimiento | Referencia|
+| Nombre | Color | Sentimiento | Referencia |
 |:------------:|:-------------:|:-------------:|:-------------:|
-| Dalia Malva | Malva | Agradecimiento y gratitud  | Imagen|
-| Campánula | Morada | Agradecimiento y gratitud  | Imagen|
+| Dalia Malva | Malva | Agradecimiento y gratitud | Imagen |
+| Campánula | Morada | Agradecimiento y gratitud | Imagen |
+| Ciclamen | Rosa | Decepción, desconfianza | Imagen |
+| Jazmín blanco | Blanca | Amistad | Imagen |
+| Rosa amarilla | Amarilla | Amistad | Imagen |
+| Adelfa | Rosa | Seducción, amor secreto  | Imagen |
+| Clavel | Roja | Seducción, amor secreto | Imagen |
+| Flor de Lis | Roja | Amor eterno, amor verdadero | Imagen |
+| Mirto | Blanca | Amor eterno, amor verdadero | Imagen |
+| Clemátide | Morada | Belleza, belleza del alma | Imagen |
+| Orquídea | Blanca | Belleza, belleza del alma | Imagen |
+| Rosa roja | Roja | Belleza, belleza del alma | Imagen |
+| Iris Azul | Azul | Buena suerte, buenas noticias | Imagen |
+| Jade | Rosa | Buena suerte, buenas noticias | Imagen |
+| Neguilla | Rosa | Pureza del corazón | Imagen |
+| Lirio | Blanca | Pureza del corazón | Imagen |
+| Centaurea | Morada | Felicidad, alegría, confianza | Imagen |
+| Coreopsis | Amarilla | Felicidad, alegría, confianza | Imagen |
+| Lirio del Valle | Blanca | Felicidad, alegría, confianza | Imagen |
+| Gardenia | Blanca | Sinceridad | Imagen |
 
 
 #### <h4>Pedidos</h4>

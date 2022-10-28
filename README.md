@@ -427,19 +427,10 @@ Algunos botones:
 
 <p>
   <img src="/Images/BTwitter.png">
-</p>
-<p>
   <img src="/Images/BGoogle.png">
-</p>
-<p>
   <img src="/Images/BYoutube.png">
-</p>
-<p>
   <img src="/Images/BItchio.png">
-</p>
-<p>
   <img src="/Images/b_atras.png">
-</p>
 
 Como se puede apreciar el predominante es el color dorado en degradado y el marrón. 
 

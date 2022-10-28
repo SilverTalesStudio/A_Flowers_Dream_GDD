@@ -267,7 +267,7 @@ Logo de la empresa
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
 ### <h3>Música</h3>
-Siendo una *visual novel* la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 
+Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 
 
 El tono escogido es muy alegre, positivo, vivaz para interpretar el ambiente que hay en las distintas situaciones y en distintos lugares que aparecen en la historia. Al igual que puede ser positivo también hay cambios de tonos a más triste y apagados para situaciones de recuerdos o momentos de honestidad. 
 
@@ -337,7 +337,7 @@ Una lista de los efectos sonoros necesarios:
 
 <b>Personajes</b> 
 
-Al igual que los lugares también se incluye un leitmotiv para cada uno de los personajes interactuables y más importantes del juego. 
+Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno de los personajes interactuables y más importantes del juego. 
 <ul>
 <li><p><b>Allan</b>: Al ser el personaje más agradable y majo de los pretendientes la música que le acompaña es alegre y tranquila.  </p></li>
 

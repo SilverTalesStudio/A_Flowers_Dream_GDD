@@ -79,12 +79,12 @@ La siguiente tabla recoge las 20 flores incluidas en el minijuego de la floriste
 | Jazmín blanco | Blanca | Amistad | ![Jazmín blanco!](/Images/JazminBlanco.png) |
 | Rosa amarilla | Amarilla | Amistad | ![Rosa amarilla!](/Images/RosaAmarilla.png) |
 | Adelfa | Rosa | Seducción, amor secreto  | ![Adelfa!](/Images/Adelfa.png) |
-| Clavel | Roja | Seducción, amor secreto | ![Clavel rojo!](/Images/Clavel rojo.png) |
+| Clavel | Roja | Seducción, amor secreto | ![Clavel rojo!](/Images/ClavelRojo.png) |
 | Flor de Lis | Roja | Amor eterno, amor verdadero | ![Flor de Lis!](/Images/FlorDeLis.png) |
 | Mirto | Blanca | Amor eterno, amor verdadero | ![Mirto!](/Images/Mirto.png) |
 | Clemátide | Morada | Belleza, belleza del alma | ![Clemátide!](/Images/Clematilde.png) |
-| Orquídea | Blanca | Belleza, belleza del alma | ![Orquídea!](/Images/Clematilde.png) |
-| Rosa roja | Roja | Belleza, belleza del alma | ![Rosa roja!](/Images/Clematilde.png) |
+| Orquídea | Blanca | Belleza, belleza del alma | ![Orquídea!](/Images/OrquideaBlanca.png) |
+| Rosa roja | Roja | Belleza, belleza del alma | ![Rosa roja!](/Images/RosaRoja.png) |
 | Iris Azul | Azul | Buena suerte, buenas noticias | ![Iris Azul!](/Images/IrisAzul.png) |
 | Jade | Rosa | Buena suerte, buenas noticias | ![Jade!](/Images/Jade.png) |
 | Neguilla | Rosa | Pureza del corazón | ![Neguilla!](/Images/Neguilla.png) |

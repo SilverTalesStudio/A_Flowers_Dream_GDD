@@ -339,31 +339,31 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
   <img src="/Images/pjs_floristafem_desarrollo.png">
 </p>
 
-<p align="center"><em>Ilustración  pruebas de vestuario - Florista (fem)</em></p>
+<p align="center"><em> Pruebas de vestuario - Florista (fem)</em></p>
 
 <p align="center">
   <img src="/Images/pjs_floristafem_pruebasColor.png">
-  <img src="/Images/pjs_floristafem_beauty.png">
+  <img height = "2048" src="/Images/pjs_floristafem_beauty.png" >
 </p>
 
-<p align="center"><em>Ilustración  Beauty final y pruebas de color - Florista (fem)</em></p>
+<p align="center"><em>Beauty final y pruebas de color - Florista (fem)</em></p>
 
 <b>Sophie</b>
 <p align="center">
-  <img src="/Images/pjs_sophie_desarrollo.png">
+  <img height = "2048" src="/Images/pjs_sophie_desarrollo.png">
 </p>
 
-<p align="center"><em>Ilustración  Desarrollo actual de Sophie</em></p>
+<p align="center"><em> Desarrollo actual de Sophie</em></p>
 
 <b>Allan</b>
 <p align="center">
   <img src="/Images/pjs_allan_siluetas.PNG">
 </p>
 
-<p align="center"><em>Ilustración  Siluetas - Allan</em></p>
+<p align="center"><em> Siluetas - Allan</em></p>
 
 <p align="center">
-  <img src="/Images/pjs_allan_desarrollo.png">
+  <img height = "2048" src="/Images/pjs_allan_desarrollo.png">
   
 </p>
 
@@ -371,10 +371,10 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <b>Ethan</b>
 <p align="center">
-  <img src="/Images/pjs_ethan_desarrollo.png">
+  <img height = "2048" src="/Images/pjs_ethan_desarrollo.png">
 </p>
 
-<p align="center"><em>Ilustración  Proceso actual - Ethan</em></p>
+<p align="center"><em> Proceso actual - Ethan</em></p>
 
 <b>Pietro</b>
 <p align="center">
@@ -384,28 +384,28 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 
 <p align="center">
-  <img src="/Images/pjs_pietro_desarrollo_2.PNG">
+  <img height = "2048" src="/Images/pjs_pietro_desarrollo_2.PNG">
   <img src="/Images/pjs_pietro_Desarrollo_1.png">
 </p>
-<p align="center"><em>Ilustración  Desarrollo - Pietro</em></p>
+<p align="center"><em> Desarrollo - Pietro</em></p>
 
 <p align="center">
   <img src="/Images/pjs_pietro_pruebasColor.png">
 </p>
-<p align="center"><em>Ilustración  Pruebas de color - Pietro</em></p>
+<p align="center"><em> Pruebas de color - Pietro</em></p>
 
 <p align="center">
-  <img src="/Images/pjs_pietro_final.png">
+  <img height = "2048" src="/Images/pjs_pietro_final.png">
 </p>
-<p align="center"><em>Ilustración  Beauty final - Pietro</em></p>
+<p align="center"><em> Beauty final - Pietro</em></p>
 
 
 <b>Daphne</b>
 <p align="center">
-  <img src="/Images/pjs_daphne_desarrollo.PNG">
+  <img height = "2048" src="/Images/pjs_daphne_desarrollo.PNG">
 </p>
 
-<p align="center"><em>Ilustración Proceso actual - Daphne</em></p>
+<p align="center"><em> Proceso actual - Daphne</em></p>
 
 
 ### <h3>Música</h3>

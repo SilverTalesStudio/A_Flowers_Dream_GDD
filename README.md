@@ -328,7 +328,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center"><em>Ilustración 5 SILUETAS - FLORISTA (FEM)</em></p>
 
 <p align="center">
-  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/pjs_floristafem_desarrollo.png">
 </p>
 
 <p align="center"><em>Ilustración  pruebas de vestuario - Florista (fem)</em></p>

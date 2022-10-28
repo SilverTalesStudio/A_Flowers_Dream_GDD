@@ -97,7 +97,13 @@ La siguiente tabla recoge las 20 flores incluidas en el minijuego de la floriste
 
 Para finalizar, en la siguiente tabla se recogen la flor favorita y la flor odiada de cada personaje: 
 
-
+| Personaje | Flor favorita | Flor odiada | 
+|:------------:|:-------------:|:-------------:|
+| Sophie | Dalia Malva | Rosa amarilla | 
+| Allan | Lirio | Clavel | 
+| Ethan | Gardenia | Flor de Lis | 
+| Pietro | Centaurea | Rosa roja | 
+| Sagrario | Mirto | Ciclamen | 
 
 #### <h4>Pedidos</h4>
 

@@ -249,6 +249,7 @@ Dada que la tecnología a utilizar es 2D, el estilo que se ha utilizado es un ca
 <p align="center">
   <img src="/Images/logo_juego_thick_500px.png">
 </p>
+<p align="center"><em>Referencia 1 Personajes</em></p>
 
 Para los escenarios, la inspiración principal ha sido diversas referencias de lugares reales obtenidas mediante <em>Pinterest</em> y <em>Google Maps</em>. Asimismo, también se ha tomado gran inspiración de los escenarios característicos de este tipo de juegos, las novelas visuales y los simuladores de citas.  
 
@@ -284,23 +285,27 @@ Logo del juego
 <p align="center">
   <img src="/Images/logo_juego_thick_500px.png">
 </p>
+<p align="center"><em>Ilustración 1 Logo del juego</em></p>
 
 Banner del juego: Twitter
 
 <p align="center">
   <img src="/Images/Banner_Juego_Twitter.png">
 </p>
+<p align="center"><em>Ilustración 2 Banner del juego: Twitter</em></p>
 
 Banner del juego: Otras redes sociales
 
 <p align="center">
   <img src="/Images/Banner_Juego_Youtube.png">
 </p>
+<p align="center"><em>Ilustración 3 Banner del juego: Otras redes sociales</em></p>
 
 Logo de la empresa
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
+<p align="center"><em>Ilustración 4 Logo del estudio </em></p>
 
 ####<h4>Los Personajes</h4>
 En el estado actual del proyecto, la mayoría de los personajes están en proceso de desarrollo. Las imágenes que se incluyen a continuación contienen el concept art que hay hasta el día 27 de octubre realizado. Los <em>beautys</em> de cada personaje componen el <em>Sprite principal</em> de cada personaje. 
@@ -310,14 +315,20 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
 
+<p align="center"><em>Ilustración 5 SILUETAS - FLORISTA (FEM)</em></p>
+
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
+
+<p align="center"><em>Ilustración  pruebas de vestuario - Florista (fem)</em></p>
 
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
+
+<p align="center"><em>Ilustración  Beauty final y pruebas de color - Florista (fem)</em></p>
 
 <b>Sophie</b>
 <p align="center">
@@ -326,37 +337,58 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
 
+<p align="center"><em>Ilustración  Desarrollo actual de Sophie</em></p>
+
 <b>Allan</b>
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
 
+<p align="center"><em>Ilustración  Siluetas - Allan</em></p>
+
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
+
+<p align="center"><em>Ilustración  Desarrollo actual de Allan</em></p>
 
 <b>Ethan</b>
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
 
+<p align="center"><em>Ilustración  Proceso actual - Ethan</em></p>
+
 <b>Pietro</b>
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
+<p align="center"><em>Ilustración  Siluetas – Pietro </em></p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center"><em>Referencia 2 Menús de juegos varios</em></p>
+
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
+<p align="center"><em>Ilustración  Desarrollo - Pietro</em></p>
+
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
+<p align="center"><em>Ilustración  Pruebas de color - Pietro</em></p>
+
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
+<p align="center"><em>Ilustración  Beauty final - Pietro</em></p>
+
 
 <b>Daphne</b>
 <p align="center">
@@ -366,6 +398,8 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center">
   <img src="/Images/logo_empresa_purpura_500px.png">
 </p>
+<p align="center"><em>Ilustración Proceso actual - Daphne</em></p>
+
 
 ### <h3>Música</h3>
 Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 

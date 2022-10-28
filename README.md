@@ -85,7 +85,7 @@ Por otra parte, estarían las siguientes funcionalidades que son comunes a ambos
 
 La estimación del desarrollo del proyecto viene dada en función de las tres entregas que se tienen que realizar (entrega Alfa, entrega Beta y entrega del Gold Master). Se plantea la siguiente estimación para cada una de ellas: 
 
-<p><b>Entrega Alfa (mes y medio aproximadamente): </b>es la entrega del prototipo con una funcionalidad básica. En ella se incluyen las siguientes funcionalidades:</p>  
+<p><b>Entrega Alfa (mes y medio aproximadamente): </b>es la entrega del prototipo con una funcionalidad básica. En ella se incluyen las siguientes funcionalidades:</p> 
 <li>Los primeros concepts de los personajes, los escenarios y la interfaz (4 semanas). </li>  
 
 <li>La implementación básica del login del usuario y la elección del protagonista (1 semana). </li> 
@@ -99,7 +99,7 @@ La estimación del desarrollo del proyecto viene dada en función de las tres en
 <li>Creación del portfolio de empresa (2 semanas). </li> 
 
 <li>Creación de las redes sociales de la empresa (1 semana). </li> 
-
+<br></br>
 <p><b>Entrega Beta (3 semanas aproximadamente): </b>es la entrega del juego con todas las mecánicas incluidas corrigiendo los bugs y con todos los assets necesarios. En ella se incluyen las siguientes funcionalidades:</p>  
 
 <li>La implementación e inclusión de los personajes, los escenarios y la interfaz (2 semanas).</li>  
@@ -113,7 +113,7 @@ La estimación del desarrollo del proyecto viene dada en función de las tres en
 <li>La implementación del sistema de pausa (1 semana).  </li> 
 
 <li>La implementación completa y optimización del minijuego y el sistema de pedidos (2 semanas). </li> 
-
+<br></br>
 <p><b>Entrega del Gold Master (1 mes aproximadamente): </b>es la entrega del juego terminado lo más optimizado posible y con todo el arte incluido. En ella se incluyen las siguientes funcionalidades:</p>  
 
 <li>Mejora del videojuego y de su rejugabilidad (2 - 3 semanas). </li> 

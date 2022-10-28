@@ -656,6 +656,10 @@ Como se puede apreciar en los distintos men√∫s usados de *Referencias 2* se opt√
   <img src="/Images/Pantalla_Contacto_V1.png">
 </p>
 
+<p align="center">
+  <img src="/Images/Nombres.png">
+</p>
+
 Algunos botones: 
 
 <p align="center">

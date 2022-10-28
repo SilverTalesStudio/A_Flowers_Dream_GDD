@@ -73,26 +73,26 @@ La siguiente tabla recoge las 20 flores incluidas en el minijuego de la floriste
 
 | Nombre | Color | Sentimiento | Referencia |
 |:------------:|:-------------:|:-------------:|:-------------:|
-| Dalia Malva | Malva | Agradecimiento y gratitud | Imagen |
+| Dalia Malva | Malva | Agradecimiento y gratitud | ![Dalia Malva!](/Images/DaliaMalva.png) |
 | Campánula | Morada | Agradecimiento y gratitud | ![Campánula!](/Images/Campanula.png) |
-| Ciclamen | Rosa | Decepción, desconfianza | Imagen |
-| Jazmín blanco | Blanca | Amistad | Imagen |
-| Rosa amarilla | Amarilla | Amistad | Imagen |
-| Adelfa | Rosa | Seducción, amor secreto  | Imagen |
-| Clavel | Roja | Seducción, amor secreto | Imagen |
-| Flor de Lis | Roja | Amor eterno, amor verdadero | Imagen |
-| Mirto | Blanca | Amor eterno, amor verdadero | Imagen |
-| Clemátide | Morada | Belleza, belleza del alma | Imagen |
-| Orquídea | Blanca | Belleza, belleza del alma | Imagen |
-| Rosa roja | Roja | Belleza, belleza del alma | Imagen |
-| Iris Azul | Azul | Buena suerte, buenas noticias | Imagen |
-| Jade | Rosa | Buena suerte, buenas noticias | Imagen |
-| Neguilla | Rosa | Pureza del corazón | Imagen |
-| Lirio | Blanca | Pureza del corazón | Imagen |
-| Centaurea | Morada | Felicidad, alegría, confianza | Imagen |
-| Coreopsis | Amarilla | Felicidad, alegría, confianza | Imagen |
-| Lirio del Valle | Blanca | Felicidad, alegría, confianza | Imagen |
-| Gardenia | Blanca | Sinceridad | Imagen |
+| Ciclamen | Rosa | Decepción, desconfianza | ![Ciclamen!](/Images/Ciclamen.png) |
+| Jazmín blanco | Blanca | Amistad | ![Jazmín blanco!](/Images/JazminBlanco.png) |
+| Rosa amarilla | Amarilla | Amistad | ![Rosa amarilla!](/Images/RosaAmarilla.png) |
+| Adelfa | Rosa | Seducción, amor secreto  | ![Adelfa!](/Images/Adelfa.png) |
+| Clavel | Roja | Seducción, amor secreto | ![Clavel rojo!](/Images/Clavel rojo.png) |
+| Flor de Lis | Roja | Amor eterno, amor verdadero | ![Flor de Lis!](/Images/FlorDeLis.png) |
+| Mirto | Blanca | Amor eterno, amor verdadero | ![Mirto!](/Images/Mirto.png) |
+| Clemátide | Morada | Belleza, belleza del alma | ![Clemátide!](/Images/Clematilde.png) |
+| Orquídea | Blanca | Belleza, belleza del alma | ![Orquídea!](/Images/Clematilde.png) |
+| Rosa roja | Roja | Belleza, belleza del alma | ![Rosa roja!](/Images/Clematilde.png) |
+| Iris Azul | Azul | Buena suerte, buenas noticias | ![Iris Azul!](/Images/IrisAzul.png) |
+| Jade | Rosa | Buena suerte, buenas noticias | ![Jade!](/Images/Jade.png) |
+| Neguilla | Rosa | Pureza del corazón | ![Neguilla!](/Images/Neguilla.png) |
+| Lirio | Blanca | Pureza del corazón | ![Lirio!](/Images/LirioBlanco.png) |
+| Centaurea | Morada | Felicidad, alegría, confianza | ![Centaurea!](/Images/Centaurea.png) |
+| Coreopsis | Amarilla | Felicidad, alegría, confianza | ![Coreopsis!](/Images/Coreopsis.png) |
+| Lirio del Valle | Blanca | Felicidad, alegría, confianza | ![Lirio del Valle!](/Images/LirioDelValle.png) |
+| Gardenia | Blanca | Sinceridad | ![Gardenia!](/Images/Gardenia.png) |
 
 
 #### <h4>Pedidos</h4>

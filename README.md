@@ -176,6 +176,38 @@ El rango de valores que puede tomar el resultado final es de –12 a 12 puntos. 
 
 Por último, la evaluación cualitativa se envía de vuelta a la Visual Novel y se decide qué dialogo y ruta seguirá la partida del jugador.
 
+<li><b>Prototipo y bocetos del minijuego</b>
+
+<p align="center">
+  <img src="/Images/Minijuego1.PNG">
+</p>
+
+<p align="center"><em>Pantalla inicial del minijuego: pedido con foto del cliente</em></p>
+
+<p align="center">
+  <img src="/Images/Minijuego2.PNG">
+</p>
+
+<p align="center"><em>Pantalla del minijuego por defecto</em></p>
+
+<p align="center">
+  <img src="/Images/Minijuego3.PNG">
+</p>
+
+<p align="center"><em>Pantalla del minijuego con flores en el ramo</em></p>
+
+<p align="center">
+  <img src="/Images/Minijuego4.PNG">
+</p>
+
+<p align="center"><em>Pantalla del minijuego con aviso de menos de 5 flores</em></p>
+
+<p align="center">
+  <img src="/Images/Minijuego5.PNG">
+</p>
+
+<p align="center"><em>Boceto del libro de flores</em></p>
+
 #### <h4>6.2.3. Clasificación de las flores</h4>
 
 En esta tabla, se representan las flores que se van a incluir en el minijuego de la floristería. Al realizar los pedidos, el usuario podrá escoger entre estas flores para generar el ramo correspondiente. El objetivo será tratar de combinar las flores de forma que se acerque lo máximo posible a los requisitos del pedido. En concreto, se mirarán los siguientes factores: colores; sentimientos; y preferencias de cada personaje. En función de estos factores, se otorgarán puntos al jugador. Al final del minijuego, se revisará si la puntuación final supera unos rangos y esto indicará el resultado final que se enviará a la VN para contabilizar en las variables de los personajes. Habrá tres resultados finales posibles: mal, regular, y bien.  

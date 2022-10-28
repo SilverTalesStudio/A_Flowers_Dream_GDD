@@ -425,13 +425,13 @@ Algunos botones:
   <img src="/Images/Eleccion-normal.png">
 </p>
 
-<p>
+<p align="center">
   <img src="/Images/BTwitter.png">
   <img src="/Images/BGoogle.png">
   <img src="/Images/BYoutube.png">
   <img src="/Images/BItchio.png">
   <img src="/Images/b_atras.png">
-
+</p>
 Como se puede apreciar el predominante es el color dorado en degradado y el marrón. 
 
 Se ha personalizado los botones de las redes sociales para que coincidan con lo que es la estética en si del juego. También se ha utilizado mucho las referencias florales como pequeños detalles debido a la procedencia de la temática del juego que es sobre flores en términos generales. 

@@ -253,11 +253,11 @@ Limón es el gato del protagonista. Es la única compañía que tiene al comienz
 Dada que la tecnología a utilizar es 2D, el estilo que se ha utilizado es un cartoon estilizado combinando cellshading con degradados. Las principales referencias han sido <em>The Arcana</em>, así como artistas freelance como <em>BoissB</em>. 
 
 <p align="center">
-  <img src="/Images/logo_juego_thick_500px.png">
+  <img src="/Images/refes_theArcana.png">
 </p>
 
 <p align="center">
-  <img src="/Images/logo_juego_thick_500px.png">
+  <img src="/Images/refes_boissb.png">
 </p>
 <p align="center"><em>Referencia 1 Personajes</em></p>
 
@@ -322,7 +322,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <b>La florista (fem).</b>
 <p align="center">
-  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/pjs_floristafem_siluetas.png">
 </p>
 
 <p align="center"><em>Ilustración 5 SILUETAS - FLORISTA (FEM)</em></p>

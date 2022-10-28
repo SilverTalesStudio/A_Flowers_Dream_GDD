@@ -425,19 +425,19 @@ Algunos botones:
   <img src="/Images/Eleccion-normal.png">
 </p>
 
-<p align="center">
+<p>
   <img src="/Images/BTwitter.png">
 </p>
-<p align="center">
+<p>
   <img src="/Images/BGoogle.png">
 </p>
-<p align="center">
+<p>
   <img src="/Images/BYoutube.png">
 </p>
-<p align="center">
+<p>
   <img src="/Images/BItchio.png">
 </p>
-<p align="center">
+<p>
   <img src="/Images/b_atras.png">
 </p>
 

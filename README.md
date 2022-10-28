@@ -156,7 +156,11 @@ Un joven de apariencia hermosa y carácter coqueto, Ethan siempre se encuentra d
   <li><p>Información clave: Ethan es un chico extrovertido y muy preocupado por su apariencia. Le gusta vestir a la última moda y que su cara se vea hermosa, aunque ya lo es por naturaleza. Siempre se encuentra rodeado de gente y yendo de un lugar para otro. Por su naturaleza coqueta y seductora, suele tener muchos admiradores y admiradoras con los que termina teniendo alguna relación, aunque breve. De hecho, es habitual que muchas de estas no terminen bien. Este carácter hará que se gane el apodo de “Eros” por parte del protagonista. En realidad, toda esta obsesión con la apariencia se debe a su poca autoestima y miedo a la soledad. Se esconde detrás de una máscara ocultando su verdadero ser y gustos, como la cocina o la lectura. También, tiene miedo al compromiso y tiende a huir ante relaciones serias. </p></li>
 </ul>
 
-![Foto y firma de Ethan](/Images/polaroids_Ethan.png)
+<p align="center">
+  <img width="460" height="300" src="/Images/polaroids_ethan.png">
+</p>
+
+![Foto y firma de Ethan](/Images/polaroids_ethan.png)
 
 #### <h4>Personajes sin intereses románticos</h4>
 

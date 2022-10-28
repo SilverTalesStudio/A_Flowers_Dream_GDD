@@ -57,21 +57,25 @@ Las plataformas para las que se planea desarrollar el juego son PC y móviles.
 ### <h3>Descripción detallada de la historia y la trama</h3>
 ### <h3>Personajes</h3>
 
-Los personajes del juego se pueden dividir en dos tipos distintos en función del tipo de relación que pueden desarrollar con el/la protagonista: personajes con intereses románticos y personajes sin intereses románticos, que solamente van a comprar flores a la tienda. 
+A Flower’s Dream: The Beginning cuenta con varios personajes que participarán y evolucionarán a lo largo de la historia de la Visual Novel. Estos personajes se pueden dividir en cuatro categorías en función de su rol o papel en la historia:  
 
 #### <h4>Personajes jugables</h4>
 
+En esta categoría, se encuentra el personaje que el jugador podrá controlar a lo largo de la Visual Novel. Mediante la toma de decisiones en puntos clave, el jugador decidirá no solo la personalidad del protagonista, sino también el desarrollo y profundidad de las relaciones con el resto de los personajes. Es importante destacar la libertad del jugador a la hora de seleccionar el género del personaje: mujer, hombre, o no binario. 
+
 #### <h4>El/la florista</h4>
 
-Tras huir de su país y dejar todo atrás debido a una situación complicada, decide cumplir su sueño y abrir una floristería en una nueva ciudad. Es amable, y siempre da todo de sí misma para que todo salga bien, aunque la personalidad la decide el jugador en base a qué decisiones tome.
+Tras huir de su país y dejar todo atrás debido a una situación complicada, decide cumplir su sueño y abrir una floristería en una nueva ciudad. Es amable y siempre da todo de sí misma para que todo salga bien, aunque la personalidad la decide el jugador en base a qué decisiones tome. Tiene un gato llamado Limón.
 
 #### <h4>Personajes con intereses románticos</h4>
+
+En esta categoría, se encuentran los personajes no jugables con los que el jugador puede interactuar de forma romántica. Si el jugador selecciona aquellas respuestas que mejor encajan con la personalidad y forma de ser de cada uno de estos personajes, su afinidad subirá y su relación avanzará. Aquel interés romántico con el que tenga mayor afinidad al final del juego será con el que termine teniendo una relación amorosa. Los personajes con intereses románticos presentan tres tipos de finales: bueno (relación amorosa), neutral y malo. 
 
 #### <h4>Sophie</h4>
 Una chica joven con un pasado oscuro y una personalidad pasota. Aunque en un inicio el personaje se presentará frío y borde con el jugador, poco a poco irá contando su historia y abriendo su corazón tras el cual se esconde una chica entregada a su familia más cercana, su hermana pequeña. 
 
 <ul>
-  <li><p>Motivo para comprar flores: Sophie va a la tienda a comprar flores para animar a su hermana que se encuentra en el hospital. </p></li>
+  <li><p> **Motivo para comprar flores:** Sophie va a la tienda a comprar flores para animar a su hermana que se encuentra en el hospital. </p></li>
   <li><p>Información clave: Los padres de Sophie eran maltratadores. En la actualidad, vive sola con su hermana pequeña a la que cuida con mucho cariño para que no le falte nada. Este trágico pasado y el hecho de tener que tomar las riendas de la familia a tan temprana edad son los que han hecho a Sophie cerrada y desconfiada ante nuevos conocidos. Dada su situación, no tiene mucho dinero, así que siempre está pendiente del precio de las flores. </p></li>
 </ul>
 

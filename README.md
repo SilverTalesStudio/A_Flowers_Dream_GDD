@@ -130,7 +130,7 @@ En el caso de este proyecto, los únicos costes que se tienen durante el desarro
 <li><b>Clip Studio Paint:</b> coste de 42,00€ en un único pago (una licencia).</li> 
 
 <li><b>Procreate:</b> coste de 23,98€ en un único pago (dos licencias).</li> 
-
+<br></br>
 El resto de los softwares usados son gratuitos (GitHub y Yarn Spinner) o con una licencia gratuita hasta que no se obtenga una venta del producto por una cantidad de dinero determinada (caso de Unity), por lo que no se tienen costes asociados a estos. 
 
 ## <h2>6. Mecánicas de juego y elementos de juego</h2>

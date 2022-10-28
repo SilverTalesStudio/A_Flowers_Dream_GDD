@@ -334,17 +334,15 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center"><em>Ilustración  pruebas de vestuario - Florista (fem)</em></p>
 
 <p align="center">
-  <img src="/Images/logo_empresa_purpura_500px.png">
-  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/pjs_floristafem_pruebasColor.png">
+  <img src="/Images/pjs_floristafem_beauty.png">
 </p>
 
 <p align="center"><em>Ilustración  Beauty final y pruebas de color - Florista (fem)</em></p>
 
 <b>Sophie</b>
 <p align="center">
-  <img src="/Images/logo_empresa_purpura_500px.png">
-  <img src="/Images/logo_empresa_purpura_500px.png">
-  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/pjs_sophie_desarrollo">
 </p>
 
 <p align="center"><em>Ilustración  Desarrollo actual de Sophie</em></p>

@@ -1,6 +1,6 @@
 # A_Flowers_Dream_GDD
 
-### <h2>Resumen ejecutivo</h2>
+### <h2>1. Resumen ejecutivo</h2>
 | Título | A Flower’s Dream: The Beginning | 
 |:------------:|:-------------:|
 | Empresa | Silver Tales Studio |
@@ -10,18 +10,18 @@
 | Género |  Novela visual de simulación de citas (dating sim) |
 |Plataformas| Navegador en PC y móviles | 
 
-## <h2>Versión del GDD</h2>
+## <h2>2. Versión del GDD</h2>
 Actualmente el GDD se encuentra por la versión 1.0.
 
-## <h2>Introducción</h2>
+## <h2>3. Introducción</h2>
 
 Este es el documento de diseño de A Flower’s Dream: The Beginning, una novela visual de simulación de citas (dating sim) para PC y móviles centrada en el desarrollo de la historia con los distintos personajes disponibles y su evolución amorosa con el/la protagonista. El principal objetivo de este documento es mostrar y explicar los elementos que va a incluir A Flower’s Dream: The Beginning.
 
-### <h3>Descripción breve del concepto</h3>
+### <h3>3.1. Descripción breve del concepto</h3>
 
 Novela visual de simulación de citas (dating sim) en 2D con mecánicas de administración de una floristería. El videojuego se centra en la historia y evolución de la relación de el/la protagonista con los distintos personajes que pasan por su tienda. El/la protagonista puede tener intereses amorosos con distintos NPCs que van apareciendo en la trama. Asimismo, también se incluyen NPCs los cuales no son intereses amorosos, pero aportan distintas historias interesantes y más jugabilidad con la parte de las mecánicas de la floristería.  
 
-### <h3>Descripción breve de la historia y de los personajes</h3>
+### <h3>3.2. Descripción breve de la historia y de los personajes</h3>
 
 A Flower’s Dream: The Beginning presenta la historia de un/una Florista que acaba de llegar a una nueva ciudad tras una situación complicada, con la esperanza de poder empezar de cero. Este/Esta tendrá que poner en marcha su nueva floristería y acostumbrarse a la rutina y zona. Durante el transcurso de los días de trabajo, el/la Florista conocerá a una gran variedad de personas diferentes entre pedido y pedido: Allan, un chico amable y gran amante de la naturaleza; Sophie, una joven aparentemente borde e irascible; Ethan, un chico muy coqueto y hermoso que siempre se encuentra de cita en cita; Pietro, un joven artista enigmático y con gran talento; y Sagrario, una abuelita entrañable, pero misteriosa. Cada personaje tiene su propia historia que se desarrollará de forma diferente en función de las decisiones del Florista y la calidad de los pedidos que haga. A medida que avancen los días y, en consecuencia, las semanas, la relación con los personajes irá mejorando o empeorando.  
 
@@ -31,32 +31,32 @@ Durante toda la historia, el/la Florista sentirá y percibirá atisbos de su ant
 
 Finalmente, en la semana 4, se dará cierre a la historia de el/la Florista con los distintos personajes pudiendo tener un final bueno, neutral o malo con estos.  
 
-### <h3>Propósito, público objetivo y plataformas</h3>
+### <h3>3.3. Propósito, público objetivo y plataformas</h3>
 
 El principal propósito del videojuego es el entretenimiento de un público adulto a partir de los 16 años por el trato e inclusión en el juego de distintas situaciones y temas delicados. 
 
 Las plataformas para las que se planea desarrollar el juego son PC y móviles.  
 
-## <h2>Monetización</h2>
-### <h3>Tipo de modelo de monetización</h3>
-### <h3>Tablas de productos y precios</h3>
+## <h2>4. Monetización</h2>
+### <h3>4.1. Tipo de modelo de monetización</h3>
+### <h3>4.2. Tablas de productos y precios</h3>
 
-## <h2>Planificación y costes</h2>
-### <h3>El equipo humano</h3>
-### <h3>Estimación temporal del desarrollo</h3>
-### <h3>Costes asociados</h3>
+## <h2>5. Planificación y costes</h2>
+### <h3>5.1. El equipo humano</h3>
+### <h3>5.2. Estimación temporal del desarrollo</h3>
+### <h3>5.3. Costes asociados</h3>
 
-## <h2>Mecánicas de juego y elementos de juego</h2>
-### <h3>Descripción detallada del concepto de juego</h3>
-### <h3>Descripción detallada de las mecánicas de juego</h3>
+## <h2>6. Mecánicas de juego y elementos de juego</h2>
+### <h3>6.1. Descripción detallada del concepto de juego</h3>
+### <h3>6.2. Descripción detallada de las mecánicas de juego</h3>
 
 El videojuego se puede dividir en dos partes respecto a las mecánicas utilizadas, ya que ambas partes son muy diferentes de jugar entre sí. Por un lado, están las fases narrativas en formato Visual Novel, y por otro están las fases de creación de ramos en formato minijuego. 
 
-#### <h4>Visual Novel</h4>
+#### <h4>6.2.1. Visual Novel</h4>
 
-#### <h4>Minijuego de las flores</h4>
+#### <h4>6.2.2. Minijuego de las flores</h4>
 
-#### <h4>Clasificación de las flores</h4>
+#### <h4>6.2.3. Clasificación de las flores</h4>
 
 En esta tabla, se representan las flores que se van a incluir en el minijuego de la floristería. Al realizar los pedidos, el usuario podrá escoger entre estas flores para generar el ramo correspondiente. El objetivo será tratar de combinar las flores de forma que se acerque lo máximo posible a los requisitos del pedido. En concreto, se mirarán los siguientes factores: colores; sentimientos; y preferencias de cada personaje. En función de estos factores, se otorgarán puntos al jugador. Al final del minijuego, se revisará si la puntuación final supera unos rangos y esto indicará el resultado final que se enviará a la VN para contabilizar en las variables de los personajes. Habrá tres resultados finales posibles: mal, regular, y bien.  
 
@@ -105,7 +105,7 @@ Para finalizar, en la siguiente tabla se recogen la flor favorita y la flor odia
 | Pietro | Centaurea | Rosa roja | 
 | Sagrario | Mirto | Ciclamen | 
 
-#### <h4>Pedidos</h4>
+#### <h4>6.2.4. Pedidos</h4>
 
 Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una petición de alguna flor de un color determinado y alguna flor que transmita un sentimiento en concreto (flores incluidas en la tabla del apartado clasificación de las flores). Además de esto, una vez se muestre el pedido al jugador y mientras este realiza el ramo, se visualizará un resumen del mismo. 
 
@@ -116,12 +116,12 @@ Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una pe
 | Rosa | Rojo | Amistad | Amor eterno, amor verdadero |
 | Blanco | Rojo | Seducción, amor secreto | Buena suerte, buenas noticias -- Pureza del corazón |
 
-### <h3>Controles</h3>
-### <h3>Niveles y misiones</h3>
-### <h3>Objetos, armas y power ups</h3>
+### <h3>6.3. Controles</h3>
+### <h3>6.4. Niveles y misiones</h3>
+### <h3>6.5. Objetos, armas y power ups</h3>
 
-## <h2>Trasfondo</h2>
-### <h3>Descripción detallada de la historia y la trama</h3>
+## <h2>7. Trasfondo</h2>
+### <h3>7.1. Descripción detallada de la historia y la trama</h3>
 En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 6. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.
 
 
@@ -202,7 +202,7 @@ Para finalizar la tercera semana, la Florista vuelve a hablar con su amiga para 
 
 Por último, en la cuarta semana se definirán los finales con cada personaje en función de la afinidad obtenida.  
 
-### <h3>Múltiples finales</h3>
+### <h3>7.2. Múltiples finales</h3>
 
 Debido a la diversidad de personajes y a la posibilidad de elección (ramificaciones), el juego presenta diferentes finales. En función de la afinidad que el jugador tenga con cada personaje, se desbloqueará un final diferente entre los que se encuentran disponibles. Prácticamente todos los finales se desbloquean en la última semana (cuarta semana), con algunas excepciones pertenecientes a finales que se desbloquean con anterioridad. Esto se especificará con más detalle en la descripción de los finales. 
 
@@ -258,11 +258,11 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 * Final neutro (cuarta semana): Sagrario acude a la floristería para pedir su último ramo, pero dado que el nivel de afinidad no es lo suficientemente alto, la información aportada es incompleta. No se llega a conocer su verdadera historia.  
 
 
-### <h3>Personajes</h3>
+### <h3>7.3. Personajes</h3>
 
 A Flower’s Dream: The Beginning cuenta con varios personajes que participarán y evolucionarán a lo largo de la historia de la Visual Novel. Estos personajes se pueden dividir en cuatro categorías en función de su rol o papel en la historia:  
 
-#### <h4>Personajes jugables</h4>
+#### <h4>7.3.1. Personajes jugables</h4>
 
 En esta categoría, se encuentra el personaje que el jugador podrá controlar a lo largo de la Visual Novel. Mediante la toma de decisiones en puntos clave, el jugador decidirá no solo la personalidad del protagonista, sino también el desarrollo y profundidad de las relaciones con el resto de los personajes. Es importante destacar la libertad del jugador a la hora de seleccionar el género del personaje: mujer, hombre, o no binario. 
 
@@ -275,7 +275,7 @@ Tras huir de su país y dejar todo atrás debido a una situación complicada, de
   <img src="/Images/polaroids_florista_she.png">
 </p>
 
-#### <h4>Personajes con intereses románticos</h4>
+#### <h4>7.3.2. Personajes con intereses románticos</h4>
 
 En esta categoría, se encuentran los personajes no jugables con los que el jugador puede interactuar de forma romántica. Si el jugador selecciona aquellas respuestas que mejor encajan con la personalidad y forma de ser de cada uno de estos personajes, su afinidad subirá y su relación avanzará. Aquel interés romántico con el que tenga mayor afinidad al final del juego será con el que termine teniendo una relación amorosa. Los personajes con intereses románticos presentan tres tipos de finales: bueno (relación amorosa), neutral y malo. 
 
@@ -323,7 +323,7 @@ Un joven de apariencia hermosa y carácter coqueto, Ethan siempre se encuentra d
 </p>
 
 
-#### <h4>Personajes sin intereses románticos</h4>
+#### <h4>7.3.3. Personajes sin intereses románticos</h4>
 
 Aquí se encuentran aquellos personajes no jugables que participan en la historia, pero de forma menos relevante. El jugador puede interactuar con estos personajes cuando visitan la tienda para realizar pedidos y puede desarrollar en mayor o menor medida su relación con estos en función de sus decisiones. Sin embargo, las tramas de estos personajes son secundarias y no son intereses amorosos por lo que al final del juego el jugador no podrá tener una relación romántica con ellos, aunque su afinidad sea elevada. El principal objetivo de estos personajes es la realización de pedidos y desarrollo de historias secundarias. Estos personajes, a diferencia de aquellos principales, presentan únicamente dos finales en la historia. La naturaleza de estos varía en función del personaje.  
 
@@ -349,7 +349,7 @@ Mujer mayor con una pareja homosexual.
   <li><p>Información: Sagrario es una mujer mayor COMPLETAR. suele leer al personaje fragmentos de las cartas para ayudarle a encontrar las flores adecuadas para el mensaje que quiere transmitir. </p></li>
 </ul>
 
-#### <h4>Personajes secundarios</h4>
+#### <h4>7.3.4. Personajes secundarios</h4>
 
 Son personajes que aparecen en momentos puntuales de la trama en la floristería y con los que el jugador interactúa de forma breve. Su objetivo no es el desarrollo de relaciones, sino mejorar y facilitar el progreso de la trama. De entre estos personajes, el más importante a destacar es Jacob, la expareja del protagonista, que aparecerá en un punto clave de la historia. 
 
@@ -375,7 +375,7 @@ Jacob es la expareja del protagonista de la historia. Tenía una relación tóxi
   <li><p>Información: Expareja del protagonista. Tuvo una relación de varios años con el/la protagonista. Su actitud siempre fue tóxica y no dejaba al protagonista expresarse y ser libre, siempre menospreciándole. Gracias a la ayuda de amigos y familiares, el/la protagonista pudo finalmente terminar la relación y huir a un nuevo hogar sin que Jacob supiera nada. Es una persona insegura, irascible y orgullosa. No le gusta que le lleven la contraria. Al enterarse de lo que había pasado, estalló en ira y decidió investigar sobre su paradero. </p></li>
 </ul>
 
-#### <h4>Personajes de apoyo</h4>
+#### <h4>7.3.5. Personajes de apoyo</h4>
 
 En último lugar, se encuentran los personajes de apoyo. Estos son personajes que no aparecen en la floristería, pero con los que el personaje puede hablar e interactuar de otras maneras. El principal objetivo de estos personajes es aportar algún tipo de feedback al jugador a modo de resumen de la historia. 
 
@@ -389,10 +389,10 @@ Limón es el gato del protagonista. Es la única compañía que tiene al comienz
 
 ### <h3>Entornos y lugares</h3>
 
-## <h2>Arte</h2>
+## <h2>8. Arte</h2>
 
 
-### <h3>Estética general del juego</h3>
+### <h3>8.1. Estética general del juego</h3>
 Dada que la tecnología a utilizar es 2D, el estilo que se ha utilizado es un cartoon estilizado combinando cellshading con degradados. Las principales referencias han sido <em>The Arcana</em>, así como artistas freelance como <em>BoissB</em>. 
 
 <p align="center">
@@ -430,9 +430,9 @@ Para la música, se ha utilizado mucho una tonalidad alegre y vivaz para la gran
 
 El objetivo de todo el apartado artístico es hacer sentir al jugador lo más inmerso y atraído posible por el videojuego. A la par de llamar la atención visualmente. 
 
-### <h3>Apartado visual</h3>
+### <h3>8.2. Apartado visual</h3>
 
-####<h4>Imagen corporativa</h4>
+####<h4>8.2.1. Imagen corporativa</h4>
 
 Logo del juego
 
@@ -461,7 +461,7 @@ Logo de la empresa
 
 <p align="center"><em>Logo del estudio </em></p>
 
-####<h4>Los Personajes</h4>
+####<h4>8.2.2. Los Personajes</h4>
 En el estado actual del proyecto, la mayoría de los personajes están en proceso de desarrollo. Las imágenes que se incluyen a continuación contienen el concept art que hay hasta el día 27 de octubre realizado. Los <em>beautys</em> de cada personaje componen el <em>Sprite principal</em> de cada personaje. 
 
 <b>La florista (fem).</b>
@@ -544,13 +544,13 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center"><em> Proceso actual - Daphne</em></p>
 
 
-### <h3>Música</h3>
+### <h3>8.3. Música</h3>
 Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 
 
 El tono escogido es muy alegre, positivo, vivaz para interpretar el ambiente que hay en las distintas situaciones y en distintos lugares que aparecen en la historia. Al igual que puede ser positivo también hay cambios de tonos a más triste y apagados para situaciones de recuerdos o momentos de honestidad. 
 
 La música no solo está ligada por los lugares sino por las situaciones del protagonista y para diferenciar las personalidades de los distintos personajes que aparecen en escena. 
-### <h3>Ambiente sonoro</h3>
+### <h3>8.4. Ambiente sonoro</h3>
 Se han separado los distintos ambientes sonoros por los lugares como pueden ser: 
 
 <b>Entornos no románticos</b>
@@ -628,8 +628,8 @@ Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno
 <li><p><b>Sagrario</b>: La dulce abuelita tiene un tono alegre, pero también más calmado y de tonalidades relajantes que evocan paz. </p></li>
 </ul>
 
-## <h2>Interfaz</h2>
-### <h3>Diseño básico de los menús</h3>
+## <h2>9. Interfaz</h2>
+### <h3>9.1. Diseño básico de los menús</h3>
 Como se puede apreciar en los distintos menús usados de *Referencias 2* se optó por usar el dorado como base para todo lo que es interfaz. Aunque antes de llegar a esta temática se pasaron por varios procesos. 
 
 <p align="center">
@@ -693,16 +693,16 @@ Para la interfaz de dialogo se ha utilizado la misma paleta de colores y mismo t
   <img src="/Images/Marco-dialogo.png">
 </p>
 
-### <h3>Diagrama de flujo</h3>
+### <h3>9.2. Diagrama de flujo</h3>
 
 <p align="center">
   <img src="/Images/DiagramaFlujos.png">
 </p>
 
-## <h2>Hoja de ruta del desarrollo</h2>
-### <h3>Hito 1</h3>
-### <h3>Hito 2</h3>
-### <h3>Hito 3</h3>
-### <h3>Fecha de lanzamiento</h3>
+## <h2>10. Hoja de ruta del desarrollo</h2>
+### <h3>10.1. Hito 1</h3>
+### <h3>10.2. Hito 2</h3>
+### <h3>10.3. Hito 3</h3>
+### <h3>10.4. Fecha de lanzamiento</h3>
 
 

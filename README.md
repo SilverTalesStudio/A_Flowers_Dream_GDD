@@ -343,14 +343,14 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <p align="center">
   <img src="/Images/pjs_floristafem_pruebasColor.png">
-  <img height = "2048" src="/Images/pjs_floristafem_beauty.png" >
+  <img src="/Images/pjs_floristafem_beauty.png" >
 </p>
 
-<p align="center"><em>Beauty final y pruebas de color - Florista (fem)</em></p>
+<p align="center"><em> Beauty final y pruebas de color - Florista (fem)</em></p>
 
 <b>Sophie</b>
 <p align="center">
-  <img height = "2048" src="/Images/pjs_sophie_desarrollo.png">
+  <img src="/Images/pjs_sophie_desarrollo.png">
 </p>
 
 <p align="center"><em> Desarrollo actual de Sophie</em></p>
@@ -363,7 +363,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center"><em> Siluetas - Allan</em></p>
 
 <p align="center">
-  <img height = "2048" src="/Images/pjs_allan_desarrollo.png">
+  <img src="/Images/pjs_allan_desarrollo.png">
   
 </p>
 
@@ -371,7 +371,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <b>Ethan</b>
 <p align="center">
-  <img height = "2048" src="/Images/pjs_ethan_desarrollo.png">
+  <img src="/Images/pjs_ethan_desarrollo.png">
 </p>
 
 <p align="center"><em> Proceso actual - Ethan</em></p>
@@ -384,7 +384,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 
 <p align="center">
-  <img height = "2048" src="/Images/pjs_pietro_desarrollo_2.PNG">
+  <img src="/Images/pjs_pietro_desarrollo_2.PNG">
   <img src="/Images/pjs_pietro_Desarrollo_1.png">
 </p>
 <p align="center"><em> Desarrollo - Pietro</em></p>
@@ -395,14 +395,14 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center"><em> Pruebas de color - Pietro</em></p>
 
 <p align="center">
-  <img height = "2048" src="/Images/pjs_pietro_final.png">
+  <img src="/Images/pjs_pietro_final.png">
 </p>
 <p align="center"><em> Beauty final - Pietro</em></p>
 
 
 <b>Daphne</b>
 <p align="center">
-  <img height = "2048" src="/Images/pjs_daphne_desarrollo.PNG">
+  <img src="/Images/pjs_daphne_desarrollo.PNG">
 </p>
 
 <p align="center"><em> Proceso actual - Daphne</em></p>

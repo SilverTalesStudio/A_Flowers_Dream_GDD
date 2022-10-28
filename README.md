@@ -120,6 +120,40 @@ Mujer mayor con una pareja homosexual.
   <li><p>Información: Sagrario es una mujer mayor COMPLETAR. suele leer al personaje fragmentos de las cartas para ayudarle a encontrar las flores adecuadas para el mensaje que quiere transmitir. </p></li>
 </ul>
 
+#### <h4>Personajes secundarios</h4>
+
+Son personajes que aparecen en momentos puntuales de la trama en la floristería y con los que el jugador interactúa de forma breve. Su objetivo no es el desarrollo de relaciones, sino mejorar y facilitar el progreso de la trama. De entre estos personajes, el más importante a destacar es Jacob, la expareja del protagonista, que aparecerá en un punto clave de la historia. 
+
+##### <h4>Daphne</h4>
+
+Daphne es la antigua pareja de Ethan, una mujer despampanante, presumida y siempre a la moda. 
+
+<ul>
+  <li><p>Motivo de aparición: Daphne irrumpe en la floristería en busca de Ethan el cual se encuentra escondido tras el mostrador intentado ocultarse de ella tras su huida durante la cita. </p></li>
+  <li><p>Información: Expareja de Ethan. Entra enfadada en la tienda con el objetivo de encontrar a Ethan para romper con él por su actitud infantil y maleducada al huir en plena cita. Es una mujer exuberante, de ideas fijas y claras. Ante su aparición, el jugador podrá ayudar a Ethan o delatar su posición a Daphne. </p></li>
+</ul>
+
+##### <h4>Jacob</h4>
+
+Jacob es la expareja del protagonista de la historia. Tenía una relación tóxica de varios años con él/ella. Es la principal razón de su huida a la nueva ciudad.  
+
+<ul>
+  <li><p>Motivo de aparición: Jacob aparece en la floristería tras varias semanas de encontrarse el/la protagonista viviendo en la nueva ciudad. Ante la huida inesperada del protagonista, Jacob investiga sobre su paradero hasta dar con la tienda. Su principal objetivo es buscar explicaciones y llevarse de vuelta a su “hogar” a el/la protagonista para continuar su “relación”. </p></li>
+  <li><p>Información: Expareja del protagonista. Tuvo una relación de varios años con el/la protagonista. Su actitud siempre fue tóxica y no dejaba al protagonista expresarse y ser libre, siempre menospreciándole. Gracias a la ayuda de amigos y familiares, el/la protagonista pudo finalmente terminar la relación y huir a un nuevo hogar sin que Jacob supiera nada. Es una persona insegura, irascible y orgullosa. No le gusta que le lleven la contraria. Al enterarse de lo que había pasado, estalló en ira y decidió investigar sobre su paradero. </p></li>
+</ul>
+
+#### <h4>Personajes de apoyo</h4>
+
+En último lugar, se encuentran los personajes de apoyo. Estos son personajes que no aparecen en la floristería, pero con los que el personaje puede hablar e interactuar de otras maneras. El principal objetivo de estos personajes es aportar algún tipo de feedback al jugador a modo de resumen de la historia. 
+
+##### <h4>Leah</h4>
+
+Leah es la amiga incondicional del protagonista. La conoce desde la infancia y es su conexión con su antigua vida y hogar. Se siente muy agradecida con ella por el gran apoyo y ayuda que le brindó ante la situación compleja con su expareja. Leah es extrovertida, habladora y curiosa. Contacta con el/la protagonista los fines de semana para preguntarle sobre su vida y el desarrollo de su relación con los personajes. En caso de no quedar con ninguno de los personajes en fin de semana, el/la protagonista queda con ella.  
+
+##### <h4>Limón</h4>
+
+Limón es el gato del protagonista. Es la única compañía que tiene al comienzo de la historia. En muchas ocasiones, el/la protagonista habla con él dando pie a que exprese sus pensamientos en voz alta. 
+
 ### <h3>Entornos y lugares</h3>
 
 ## <h2>Arte</h2>

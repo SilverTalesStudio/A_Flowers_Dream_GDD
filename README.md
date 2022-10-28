@@ -116,7 +116,11 @@ En esta categoría, se encuentra el personaje que el jugador podrá controlar a 
 #### <h4>El/la florista</h4>
 
 Tras huir de su país y dejar todo atrás debido a una situación complicada, decide cumplir su sueño y abrir una floristería en una nueva ciudad. Es amable y siempre da todo de sí misma para que todo salga bien, aunque la personalidad la decide el jugador en base a qué decisiones tome. Tiene un gato llamado Limón.
-![Foto y firma de la florista](/Images/polaroids_florista_she.png)
+
+
+<p align="center">
+  <img src="/Images/polaroids_florista_she.png">
+</p>
 
 #### <h4>Personajes con intereses románticos</h4>
 
@@ -126,19 +130,31 @@ En esta categoría, se encuentran los personajes no jugables con los que el juga
 
 Una chica joven con un pasado oscuro y una personalidad pasota. Aunque en un inicio el personaje se presentará frío y borde con el jugador, poco a poco irá contando su historia y abriendo su corazón tras el cual se esconde una chica entregada a su familia más cercana, su hermana pequeña. 
 
+
 <ul>
   <li><p> Motivo para comprar flores: Sophie va a la tienda a comprar flores para animar a su hermana que se encuentra en el hospital. </p></li>
   <li><p>Información clave: Los padres de Sophie eran maltratadores. En la actualidad, vive sola con su hermana pequeña a la que cuida con mucho cariño para que no le falte nada. Este trágico pasado y el hecho de tener que tomar las riendas de la familia a tan temprana edad son los que han hecho a Sophie cerrada y desconfiada ante nuevos conocidos. Dada su situación, no tiene mucho dinero, así que siempre está pendiente del precio de las flores. Es una gran fan de la música punk y metal. Tiene una ligera adicción al tabaco. </p></li>
 </ul>
 
+<p align="center">
+  <img src="/Images/polaroids_sophie.png">
+</p>
+
 #### <h4>Allan</h4>
 
 Un chico bondadoso y de gran corazón. Es amante de la naturaleza y por ello tiene un amplio conocimiento sobre esta. En todo momento se mostrará cercano al jugador, especialmente al hablar sobre flores y plantas, algo que ambos tienen en común. A pesar de ello, es algo inseguro y se avergüenza con facilidad al recibir ciertos comentarios coquetos. 
+
 
 <ul>
   <li><p>Motivo para comprar flores: Allan visita la floristería debido a su gran amor por las plantas. Principalmente, compra flores porque le gustan y quiere decorar su casa. </p></li>
   <li><p>Información clave: Allan es un chico bueno y humilde. Trabaja en un supermercado cercano a la floristería. Dado su gran corazón e inseguridad, muchas personas intentan aprovecharse de él, incluido su jefe que le explota en el trabajo. Le cuesta dar la cara por sí mismo. Una de sus grandes virtudes es su amplio conocimiento sobre plantas y flores debido a su amor por la naturaleza. Le encanta pasar tiempo al aire libre. Visitará la floristería con frecuencia para adquirir más flores para su casa, incluso llegando a preguntar por flores exóticas o difíciles de conseguir. Al hablar con el/la protagonista sobre plantas se emociona, pues siente que le comprenden. Le gusta el deporte y se encuentra en buena forma. </p></li>
 </ul>
+
+
+<p align="center">
+  <img src="/Images/polaroids_allan.png">
+</p>
+
 
 #### <h4>Ethan</h4>
 
@@ -148,6 +164,11 @@ Un joven de apariencia hermosa y carácter coqueto, Ethan siempre se encuentra d
   <li><p>Motivo para comprar flores: Ethan compra flores para regalárselas a sus citas. Dado que generalmente sus relaciones duran poco y siempre se encuentra de cita en cita, visita con frecuencia la floristería. </p></li>
   <li><p>Información clave: Ethan es un chico extrovertido y muy preocupado por su apariencia. Le gusta vestir a la última moda y que su cara se vea hermosa, aunque ya lo es por naturaleza. Siempre se encuentra rodeado de gente y yendo de un lugar para otro. Por su naturaleza coqueta y seductora, suele tener muchos admiradores y admiradoras con los que termina teniendo alguna relación, aunque breve. De hecho, es habitual que muchas de estas no terminen bien. Este carácter hará que se gane el apodo de “Eros” por parte del protagonista. En realidad, toda esta obsesión con la apariencia se debe a su poca autoestima y miedo a la soledad. Se esconde detrás de una máscara ocultando su verdadero ser y gustos, como la cocina o la lectura. También, tiene miedo al compromiso y tiende a huir ante relaciones serias. </p></li>
 </ul>
+
+<p align="center">
+  <img src="/Images/polaroids_ethan.png">
+</p>
+
 
 #### <h4>Personajes sin intereses románticos</h4>
 
@@ -161,6 +182,10 @@ Un joven artista enigmático que visita la floristería en busca de inspiración
   <li><p>Motivo para comprar flores: Pietro suele comprar flores con la intención de pintar bodegones o escenas inspiradas en estas en su casa. </p></li>
   <li><p>Información: es pintor de corazón, pero no de profesión. Ama todo lo relacionado con el arte y las letras. Su técnica favorita es el óleo por lo que siempre se le suele ver con alguna que otra mancha en rostro y ropa. Le encanta visitar la floristería para pintar aquellas flores que más le inspiran, aunque en alguna ocasión no compre nada. Asimismo, debido a su naturaleza tranquila y filosófica, suele pasarse largos ratos mirando a la nada, pensando. Debido a esto, es difícil captar su atención lo suficiente como para mantener una conversación continua, pero cuando se consigue suelen ser conversaciones profundas. Su mayor referente artístico es Salvador Dalí. Le encantan los zuecos y la ropa holgada. </p></li>
 </ul>
+
+<p align="center">
+  <img src="/Images/polaroids_pietro.png">
+</p>
 
 ##### <h4>Sagrario</h4>
 
@@ -183,6 +208,10 @@ Daphne es la antigua pareja de Ethan, una mujer despampanante, presumida y siemp
   <li><p>Motivo de aparición: Daphne irrumpe en la floristería en busca de Ethan el cual se encuentra escondido tras el mostrador intentado ocultarse de ella tras su huida durante la cita. </p></li>
   <li><p>Información: Expareja de Ethan. Entra enfadada en la tienda con el objetivo de encontrar a Ethan para romper con él por su actitud infantil y maleducada al huir en plena cita. Es una mujer exuberante, de ideas fijas y claras. Ante su aparición, el jugador podrá ayudar a Ethan o delatar su posición a Daphne. </p></li>
 </ul>
+
+<p align="center">
+  <img src="/Images/polaroids_daphne.png">
+</p>
 
 ##### <h4>Jacob</h4>
 
@@ -208,16 +237,326 @@ Limón es el gato del protagonista. Es la única compañía que tiene al comienz
 ### <h3>Entornos y lugares</h3>
 
 ## <h2>Arte</h2>
+
+
 ### <h3>Estética general del juego</h3>
+Dada que la tecnología a utilizar es 2D, el estilo que se ha utilizado es un cartoon estilizado combinando cellshading con degradados. Las principales referencias han sido <em>The Arcana</em>, así como artistas freelance como <em>BoissB</em>. 
+
+<p align="center">
+  <img src="/Images/logo_juego_thick_500px.png">
+</p>
+
+<p align="center">
+  <img src="/Images/logo_juego_thick_500px.png">
+</p>
+<p align="center"><em>Referencia 1 Personajes</em></p>
+
+Para los escenarios, la inspiración principal ha sido diversas referencias de lugares reales obtenidas mediante <em>Pinterest</em> y <em>Google Maps</em>. Asimismo, también se ha tomado gran inspiración de los escenarios característicos de este tipo de juegos, las novelas visuales y los simuladores de citas.  
+
+
+
+
+Para la interfaz, se ha optado por crear una serie de assets propios con degradados, dando la sensación de que los botones y los marcos son de oro, muy utilizados frecuentemente en el color para distintos juegos referentes a simulaciones de citas.
+
+<p align="center">
+  <img width="460" src="/Images/menu.jpg">
+</p>
+
+<p align="center">
+  <img width="460" src="/Images/referencia.png">
+</p>
+
+<p align="center">
+  <img width="460" src="/Images/maxresdefault.jpg">
+</p>
+
+<p align="center"><em>Referencia 2 Menús de juegos varios</em></p>
+
+Para la música, se ha utilizado mucho una tonalidad alegre y vivaz para la gran mayoría de partes con la excepción de los momentos de más tensión o tristeza. La música que se interpreta es de procedencia externa sin derechos de autor. La mayoría de los instrumentos que componen los distintos sonidos son de cuerda, percusión o de viento. Muy similar a la música clásica, para que sea ameno para el jugador sin distraer mucho del juego. 
+
+El objetivo de todo el apartado artístico es hacer sentir al jugador lo más inmerso y atraído posible por el videojuego. A la par de llamar la atención visualmente. 
+
 ### <h3>Apartado visual</h3>
+
+####<h4>Imagen corporativa</h4>
+
+Logo del juego
+
+<p align="center">
+  <img src="/Images/logo_juego_thick_500px.png">
+</p>
+<p align="center"><em>Ilustración 1 Logo del juego</em></p>
+
+Banner del juego: Twitter
+
+<p align="center">
+  <img src="/Images/Banner_Juego_Twitter.png">
+</p>
+<p align="center"><em>Ilustración 2 Banner del juego: Twitter</em></p>
+
+Banner del juego: Otras redes sociales
+
+<p align="center">
+  <img src="/Images/Banner_Juego_Youtube.png">
+</p>
+<p align="center"><em>Ilustración 3 Banner del juego: Otras redes sociales</em></p>
+
+Logo de la empresa
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center"><em>Ilustración 4 Logo del estudio </em></p>
+
+####<h4>Los Personajes</h4>
+En el estado actual del proyecto, la mayoría de los personajes están en proceso de desarrollo. Las imágenes que se incluyen a continuación contienen el concept art que hay hasta el día 27 de octubre realizado. Los <em>beautys</em> de cada personaje componen el <em>Sprite principal</em> de cada personaje. 
+
+<b>La florista (fem).</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<p align="center"><em>Ilustración 5 SILUETAS - FLORISTA (FEM)</em></p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<p align="center"><em>Ilustración  pruebas de vestuario - Florista (fem)</em></p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<p align="center"><em>Ilustración  Beauty final y pruebas de color - Florista (fem)</em></p>
+
+<b>Sophie</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<p align="center"><em>Ilustración  Desarrollo actual de Sophie</em></p>
+
+<b>Allan</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<p align="center"><em>Ilustración  Siluetas - Allan</em></p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<p align="center"><em>Ilustración  Desarrollo actual de Allan</em></p>
+
+<b>Ethan</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+
+<p align="center"><em>Ilustración  Proceso actual - Ethan</em></p>
+
+<b>Pietro</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center"><em>Ilustración  Siluetas – Pietro </em></p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center"><em>Referencia 2 Menús de juegos varios</em></p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center"><em>Ilustración  Desarrollo - Pietro</em></p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center"><em>Ilustración  Pruebas de color - Pietro</em></p>
+
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center"><em>Ilustración  Beauty final - Pietro</em></p>
+
+
+<b>Daphne</b>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center">
+  <img src="/Images/logo_empresa_purpura_500px.png">
+</p>
+<p align="center"><em>Ilustración Proceso actual - Daphne</em></p>
+
+
 ### <h3>Música</h3>
+Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 
+
+El tono escogido es muy alegre, positivo, vivaz para interpretar el ambiente que hay en las distintas situaciones y en distintos lugares que aparecen en la historia. Al igual que puede ser positivo también hay cambios de tonos a más triste y apagados para situaciones de recuerdos o momentos de honestidad. 
+
+La música no solo está ligada por los lugares sino por las situaciones del protagonista y para diferenciar las personalidades de los distintos personajes que aparecen en escena. 
 ### <h3>Ambiente sonoro</h3>
+Se han separado los distintos ambientes sonoros por los lugares como pueden ser: 
+
+<b>Entornos no románticos</b>
+<ul>
+<li><p><b>Floristería</b>: El ambiente tiene que ser ameno, alegre, positivo, muy al estilo clásico. Es donde se va a efectuar la jugabilidad de las flores por lo que tiene que ser música muy relajante y a la vez que no sobresalga demasiado para que no distraiga al jugador, pero si para que se sienta a gusto como se sentiría el protagonista del juego.</p></li>
+
+<li><p><b>Calle</b>: Más bullicioso y movido para dar sensación de multitud y de salida, acompañada de efectos sonoros de personas andando y hablando por el fondo sin llegar a desorientar o perturbar al jugador.</p></li>
+
+<li><p><b>Casa del personaje</b>: Es más tranquila y acogedora, después de todo es la casa del personaje, algo así como su fortaleza o santuario personal en el cual puede descansar después de su día a día.</p></li>
+
+<li><p><b>Tienda</b>: Música más típica de tiendas de conveniencia, siendo la más neutral de todas. La típica tienda donde ponen música de la radio o actuales de forma de ambiente un poco baja para no incomodar a los clientes.</p></li>
+</ul>
+
+<b>Entornos para las citas</b>
+<ul>
+<li><p><b>Cine</b>: Se ha optado por un inicio de música de ambiente de la calle para pasar a un silencio y a sonidos típicos de película de terror debido a la historia lo amerita, también hay efectos sonoros de personas murmullando y alguno que otro grito de miedo.</p></li>
+
+<li><p><b>Jardín botánico</b>: En este jardín se tiene que demostrar positivismo y alegría muy similares a la floristería, pero más movida y dinámica porque se encuentran de paseo en dicho lugar.</p></li> 
+
+<li><p><b>Bar</b>: El ambiente es más coloquial y divertido así que la parte sonora tiene más dinamismo y alegría típica que puede haber en un bar. Los efectos sonoros son gente murmurando, choque de vasos de cristal y algunas risas mezcladas de fondo.</p></li> 
+
+<li><p><b>Concierto</b>: Se ha optado por buscar música de rock muy movida que este muy de fondo y los gritos de celebración de las personas que estarían también en dicho concierto. Es mucho más movida debido al escenario en el que nos encontramos.</p></li>
+
+<li><p><b>Bosque</b>: Muy similar a la del jardín Botánico, pero siendo más libre, más relajada y natural para evocar espacio abierto y mucha naturaleza. Para los efectos sonoros se pondrán pequeños sonidos de aves diversas y el viento.</p></li>
+
+<li><p><b>Acuario</b>: Más orientada a lo acuático, profundo, pero manteniendo la alegría porque está en una cita nuestro protagonista. Los efectos sonoros son personas hablando y murmurando junto con algún efecto marino como pueden ser burbujas o algún sonido de focas o pingüinos.</p></li>
+</ul>
+
+<b>Efectos Sonoros</b>
+
+Una lista de los efectos sonoros necesarios: 
+<ul>
+<li><p>Gente murmurando</p></li>
+
+<li><p>Gente hablando</p></li>
+
+<li><p>Gente gritando o/y asustada</p></li>
+
+<li><p>Gente riendo</p></li>
+
+<li><p>Gente caminando</p></li>
+
+<li><p>Sonidos de gato</p></li>
+
+<li><p>Sonido de puertas de madera/automáticas abriéndose</p></li>
+
+<li><p>Sonido de pisadas en distintos ambientes</p></li>
+
+<li><p>Sonidos marinos</p></li>
+
+<li><p>Sonidos de timbre/campanilla</p></li>
+
+<li><p>Sonidos de animales: pájaros</p></li>
+
+<li><p>Sonidos de golpes</p></li>
+
+<li><p>Sonido de viento y hojas moviéndose</p></li>
+
+<li><p>Sonido del chocar de copas</p></li>
+</ul>
+ 
+
+<b>Personajes</b> 
+
+Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno de los personajes interactuables y más importantes del juego. 
+<ul>
+<li><p><b>Allan</b>: Al ser el personaje más agradable y majo de los pretendientes la música que le acompaña es alegre y tranquila.  </p></li>
+
+<li><p><b>Pietro</b>: Al ser un personaje excéntrico y un poco extraño se ha optado por ponerle música clásica estridente sin ser demasiado llamativa.  </p></li>
+
+<li><p><b>Ethan</b>: Es el ligón del grupo por lo que se le asigna una música alegre y provocadora y suave. </p></li>
+
+<li><p><b>Sophie</b>: Al principio es muy dura con el protagonista debido a su personalidad poco confiada, pero al pasar el tiempo es más amable. Ella pasa de una música más fuerte y desafiante a una más dulce y alegre. </p></li>
+
+<li><p><b>Sagrario</b>: La dulce abuelita tiene un tono alegre, pero también más calmado y de tonalidades relajantes que evocan paz. </p></li>
+</ul>
 
 ## <h2>Interfaz</h2>
 ### <h3>Diseño básico de los menús</h3>
+Como se puede apreciar en los distintos menús usados de *Referencias 2* se optó por usar el dorado como base para todo lo que es interfaz. Aunque antes de llegar a esta temática se pasaron por varios procesos. 
+
+<p align="center">
+  <img src="/Images/Pantalla_Principal_V1.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Principal_V3.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Principal_V3-2.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Principal_V3-3.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Boceto_Contacto_v1.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Contacto_V1.png">
+</p>
+
+Algunos botones: 
+
+<p align="center">
+  <img src="/Images/PartidaNueva.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Eleccion_bloqueda.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Eleccion-normal.png">
+</p>
+
+<p align="center">
+  <img src="/Images/BTwitter.png">
+  <img src="/Images/BGoogle.png">
+  <img src="/Images/BYoutube.png">
+  <img src="/Images/BItchio.png">
+  <img src="/Images/b_atras.png">
+</p>
+Como se puede apreciar el predominante es el color dorado en degradado y el marrón. 
+
+Se ha personalizado los botones de las redes sociales para que coincidan con lo que es la estética en si del juego. También se ha utilizado mucho las referencias florales como pequeños detalles debido a la procedencia de la temática del juego que es sobre flores en términos generales. 
+
+<b>Paleta de colores</b>: 
+
+<p align="center">
+  <img src="/Images/paletaColor.png">
+</p>
+
+Para la interfaz de dialogo se ha utilizado la misma paleta de colores y mismo tema para no desviarnos del arte ya utilizado. 
+
+<p align="center">
+  <img src="/Images/Marco-dialogo.png">
+</p>
+
 ### <h3>Diagrama de flujo</h3>
 
-## <h2>Hija de ruta del desarrollo</h2>
+<p align="center">
+  <img src="/Images/DiagramaFlujos.png">
+</p>
+
+## <h2>Hoja de ruta del desarrollo</h2>
 ### <h3>Hito 1</h3>
 ### <h3>Hito 2</h3>
 ### <h3>Hito 3</h3>

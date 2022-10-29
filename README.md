@@ -735,7 +735,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 En el estado actual del proyecto, no se han desarrollado todavía todos los escenarios. Únicamente se han explorado mediante thumbnails y se han generado bocetos de algunos de los escenarios incluidos en la primera semana del videojuego.  
 
-A continuación, se incluye el concept art realizado para los escenarios del juego hasta el día 29 de octubre de 2022. 
+A continuación, se incluye el concept art realizado para los escenarios del videojuego hasta el día 29 de octubre de 2022. 
 
 <ul>
 
@@ -750,13 +750,18 @@ A continuación, se incluye el concept art realizado para los escenarios del jue
 
 <p align="center"><em> Thumbnails Floristería</em></p>
 
-  * **Boceto:**
+  * **Boceto:** A continuación, se muestra el boceto de la floristería. Para su creación, se ha partido de la base del ***Thumbnail número 1*** por su perspectiva y composición.
+  
+ <p align="center">
+<img src="/Images/Boceto_Floristeria.png">
+</p>
+
+<p align="center"><em> Boceto Floristería</em></p>
 
 **<li><p>Calle: </li></p>**
   
-  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado gran parte de las referencias empleadas como inspiración para el diseño de la calle: https://pin.it/5wnZEE3. Destacar también que no solo se ha tomado inspiración de estas imágenes sino que, también, se ha empleado *Google Maps* para buscar lugares reales como, por ejemplo, las calles de Chatan, Prefectura de Okinawa (Japón). 
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado gran parte de las referencias empleadas como inspiración para el diseño de la calle: https://pin.it/5wnZEE3. Destacar también que no solo se ha tomado inspiración de estas imágenes, sino que se ha empleado *Google Maps* para buscar lugares reales como, por ejemplo, las calles de Chatan, Prefectura de Okinawa (Japón).  
   * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva de la calle.
-  * **Boceto:**
   
 </ul>
 

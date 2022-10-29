@@ -135,6 +135,9 @@ El resto de los softwares usados son gratuitos (GitHub y Yarn Spinner) o con una
 
 ## <h2>6. Mecánicas de juego y elementos de juego</h2>
 ### <h3>6.1. Descripción detallada del concepto de juego</h3>
+
+Es un videojuego en perspectiva 2D, que hace uso de cámara fija con vista en tercera persona en los diálogos de la Visual Novel y en primera persona en el minijuego de las flores, entre otros apartados. 
+
 ### <h3>6.2. Descripción detallada de las mecánicas de juego</h3>
 
 El videojuego se puede dividir en dos partes respecto a las mecánicas utilizadas, ya que ambas partes son muy diferentes de jugar entre sí. Por un lado, están las fases narrativas en formato Visual Novel, y por otro están las fases de creación de ramos en formato minijuego. 
@@ -918,8 +921,29 @@ Para la interfaz de dialogo se ha utilizado la misma paleta de colores y mismo t
 
 ## <h2>10. Hoja de ruta del desarrollo</h2>
 ### <h3>10.1. Hito 1</h3>
+
+Finalización de la versión Alpha con la base del videojuego jugable, obviando estética y optimización.  
+
+El videojuego es jugable completamente en su primer capítulo con todas las rutas posibles que puede tomar la Visual Novel hasta el final de la primera semana (capítulo 1). Además, el minijuego es jugable completamente con todas las comprobaciones de resultados del mismo para poder tomar todas las rutas posibles en la Visual Novel hasta el momento, así como poder jugar el mismo con todas las variantes de pedidos posibles. 
+
+La interfaz está implementada con el arte completo en su mayoría (menús y diálogos), así como algunos personajes también están con su diseño final. Los fondos de escenarios y el minijuego hacen uso de placeholders y bocetos. 
+
+El videojuego cuenta con una adaptación de la resolución acorde para pc, en dispositivos móviles le falta pulido y mejor adaptación. Por otra parte, el videojuego es jugable tanto en PC como en dispositivos móviles. 
+
+Cualquier otro apartado no comentado está en desarrollo en este momento. 
+
 ### <h3>10.2. Hito 2</h3>
+
+Finalización de la versión Beta con el juego 100% jugable y con todos los 	diseños, arte y capítulos terminados e implementados. 
+
+Desde la finalización de la versión alfa se requiere del desarrollo de todo el 	arte del juego y su implementación, así como una mejor adaptación de la 		resolución del videojuego en todos los dispositivos. 
+
 ### <h3>10.3. Hito 3</h3>
+
+Finalización de la versión GoldMaster con todo el videojuego implementado y completo en todos sus apartados, así como optimizado para poder ser jugado por el cliente en todo su esplendor. 
+
+Desde la finalización de la versión beta se necesita optimizar el apartado de implementación para hacer el videojuego lo mejor jugable posible, para ello se llevarán a cabo gran cantidad de testeos por parte del equipo de desarrollo.  
+
 ### <h3>10.4. Fecha de lanzamiento</h3>
 
-
+El videojuego será lanzado el día 18 de diciembre de 2022. 

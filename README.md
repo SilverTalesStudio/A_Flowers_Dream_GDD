@@ -102,6 +102,47 @@ En función de todo lo mencionado anteriormente, se ha realizado el siguiente Le
 <p align="center"><em>Lean Canvas de la empresa</em></p>
 
 ### <h3>4.5. Plan de moetización a 2 años</h3>
+
+<li><b>Plan de monetización</b></li>  
+
+Además de lo anterior, se ha desarrollado un plan de monetización a 2 años que comenzaría tras el lanzamiento de la versión Gold Master en Itch.io y Steam en el mes de diciembre. Se iniciaría la fase de producción y lanzamiento de diversos tipos de contenidos con el objetivo de mantener el videojuego en activo durante mínimo dos años. Teniendo esto en cuenta, el plan de monetización a dos años que se ha planteado se puede observar en la siguiente línea de tiempo: 
+
+<p align="center">
+  <img src="/Images/PlanMonetizacion.png">
+</p>
+
+<p align="center"><em>Línea de tiempo del plan de monetización</em></p>
+
+Los DLCs que se mencionan en la línea de tiempo anterior contendrán contenido adicional opcional, agregando una nueva experiencia, pero no siendo necesaria para terminar la historia base del videojuego. Además, incluyen contenido estético, como nuevas skins para los distintos personajes. Los DLCs narrativos incluyen nuevas historias y/o nuevos personajes. 
+
+De todos los DLCs estéticos, una de las skins del pack será gratuita para todos los usuarios. La elección de esta skin se hará mediante una votación en redes sociales, previa a la muestra de los cambios estéticos de los personajes. La razón de hacer eso reside en la gran afluencia que proporcionan los jugadores que únicamente compran el juego base, ya que suelen hablar con amigos y familia, además de proporcionar feedback al equipo. 
+
+<li><b>Métricas</b></li> 
+
+Para finalizar, destacar que, para el desarrollo del plan de monetización a dos años, se han considerado diversas métricas. Estas son las siguientes:  
+
+<li>Horas de juego: un usuario promedio juega entre unas 3 - 4 horas para terminar el juego completo en una ruta y si se quiere terminar el juego entero con todos los capítulos serán unas 12 –13 horas.</li> 
+
+<br></br>
+
+<li>Retención de los jugadores: al tratarse de una novela visual es de interés ver el porcentaje de jugadores que al menos terminan una ruta o permanecen tras empezar los primeros capítulos.</li> 
+
+<br></br>
+
+<li>Redes sociales: como se pudo observar en el plan de monetización, las redes sociales son especialmente importantes para ayudar a tomar determinadas decisiones a la hora del futuro contenido del juego analizando el feedback recibido. Algunos ejemplos serían:
+  
+<li>Selección de skins o determinación de personaje con skin gratuita: Se identificará cuáles son los personajes más populares a través del uso de hashtags en redes sociales. De este modo, los jugadores podrán utilizar estos hashtags para subir sus propios fanarts, así como fanfics o simplemente comentarios acerca de sus personajes favoritos. El personaje que más fanarts y comentarios tenga será el más querido por la comunidad, de modo que será por el que se pueda apostar a la hora de crear una skin de pago.  </li>
+
+<br></br>
+
+<li>Selección de los personajes para las ilustraciones de marketing en eventos. Del mismo modo que el punto anterior, se utilizarán los personajes más populares para promocionar los eventos.</li>
+
+<br></br>
+
+<li>Selección de rutas y ampliación narrativa.</li>
+
+</li> 
+
 ### <h3>4.6. Tablas de productos y precios</h3>
 
 ## <h2>5. Planificación y costes</h2>

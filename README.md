@@ -150,6 +150,7 @@ Por último, se muestra en una tabla los productos que se desarrollarían a lo l
 | DLCs de historia | 4,99€ | 
 
 ## <h2>5. Planificación y costes</h2>
+
 ### <h3>5.1. El equipo humano</h3>
 
 El equipo de trabajo estaría formado por tres miembros de arte y tres miembros de programación. Las funcionalidades de los equipos serían las siguientes: 
@@ -208,26 +209,53 @@ La estimación del desarrollo del proyecto viene dada en función de las tres en
 
 <li>Creación de las redes sociales de la empresa (1 semana). </li> 
 <br></br>
+
+A continuación, se muestra un diagrama de Gantt básico con las funcionalidades desarrolladas para esta entrega y las personas asignadas a cada una de ellas: 
+
+<p align="center">
+  <img src="/Images/EntregaAlfa.png">
+</p>
+
+<p align="center"><em>Diagrama de Gantt de la Entrega Alfa</em></p>
+
 <p><b>Entrega Beta (3 semanas aproximadamente): </b>es la entrega del juego con todas las mecánicas incluidas corrigiendo los bugs y con todos los assets necesarios. En ella se incluyen las siguientes funcionalidades:</p>  
 
-<li>La implementación e inclusión de los personajes, los escenarios y la interfaz (2 semanas).</li>  
+<li>La implementación e inclusión de los personajes, los escenarios y la interfaz, así como las ilustraciones extras de los capítulos y las flores (2 semanas).</li>  
 
-<li>La implementación completa del login del usuario y su correspondiente selección del protagonista (1 semana). </li> 
+<li>La implementación completa del login del usuario y su correspondiente selección del protagonista (1 semana).</li> 
 
-<li>La inclusión completa del guión y su correspondiente optimización (2 semanas). </li> 
+<li>La inclusión completa del guión y su correspondiente optimización (3 semanas).</li> 
 
-<li>La implementación completa de los menús y el sistema de guardado (2 semanas). </li> 
+<li>La implementación completa de los menús y el sistema de guardado (2 semanas en total).</li> 
 
-<li>La implementación del sistema de pausa (1 semana).  </li> 
+<li>La implementación del sistema de pausa (1 semana).</li> 
 
-<li>La implementación completa y optimización del minijuego y el sistema de pedidos (2 semanas). </li> 
+<li>La implementación completa y optimización del minijuego y el sistema de pedidos (3 semanas).</li> 
 <br></br>
+
+A continuación, se muestra un diagrama de Gantt básico con las funcionalidades desarrolladas para la entrega Beta y las personas asignadas a cada una de ellas: 
+
+<p align="center">
+  <img src="/Images/EntregaBeta.png">
+</p>
+
+<p align="center"><em>Diagrama de Gantt de la Entrega Beta</em></p>
+
 <p><b>Entrega del Gold Master (1 mes aproximadamente): </b>es la entrega del juego terminado lo más optimizado posible y con todo el arte incluido. En ella se incluyen las siguientes funcionalidades:</p>  
 
-<li>Mejora del videojuego y de su rejugabilidad (2 - 3 semanas). </li> 
+<li>Mejora del videojuego y de su rejugabilidad: probar varias veces las distintas rutas y comprobar el equilibrio del juego, añadir rutas, flores, etc. (2 - 3 semanas).</li> 
 
-<li>Realización de la etapa de Polishing (4 semanas). </li> 
+<li>Realización de la etapa de Polishing: optimización de la Visual Novel y del minijuego (4 semanas).</li> 
 
+<br></br>
+
+A continuación, se muestra un diagrama de Gantt básico con las funcionalidades desarrolladas para el Gold Master (son funcionalidades aproximadas, dependen del alcance que tenga el proyecto y de las funcionalidades implementadas en la entrega beta) y las personas asignadas a cada una de ellas: 
+
+<p align="center">
+  <img src="/Images/EntregaGoldMaster.png">
+</p>
+
+<p align="center"><em>Diagrama de Gantt del Gold Master</em></p>
 
 ### <h3>5.3. Costes asociados</h3>
 

@@ -695,6 +695,10 @@ Mujer mayor muy misteriosa y cerrada. Tiene un gran motivo para ir a comprar flo
 * **Motivo para comprar flores:** compra flores para poder prensarlas y decorar las cartas que le manda a su pareja que vive lejos. 
 * **Información clave:** Sagrario es una mujer mayor misteriosa y a la que le cuesta confiar en los demás. Es amante de las cosas tradicionales como la mensajería por carta mediante la cual se mantiene en contacto con su novia. Al principio, no sabe si confiar en el/la protagonista por lo que los pedidos suelen ser bastante ambiguos. Sin embargo, a medida que aumente la afinidad irá descubriendo más sobre su historia y el verdadero propósito de sus visitas a la floristería. Suele leer al personaje fragmentos de las cartas para ayudarle a encontrar las flores adecuadas para el mensaje que quiere transmitir.
 
+<p align="center">
+  <img src="/Images/polaroids_sagrario.png">
+</p>
+
 </ul>
 
 #### <h4>7.3.4. Personajes secundarios</h4>
@@ -733,9 +737,17 @@ En último lugar, se encuentran los personajes de apoyo. Estos son personajes qu
 
 Leah es la amiga incondicional del protagonista. La conoce desde la infancia y es su conexión con su antigua vida y hogar. Se siente muy agradecida con ella por el gran apoyo y ayuda que le brindó ante la situación compleja con su expareja. Leah es extrovertida, habladora y curiosa. Contacta con el/la protagonista los fines de semana para preguntarle sobre su vida y el desarrollo de su relación con los personajes. En caso de no quedar con ninguno de los personajes en fin de semana, el/la protagonista queda con ella.  
 
+<p align="center">
+  <img src="/Images/polaroids_leah.png">
+</p>
+
 **<li><p>Limón:</li></p>**
 
 Limón es el gato del protagonista. Es la única compañía que tiene al comienzo de la historia. En muchas ocasiones, el/la protagonista habla con él dando pie a que exprese sus pensamientos en voz alta. 
+
+<p align="center">
+  <img src="/Images/polaroids_limon.png">
+</p>
 
 </ul>
 

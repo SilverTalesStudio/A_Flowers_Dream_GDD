@@ -123,23 +123,17 @@ Para finalizar, destacar que, para el desarrollo del plan de monetización a dos
 
 <li>Horas de juego: un usuario promedio juega entre unas 3 - 4 horas para terminar el juego completo en una ruta y si se quiere terminar el juego entero con todos los capítulos serán unas 12 –13 horas.</li> 
 
-<br></br>
 
 <li>Retención de los jugadores: al tratarse de una novela visual es de interés ver el porcentaje de jugadores que al menos terminan una ruta o permanecen tras empezar los primeros capítulos.</li> 
 
-<br></br>
 
 <li>Redes sociales: como se pudo observar en el plan de monetización, las redes sociales son especialmente importantes para ayudar a tomar determinadas decisiones a la hora del futuro contenido del juego analizando el feedback recibido. Algunos ejemplos serían:
   
-<li>Selección de skins o determinación de personaje con skin gratuita: Se identificará cuáles son los personajes más populares a través del uso de hashtags en redes sociales. De este modo, los jugadores podrán utilizar estos hashtags para subir sus propios fanarts, así como fanfics o simplemente comentarios acerca de sus personajes favoritos. El personaje que más fanarts y comentarios tenga será el más querido por la comunidad, de modo que será por el que se pueda apostar a la hora de crear una skin de pago.  </li>
+- Selección de skins o determinación de personaje con skin gratuita: Se identificará cuáles son los personajes más populares a través del uso de hashtags en redes sociales. De este modo, los jugadores podrán utilizar estos hashtags para subir sus propios fanarts, así como fanfics o simplemente comentarios acerca de sus personajes favoritos. El personaje que más fanarts y comentarios tenga será el más querido por la comunidad, de modo que será por el que se pueda apostar a la hora de crear una skin de pago.
 
-<br></br>
+- Selección de los personajes para las ilustraciones de marketing en eventos. Del mismo modo que el punto anterior, se utilizarán los personajes más populares para promocionar los eventos.
 
-<li>Selección de los personajes para las ilustraciones de marketing en eventos. Del mismo modo que el punto anterior, se utilizarán los personajes más populares para promocionar los eventos.</li>
-
-<br></br>
-
-<li>Selección de rutas y ampliación narrativa.</li>
+- Selección de rutas y ampliación narrativa.
 
 </li> 
 

@@ -963,6 +963,16 @@ Placeholder cita Allan: El Jardín Botánico - Vista en tercera persona
 Placeholder cita Allan: El Jardín Botánico - Vista en primera persona
 </p>
 
+<p align="center">
+<img src="/Images/ilustraciones_ethan_1.png">
+Placeholder cita Ethan: El Chichón - Vista en tercera persona
+</p>
+
+<p align="center">
+<img src="/Images/ilustraciones_ethan_2.png">
+Placeholder cita Ethan: El Chichón - Vista en primera persona
+</p>
+
 ### <h3>8.3. Música</h3>
 Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 
 

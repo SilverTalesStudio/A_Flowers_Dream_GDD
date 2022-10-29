@@ -74,7 +74,33 @@ Los miembros del público objetivo consideran un éxito sacar una buena nota, ha
 <br></br>
 
 ### <h3>4.3. Caja de herramientas</h3>
+
+La caja de herramientas de la empresa sería la siguiente: 
+
+<p align="center">
+  <img src="/Images/CajaDeHerramientas.PNG">
+</p>
+
+<p align="center"><em>Caja de herramientas de la empresa</em></p>
+
+En ella se muestran las relaciones con los principales Stakeholders. 
+
+ Por una parte, la empresa tendría una elación de servicios con Unity, Yarn Spinner y GitHub ya que, con los servicios que proporcionan estas tres empresas, se haría el desarrollo del producto. Además, también se tendría una relación de servicios a cambio de dinero con las empresas propietarias de los softwares de dibujo usados para crear toda la parte de arte del juego (Clip Studio Paint, Procreate y Adobe). 
+
+Por otra parte, se encontrarían las empresas de distribución del producto (Steam e Itch.io) que proporcionarían exposición y menos dinero a cambio de datos y del producto. Estos a su vez, darían el producto a los consumidores a cambio del precio del juego (no todos los jugadores van a comprar el juego, por lo que dicha compra se ha indicado con líneas discontinuas). 
+
+Por último, estaría la relación de la empresa con las redes sociales en la que esta última proporcionaría exposición y datos a cambio de datos de la empresa.
+
 ### <h3>4.4. Lean Canvas</h3>
+
+En función de todo lo mencionado anteriormente, se ha realizado el siguiente Lean Canvas que incluye las principales relaciones que va a tener la empresa, así como su plan de negocio: 
+
+<p align="center">
+  <img src="/Images/LeanCanvas.png">
+</p>
+
+<p align="center"><em>Lean Canvas de la empresa</em></p>
+
 ### <h3>4.5. Plan de moetización a 2 años</h3>
 ### <h3>4.6. Tablas de productos y precios</h3>
 

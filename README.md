@@ -27,7 +27,7 @@ Novela visual de simulación de citas (dating sim) en 2D con mecánicas de admin
 
 En los fines de semana cuando el/la Florista se encuentra de descanso, este/esta hablará con su amiga de la infancia Leah a la que actualizará de su vida en general, especialmente de las relaciones. Será entonces cuando pueda tomar la decisión de profundizar la relación con Allan, Sophie o Ethan mediante una cita, en función de su afinidad con estos, o simplemente no quedar con nadie. 
 
-Durante toda la historia, el/la Florista sentirá y percibirá atisbos de su antigua vida, de aquello de lo que quería huir. Es entonces cuando, en su tercera semana en la nueva ciudad, su ex-pareja vendrá a la tienda para reclamar por su desaparición sin explicaciones tras varios años de relación. Ante la actitud tóxica e irascible del ex, el personaje con el que tenga el/la Florista mayor afinidad (Allan, Sophie o Ethan) ayudarán al protagonista.  
+Durante toda la historia, el/la Florista sentirá y percibirá atisbos de su antigua vida, de aquello de lo que quería huir. Es entonces cuando, en su tercera semana en la nueva ciudad, su ex-pareja, Jacob, vendrá a la tienda para reclamar por su desaparición sin explicaciones tras varios años de relación. Ante la actitud tóxica e irascible de Jacob, el personaje con el que tenga el/la Florista mayor afinidad (Allan, Sophie o Ethan) ayudarán al protagonista.  
 
 Finalmente, en la semana 4, se dará cierre a la historia de el/la Florista con los distintos personajes pudiendo tener un final bueno, neutral o malo con estos.  
 

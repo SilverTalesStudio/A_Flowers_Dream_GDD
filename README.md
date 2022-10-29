@@ -438,11 +438,35 @@ El videojuego se controla únicamente con el ratón. El jugador solo tiene que c
 ### <h3>6.4. Capítulos</h3>
 *A Flower’s Dream: The Beginning* consta de 4 capítulos que coinciden con la duración de 4 semanas en el juego, es decir, cada capítulo es una semana. 
 
-Cada capítulo tiene la misma estructura, el jugador experimenta 3 o 4 días de trabajo en la floristería donde va conociendo a los personajes. El sábado hay siempre una llamada con la amiga del protagonista a modo de resumen de la semana donde se muestra el progreso de la relación del jugador con el resto de los personajes. Según el desarrollo que haga en el día a día, ocurre una cita el fin de semana. 
+Cada capítulo tiene la misma estructura, el jugador experimenta 3 o 4 días de trabajo en la floristería donde va conociendo a los personajes y subiendo o bajando su afinidad con ellos. 
 
-### <h3>6.5. Niveles y misiones</h3>
-### <h3>6.6. Objetos, armas y power ups</h3>
+El sábado hay siempre una llamada con la amiga del protagonista a modo de resumen de la semana donde se muestra el progreso de la relación del jugador con el resto de los personajes. Según el desarrollo que haga en el día a día, puede ocurrir una cita el fin de semana. 
 
+#### <h4>6.4.1. Capítulo 1</h4>
+| Días jugables | Personajes que aparecen |
+|:------------:|:-------------:|
+| Lunes | Sophie, Ethan, Daphne |
+| Miércoles | Sagrario, Pietro, Allan |
+| Jueves | Allan, Sophie, Pietro | 
+| Viernes | Ethan, Sophie |
+| Sábado | Ethan o Allan |
+#### <h4>6.4.1. Capítulo 2</h4>
+| Días jugables | Personajes que aparecen |
+|:------------:|:-------------:|
+| Martes | Sagrario, Pietro, Ethan o Allan |
+| Miércoles | Sophie, Ethan |
+| Jueves | Sophie, Allan | 
+| Domingo | Sophie o Ethan |
+#### <h4>6.4.1. Capítulo 3</h4>
+| Días jugables | Personajes que aparecen |
+|:------------:|:-------------:|
+| Lunes | Sophie, Allan |
+| Miércoles | Ethan, Sagrario |
+| Viernes | Pietro, Sophie o Allan o Ethan |
+| Sábado | Sophie o Allan o Ethan |  
+#### <h4>6.4.1. Capítulo 4</h4>
+De la última semana falta determinar los días jugables. En cuanto a contenido, todos los personajes con los cuales se puede interactuar aparecen en este capítulo y tienen el final de su historia. 
+  
 ## <h2>7. Trasfondo</h2>
 ### <h3>7.1. Descripción detallada de la historia y la trama</h3>
 En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 6. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.  

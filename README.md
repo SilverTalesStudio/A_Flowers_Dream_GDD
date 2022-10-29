@@ -427,6 +427,14 @@ Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una pe
 | Blanco | Rojo | Seducción, amor secreto | Buena suerte, buenas noticias -- Pureza del corazón |
 
 ### <h3>6.3. Controles</h3>
+
+El videojuego se controla únicamente con el ratón. El jugador solo tiene que clicar en los botones de la interfaz para atravesar las pantallas o continuar los diálogos, y en el minijuego de crear ramos cliquea sobre las flores y las arrastra la mesa.
+  <p align="center">
+  <img src="/Images/ControlesRaton.png">
+</p>
+
+<p align="center"><em>Controles con el ratón</em></p>
+  
 ### <h3>6.4. Capítulos</h3>
 *A Flower’s Dream: The Beginning* consta de 4 capítulos que coinciden con la duración de 4 semanas en el juego, es decir, cada capítulo es una semana. 
 

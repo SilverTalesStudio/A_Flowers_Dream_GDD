@@ -279,6 +279,23 @@ Es un videojuego en perspectiva 2D, que hace uso de cámara fija con vista en te
 El videojuego se puede dividir en dos partes respecto a las mecánicas utilizadas, ya que ambas partes son muy diferentes de jugar entre sí. Por un lado, están las fases narrativas en formato Visual Novel, y por otro están las fases de creación de ramos en formato minijuego. 
 
 #### <h4>6.2.1. Visual Novel</h4>
+La mecánica principal de esta fase consiste en la lectura de los diálogos entre los personajes y la elección de contestaciones de las cuales dependerá el devenir de la aventura. Según las opciones que se vayan escogiendo se desbloquearan unas rutas y se bloquearan otras. 
+
+El personaje que esté hablando se resaltará y aparecerá su nombre en el recuadro de diálogo, en el caso de monólogos internos o diálogos de personajes externos a los que aparecen en la conversación no se resaltará a ninguno. Se interactúa con un botón en forma de flor para pasar al siguiente diálogo, y en cualquier momento el jugador puede salir mediante el botón de pausa. 
+
+<p align="center">
+  <img src="/Images/VisualNovel1.PNG">
+</p>
+
+<p align="center"><em>Diálogo entre dos personajes</em></p>
+
+Cuando llega el momento de elegir una respuesta, el jugador selecciona su opción deseada clicando en ella. Las elecciones del jugador afectan al nivel de afinidad de los personajes que se almacenan internamente para tenerlos en cuenta en el progreso de la historia. 
+
+<p align="center">
+  <img src="/Images/VisualNovel2.PNG">
+</p>
+
+<p align="center"><em>Elección de una respuesta</em></p>
 
 #### <h4>6.2.2. Minijuego de las flores</h4>
 La mecánica principal de este minijuego consiste en seleccionar 5 flores no repetidas para formar un ramo acorde a lo que pide el cliente.  

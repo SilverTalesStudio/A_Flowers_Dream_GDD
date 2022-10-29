@@ -37,9 +37,27 @@ El principal propósito del videojuego es el entretenimiento de un público adul
 
 Las plataformas para las que se planea desarrollar el juego son PC y móviles.  
 
-## <h2>4. Monetización</h2>
-### <h3>4.1. Tipo de modelo de monetización</h3>
-### <h3>4.2. Tablas de productos y precios</h3>
+## <h2>4. Modelo de negocio</h2>
+
+A continuación, se especifica el modelo de negocio elegido por la empresa para el juego A Flower’s Dream: The beginning. 
+
+### <h3>4.1. Tipo de modelo de negocio</h3>
+
+La estrategia de negocio que se va a seguir es la de Shareware: se publicará el primer capítulo en las plataformas Itch.io y Steam de forma gratuita, pero se podrá adquirir el juego completo a través de las mismas plataformas mediante un único pago de 11,99€. 
+
+### <h3>4.2. Mapa de empatía</h3>
+
+Como se ha mencionado anteriormente, el público objetivo del juego sería un público adulto a partir de los 16 años que se encuentre estudiando o en sus primeros trabajos. A partir de esto, se ha desarrollado el siguiente mapa de empatía: 
+
+<li><b>¿Qué piensa y siente?</b></li>  
+La principal preocupación del público objetivo sería terminar los estudios y saber qué hacer con su futuro. Estos piensan mucho en el ahora, en las experiencias que pueden vivir mientras son jóvenes, en divertirse y en salir con sus amigos. Disfrutan de medios audiovisuales como películas, música y videojuegos. 
+<br></br>
+
+
+### <h3>4.3. Caja de herramientas</h3>
+### <h3>4.4. Lean Canvas</h3>
+### <h3>4.5. Plan de moetización a 2 años</h3>
+### <h3>4.6. Tablas de productos y precios</h3>
 
 ## <h2>5. Planificación y costes</h2>
 ### <h3>5.1. El equipo humano</h3>

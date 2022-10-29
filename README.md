@@ -27,7 +27,7 @@ Novela visual de simulación de citas (dating sim) en 2D con mecánicas de admin
 
 En los fines de semana cuando el/la Florista se encuentra de descanso, este/esta hablará con su amiga de la infancia Leah a la que actualizará de su vida en general, especialmente de las relaciones. Será entonces cuando pueda tomar la decisión de profundizar la relación con Allan, Sophie o Ethan mediante una cita, en función de su afinidad con estos, o simplemente no quedar con nadie. 
 
-Durante toda la historia, el/la Florista sentirá y percibirá atisbos de su antigua vida, de aquello de lo que quería huir. Es entonces cuando, en su tercera semana en la nueva ciudad, su ex vendrá a la tienda para reclamar por su desaparición sin explicaciones tras varios años de relación. Ante la actitud tóxica e irascible del ex, el personaje con el que tenga el/la Florista mayor afinidad (Allan, Sophie o Ethan) ayudarán al protagonista.  
+Durante toda la historia, el/la Florista sentirá y percibirá atisbos de su antigua vida, de aquello de lo que quería huir. Es entonces cuando, en su tercera semana en la nueva ciudad, su ex-pareja, Jacob, vendrá a la tienda para reclamar por su desaparición sin explicaciones tras varios años de relación. Ante la actitud tóxica e irascible de Jacob, el personaje con el que tenga el/la Florista mayor afinidad (Allan, Sophie o Ethan) ayudarán al protagonista.  
 
 Finalmente, en la semana 4, se dará cierre a la historia de el/la Florista con los distintos personajes pudiendo tener un final bueno, neutral o malo con estos.  
 
@@ -949,6 +949,29 @@ A continuación, se incluye el concept art realizado para los escenarios del vid
   * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva de la calle.
   
 </ul>
+
+##### <h4>8.2.4. Ilustraciones </h4>
+En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustraciones están aún en proceso, pero a continuación se adjuntan los placeholders que se han utilizado en la versión Alpha del juego, es decir, de la versión actual:
+
+<p align="center">
+<img src="/Images/ilustraciones_allan_1.png">
+Placeholder cita Allan: El Jardín Botánico - Vista en tercera persona
+</p>
+
+<p align="center">
+<img src="/Images/ilustraciones_allan_2.png">
+Placeholder cita Allan: El Jardín Botánico - Vista en primera persona
+</p>
+
+<p align="center">
+<img src="/Images/ilustraciones_ethan_1.png">
+Placeholder cita Ethan: El Chichón - Vista en tercera persona
+</p>
+
+<p align="center">
+<img src="/Images/ilustraciones_ethan_2.png">
+Placeholder cita Ethan: El Chichón - Vista en primera persona
+</p>
 
 ### <h3>8.3. Música</h3>
 Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 

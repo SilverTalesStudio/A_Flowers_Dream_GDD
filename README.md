@@ -950,6 +950,19 @@ A continuación, se incluye el concept art realizado para los escenarios del vid
   
 </ul>
 
+##### <h4>8.2.4. Ilustraciones </h4>
+En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustraciones están aún en proceso, pero a continuación se adjuntan los placeholders que se han utilizado en la versión Alpha del juego, es decir, de la versión actual:
+
+<p align="center">
+<img src="/Images/ilustraciones_allan_1.png">
+Placeholder cita Allan: El Jardín Botánico - Vista en tercera persona
+</p>
+
+<p align="center">
+<img src="/Images/ilustraciones_allan_2.png">
+Placeholder cita Allan: El Jardín Botánico - Vista en primera persona
+</p>
+
 ### <h3>8.3. Música</h3>
 Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 
 

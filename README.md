@@ -53,6 +53,25 @@ Como se ha mencionado anteriormente, el público objetivo del juego sería un p�
 La principal preocupación del público objetivo sería terminar los estudios y saber qué hacer con su futuro. Estos piensan mucho en el ahora, en las experiencias que pueden vivir mientras son jóvenes, en divertirse y en salir con sus amigos. Disfrutan de medios audiovisuales como películas, música y videojuegos. 
 <br></br>
 
+<li><b>¿Qué oye?</b></li>  
+Se puede llegar al público objetivo principalmente mediante las redes sociales, los influencers, sus compañeros de clase y sus amigos. A estas edades, por lo general, son personas influenciables y con opiniones bastante parecidas entre ellos. 
+<br></br>
+
+<li><b>¿Qué ve?</b></li>  
+Su entorno lo componen básicamente sus amigos y familiares. Se centra en su vida, sus estudios y sus aficiones. 
+<br></br>
+
+<li><b>¿Qué dice y hace?</b></li>  
+Con estas edades empiezan a formar sus propias opiniones, pero suelen dejarse influir bastante por las opiniones de sus amigos y compañeros. Es posible que se sientan un poco solos o incluso avergonzados de jugar a juegos de citas en Internet, pero encuentran consuelo en los foros. Hacen muchos amigos por Internet y sus padres no suelen tener idea del impacto que esto suele tener en sus hijos. 
+<br></br>
+
+<li><b>Esfuerzos y miedos</b></li>  
+Por lo general, tienen miedo a ser ellos mismos y a expresarse libremente fuera de casa. Como el público objetivo no suele tener una fuente de ingresos, tienen miedo a no poder conseguir el dinero necesario para poder pagar la cita con su personaje favorito o las skins que les gustan. 
+<br></br>
+
+<li><b>Resultados y beneficios</b></li>  
+Los miembros del público objetivo consideran un éxito sacar una buena nota, hacer una buena compra, desbloquear una escena que les haya hecho feliz, etc. En general, algo que les haga sentirse bien. 
+<br></br>
 
 ### <h3>4.3. Caja de herramientas</h3>
 ### <h3>4.4. Lean Canvas</h3>

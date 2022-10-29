@@ -123,9 +123,11 @@ Para finalizar, destacar que, para el desarrollo del plan de monetización a dos
 
 <li>Horas de juego: un usuario promedio juega entre unas 3 - 4 horas para terminar el juego completo en una ruta y si se quiere terminar el juego entero con todos los capítulos serán unas 12 –13 horas.</li> 
 
+<br></br>
 
 <li>Retención de los jugadores: al tratarse de una novela visual es de interés ver el porcentaje de jugadores que al menos terminan una ruta o permanecen tras empezar los primeros capítulos.</li> 
 
+<br></br>
 
 <li>Redes sociales: como se pudo observar en el plan de monetización, las redes sociales son especialmente importantes para ayudar a tomar determinadas decisiones a la hora del futuro contenido del juego analizando el feedback recibido. Algunos ejemplos serían:
   
@@ -138,6 +140,14 @@ Para finalizar, destacar que, para el desarrollo del plan de monetización a dos
 </li> 
 
 ### <h3>4.6. Tablas de productos y precios</h3>
+
+Por último, se muestra en una tabla los productos que se desarrollarían a lo largo de los 2 años y los precios que estos tendrían: 
+
+| PRODUCTO | PRECIO |
+|:------------:|:-------------:|
+| Juego base | 11,99€ | 
+| DLCs de skins | 2,49€ | 
+| DLCs de historia | 4,99€ | 
 
 ## <h2>5. Planificación y costes</h2>
 ### <h3>5.1. El equipo humano</h3>

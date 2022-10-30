@@ -940,10 +940,14 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
   <img src="/Images/pjs_leah_desarrollo.PNG">
 </p>
 
-* <b>Leah</b>
+<p align="center"><em> Proceso actual - Leah</em></p>
+
+* <b>Limón</b>
 <p align="center">
   <img src="/Images/pjs_limon_desarrollo.png">
 </p>
+
+<p align="center"><em> Proceso actual - Limón</em></p>
 
 
 ####<h4>8.2.3. Escenarios</h4>

@@ -469,7 +469,7 @@ De la última semana falta determinar los días jugables. En cuanto a contenido,
   
 ## <h2>7. Trasfondo</h2>
 ### <h3>7.1. Descripción detallada de la historia y la trama</h3>
-En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 6. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.  
+En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 6.4. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.  
 
 El inicio del videojuego introduce a el/la Florista, el protagonista de la historia y el personaje que controla el jugador. Para facilitar la explicación de la historia, en este caso se va a asumir el control de la Florista femenina.  
 
@@ -487,27 +487,27 @@ Dos días después, la Florista continua su trabajo desde muy temprano en la tie
 
 Al poco de abandonar Allan la tienda, entra en la floristería Sagrario, una mujer mayor de apariencia seria y misteriosa. No habla mucho con la Florista y realiza un pedido bastante ambiguo. Al recibir el ramo, abandona la tienda.  
 
-Posteriormente, en el turno de tarde, la Florista se encuentra bastante cansada, pero contenta porque más clientes han venido a la tienda y durante un periodo de tiempo no ha podido parar de trabajar. Dado que el flujo de clientes ha disminuido y queda poco para que termine el turno, se dispone a comer cuando vuelven a sonar las campanas de la floristería. En esta ocasión, quien entra es Pietro, un joven artista enigmático. La Florista le saluda, pero Pietro no reacciona. Le resulta curiosa su actitud, pero piensa que no le ha escuchado y vuelve a insistir. Pietro continua en su mundo, simplemente observando distintas flores con el objetivo de encontrar aquella idónea para pintar. Una vez conseguido, abre su bloc y comienza a dibujar en medio de la floristería. Ante esto, el jugador tendrá la opción de llamarle la atención de forma seca o acercarse a preguntar por curiosidad. En este último caso, Pietro se abrirá más a la Florista sobre sus intenciones. Al final, Pietro se irá sin comprar nada, simplemente despidiéndose con una inclinación de cabeza de la Florista.  
+Posteriormente, en el turno de tarde, la Florista se encuentra bastante cansada, pero contenta porque más clientes han venido a la tienda y durante un periodo de tiempo no ha podido parar de trabajar. Dado que el flujo de clientes ha disminuido y queda poco para que termine el turno, se dispone a comer cuando vuelven a sonar las campanas de la floristería. En esta ocasión, quien entra es Pietro, un joven artista enigmático. La Florista le saluda, pero Pietro no reacciona. Le resulta curiosa su actitud, pero piensa que no la ha escuchado y vuelve a insistir. Pietro continua en su mundo, simplemente observando distintas flores con el objetivo de encontrar aquella idónea para pintar. Una vez conseguido, abre su bloc y comienza a dibujar en medio de la floristería. Ante esto, el jugador tendrá la opción de llamarle la atención de forma seca o acercarse a preguntar por curiosidad. En este último caso, Pietro se abrirá más a la Florista sobre sus intenciones. Al final, Pietro se irá sin comprar nada, simplemente despidiéndose con una inclinación de cabeza.  
 
 En este punto de la historia, el jugador habrá conocido a todos los personajes principales.  
 
-El jueves de la primera semana comienza con la Florista visitando temprano un supermercado para comprar algunos objetos básicos de papelería para la tienda. Se siente muy cómoda en la nueva ciudad, como si hubiera estado viviendo allí siempre. Al entrar en el supermercado, se dispone a ir al pasillo de papelería para comprar unos rotuladores, pero se siente abrumada ante todas las opciones. Entonces, alguien le llama la atención y se encuentra con Allan el cual trabaja en la tienda. Aquí, se le dará al jugador la opción de reconocer a Allan por la interacción con las flores exóticas del día anterior o no reconocerlo. Allan le aconseja a la Florista sobre el rotulador a comprar. El jugador podrá decidir si seguir su consejo o no. Al final, el jefe de Allan lo llama, pero antes de irse este le ofrece a la florista un plan para el fin de semana: ir al jardín botánico, pues le sobra una entrada y no tiene con quien ir. Ante esta opción, el jugador podrá: aceptar, quedando la cita fijada como evento de fin de semana; no aceptar en ese momento, pero con opción a rectificar el propio fin de semana (plan desbloqueado); o no aceptar, sin opción a rectificar. Al final, la Florista termina la compra y regresa a la floristería.  
+El jueves de la primera semana comienza con la Florista visitando temprano un supermercado para comprar algunos objetos básicos de papelería para la tienda. Se siente muy cómoda en la nueva ciudad, como si hubiera estado viviendo allí siempre. Al entrar en el supermercado, se dispone a ir al pasillo de papelería para comprar unos rotuladores, pero se siente abrumada ante todas las opciones. Entonces, alguien le llama la atención y se encuentra con Allan el cual trabaja en la tienda. Aquí, se le dará al jugador la opción de reconocer a Allan por la interacción con las flores exóticas del día anterior o no reconocerlo. Allan le aconseja a la Florista sobre el rotulador a comprar. El jugador podrá decidir si seguir su consejo o no. Al final, el jefe de Allan lo llama, pero antes de irse este le ofrece a la Florista un plan para el fin de semana: ir al jardín botánico, pues le sobra una entrada y no tiene con quien ir. Ante esta opción, el jugador podrá: aceptar, quedando la cita fijada como evento de fin de semana; no aceptar en ese momento, pero con opción a rectificar el propio fin de semana (plan desbloqueado); o no aceptar, sin opción a rectificar. Al final, la Florista termina la compra y regresa a la floristería.  
 
-Ya cerca de la floristería, la Florista descubrirá a Sophie esperando impaciente en la puerta. No está colocado el cartel de aviso. Al llegar, al igual que en la primera interacción con ella, el jugador tendrá opción de contestar de forma sarcástica o de disculparse. Sophie sigue molesta y pide que abra la tienda para poder terminar con esto. Al final, simplemente pide un ramo y se va.  
+Ya cerca de la floristería, la Florista descubrirá a Sophie esperando impaciente en la puerta. No está colocado el cartel de aviso. Al llegar, al igual que en la primera interacción con ella, el jugador tendrá opción de contestar de forma sarcástica o disculparse. Sophie sigue molesta y pide que abra la tienda para poder terminar con esto. Al final, simplemente pide un ramo y se va.  
 
-Un tiempo después de irse Sophie entra Pietro en la floristería de nuevo con la intención de pintar, pero esta vez con un taburete bajo el brazo. Al igual que en la primera interacción, el jugador podrá reprimir las acciones de Pietro o mostrarse cercano. También, tendrá opción de echar a Pietro de la tienda. En este caso, Pietro abandonará la tienda enfadado, pero avisando de que volverá. No realizará pedido.  
+Un tiempo después de irse Sophie entra Pietro en la floristería de nuevo con la intención de pintar, pero esta vez con un taburete bajo el brazo. Al igual que en la primera interacción, el jugador podrá reprender las acciones de Pietro o mostrarse cercano. También, tendrá opción de echar a Pietro de la tienda. En este último caso, Pietro abandonará la tienda enfadado sin realizar ningún tipo de compra, pero avisando de que volverá en un futuro.  
 
 Si el jugador decide dejar a Pietro pintar, este se mostrará más amistoso y la Florista simplemente continuará con su día de trabajo. Antes de cerrar, la Florista avisará a Pietro de que es hora de irse, con opción borde o amigable. Pietro terminará comprando un ramo de flores para poder continuar dibujando en su casa.  
 
 El viernes de la primera semana visitan la floristería Ethan y Sophie. En el camino a la floristería, la Florista se alegra de la llegada del fin de semana y de su fácil adaptación a la nueva zona. Sin embargo, también recuerda a su amiga Leah y su antiguo hogar, haciendo hincapié en el hecho de que tuvo que dejarlo por su propio bien.  
 
-Ya en la floristería, el primer visitante por la mañana es Ethan con el cual la Florista tiene un accidente. Cuando esta estaba a punto de colgar el cartel de descanso para poder comer antes, Ethan abre la puerta y le golpea en la cabeza. La Florista va a caer al suelo desorientada cuando Ethan la sujeta y la ayuda a llegar al mostrador. Aunque el dolor del golpe no la deja pensar bien, pronto se siente mejor y recuerda que la culpa de esta situación es de Ethan. Para intentar librarse de la culpa y aligerar la tensión, Ethan suelta una frase típica de coqueteo. En este punto de la historia, Ethan se gana el apodo de “Eros” por parte del protagonista. Será elección del jugador si reaccionar cortante ante sus avances en esa situación delicada o aceptarlo y reírse por la estupidez del comentario. Mientras ambos personajes conversan, la Florista hace un comentario sobre quedar y Ethan se anima para invitarla a salir. Al igual que en el caso de Allan es decisión del jugador si: aceptar; rechazar temporalmente con posibilidad de aceptar el propio fin de semana; o rechazar completamente a Ethan. Finalmente, Ethan admite haber venido a la floristería corriendo por la necesidad de comprar una flor para su nueva cita que le está esperando.  
+Ya en la floristería, el primer visitante por la mañana es Ethan con el cual la Florista tiene un accidente. Cuando esta estaba a punto de colgar el cartel de descanso para poder comer antes, Ethan abre la puerta y la golpea en la cabeza. La Florista va a caer al suelo desorientada cuando Ethan la sujeta y la ayuda a llegar al mostrador. Aunque el dolor del golpe no la deja pensar bien, pronto se siente mejor y recuerda que la culpa de esta situación es de Ethan. Para intentar librarse y aligerar la tensión, Ethan suelta una frase típica de coqueteo. En este punto de la historia, Ethan se gana el apodo de “Eros” por parte del protagonista. Será elección del jugador si reaccionar cortante ante sus avances en esta situación delicada o aceptarlo y reírse por la estupidez del comentario. Mientras ambos personajes conversan, la Florista hace un comentario sobre quedar y Ethan se anima para invitarla a salir. Al igual que en el caso de Allan es decisión del jugador si: aceptar; rechazar temporalmente con posibilidad de aceptar el propio fin de semana; o rechazar completamente a Ethan. Finalmente, Ethan admite haber venido a la floristería corriendo por la necesidad de comprar una flor para su nueva cita que le está esperando.  
 
 Antes del cierre de la tienda, Sophie aparece. Su principal objetivo es disculparse dado que a su hermana le han encantado los ramos que le ha estado llevando. El jugador podrá aceptar más fácilmente o no las disculpas, pero al final ambas empiezan la relación desde cero. Al aprender la Florista sobre la persona a la que van dirigidas las flores, esta insiste en que la próxima vez podría venir ella a por el ramo, pero Sophie se queda callada de golpe. El jugador podrá insistir o cambiar de tema. En el primer caso, la reacción de Sophie será cortante. Sophie realiza el pedido y abandona la tienda.  
 
 En el fin de semana, la Florista comienza su día hablando con su amiga Leah sobre su nueva vida en la ciudad, la tienda y la gente que ha conocido. Entonces, dependiendo de las elecciones del jugador, este podrá: quedar con Allan para visitar el jardín botánico; quedar con Ethan para tomar algo en un bar; o no quedar con nadie. Ambas citas se desarrollan de forma separada y permiten profundizar más en la relación con los personajes.  
 
-Este sería el final de la primera semana, es decir, del primer capítulo del videojuego en el cual se presenta la historia y se introducen los personajes principales para que el jugador los conozca. Asimismo, destacar que, en esta primera semana, la Florista se siente muy feliz por su nueva libertad. Por fin puede dedicarse a lo que quiere. Estos comentarios hacen hincapié en su relación tóxica con su antigua pareja. Esta no la dejaba tener su propia personalidad y siempre le mandaba lo que tenía que hacer por lo que la Florista había entrado en una rutina de obediencia inconsciente y ocultaba lo que de verdad sentía detrás de una máscara.  
+Este sería el final de la primera semana, es decir, del primer capítulo del videojuego en el cual se presenta la historia y se introducen los personajes principales para que el jugador los conozca. Asimismo, destacar que, en esta primera semana, la Florista se siente muy feliz por su nueva libertad. Por fin puede dedicarse a lo que quiere. Estos comentarios hacen hincapié en su relación tóxica con su antigua pareja. Esta no le dejaba tener su propia personalidad y siempre le mandaba lo que tenía que hacer por lo que la Florista había entrado en una rutina de obediencia inconsciente y ocultaba lo que de verdad sentía tras una máscara.  
 
 El resto de las semanas siguen la misma estructura, con continuas visitas de los personajes a la tienda para que el jugador pueda profundizar o cortar las relaciones en función de sus decisiones. A medida que la afinidad mejore con los intereses románticos, las interacciones serán más amorosas. En el caso de los personajes que no son intereses románticos, se irán descubriendo nuevas partes de sus historias a mayor afinidad.  
 
@@ -523,9 +523,9 @@ El miércoles de la segunda semana visitan la tienda Sophie y Ethan. Sophie, al 
 
 Justo mientras Sophie está abandonando la tienda, entra Ethan. Los dos se cruzan y Ethan hace un comentario sobre la apariencia de Sophie. Debido a su carácter brusco, Sophie le contesta malamente. Tras esta interacción, Ethan se acerca al mostrador y pide un ramo. La Florista le pregunta dudosa para quién es, pues conoce el carácter de Ethan y se siente interesada por él. Entonces, Ethan le indica que es para ella. El jugador podrá decidir cómo reaccionar ante el regalo.  
 
-El jueves regresa Sophie a la tienda porque se ha dado cuenta de que se le cayó el objeto. La Florista la tranquiliza y le dice que lo estaba guardando para cuando volviera. Mientras está realizando el pedido habitual, la Florista menciona que va a haber un concierto del grupo que tienen en común, pero que no tiene suficiente dinero para comprar la entrada. Al oír esto, Sophie le invita. Uno de los integrantes del grupo es su amigo y puede ir gratis con ella. En este caso, el jugador podrá: aceptar la cita; rechazar con opción a rectificación el fin de semana; o rechazar completamente. Si acepta, Sophie le dará su teléfono para estar en contacto.  
+El jueves regresa Sophie a la tienda porque se ha dado cuenta de que se le cayó el objeto. La Florista la tranquiliza y le dice que lo estaba guardando para cuando volviera. Mientras está realizando el pedido habitual, la Florista menciona que va a haber un concierto del grupo que tienen en común, pero que no tiene suficiente dinero para comprar la entrada. Al oír esto, Sophie la invita. Uno de los integrantes del grupo es su amigo y puede ir gratis con ella. En este caso, el jugador podrá: aceptar la cita; rechazar con opción a rectificación el fin de semana; o rechazar completamente. Si acepta, Sophie le dará su teléfono para estar en contacto.  
 
-Posteriormente, Allan acude a ver a la Florista porque ha descubierto una tienda en la que venden flores y plantas exóticas y difíciles de conseguir. Como sabe que comparten la misma afición quiere avisar a la Florista sobre ello. Antes de irse, el jugador tendrá la opción de invitar a tomar algo a Allan cuando termine su turno de trabajo si tiene suficiente afinidad con él. En este diálogo, se podrá ver el horario abusivo que tiene Allan en su trabajo y como su jefe se aprovecha de su ingenuidad. En caso de aceptar, Allan y la Florista tendrán una cita el mismo jueves por la noche en un bar.  
+Posteriormente, Allan acude a ver a la Florista porque ha descubierto una tienda en la que venden flores y plantas exóticas difíciles de conseguir. Como sabe que comparten la misma afición quiere avisar a la Florista sobre ello. Antes de irse, el jugador tendrá la opción de invitar a tomar algo a Allan cuando termine su turno de trabajo si tiene suficiente afinidad con él. En este diálogo, se podrá ver el horario abusivo que tiene Allan en su trabajo y como su jefe se aprovecha de su ingenuidad. En caso de aceptar, Allan y la Florista tendrán una cita el mismo jueves por la noche en un bar.  
 
 Para finalizar la segunda semana, la Florista vuelve a hablar con su amiga para que el jugador pueda obtener un resumen del nivel de afinidad con cada personaje. Entonces, dependiendo de las elecciones del jugador, este podrá: quedar con Sophie para ir al concierto; quedar con Ethan para ir al cine; o no quedar con nadie. Ambas citas se desarrollan de forma separada y permiten profundizar más en la relación con los personajes.  
 
@@ -533,7 +533,7 @@ Para finalizar la segunda semana, la Florista vuelve a hablar con su amiga para 
 
 En la tercera semana, la expareja del protagonista visitará la tienda descubriendo su pasado y la razón de su mudanza a la ciudad.  
 
-El primer día de esta semana, Sophie es el primer personaje que visita la tienda. En función de lo que haya pasado el fin de semana anterior se producirán diferentes escenarios (ramificaciones): si el jugador aceptó la cita del concierto, aumentará la afinidad; si el jugador no quedó con nadie, se producirá una conversación neutral; si el jugador rechazó a Sophie para quedar con Ethan, Sophie se enfadará porque la mintió. En este último caso, se bloquearía la opción amorosa (ruta buena), y solo habría ruta neutral o mala.  
+El primer día de esta semana, Sophie es el primer personaje que visita la tienda. En función de lo que haya pasado el fin de semana anterior se producirán diferentes escenarios (ramificaciones): si el jugador aceptó la cita del concierto, aumentará la afinidad; si el jugador no quedó con nadie, se producirá una conversación neutral; si el jugador rechazó a Sophie para quedar con Ethan, Sophie se enfadará porque le mintió. En este último caso, se bloquearía la opción amorosa (ruta buena), y solo habría ruta neutral o mala.  
 
 Después de Sophie, visita la tienda Allan. Si el jugador tiene suficiente afinidad con él, este propondrá una cita para el fin de semana: pasar una tarde en un paraje natural. 
 
@@ -541,7 +541,7 @@ El miércoles acuden a la tienda Ethan y Sagrario. En el caso de Ethan, se produ
 
 El viernes visita la floristería Pietro. Si el jugador tiene buena afinidad con él, le regala el dibujo de la Amapola del Himalaya que comenzó a dibujar la primera vez que entró en la tienda con una dedicatoria. Por el contrario, si la afinidad es mala, se desarrolla el final malo de Pietro según el cual este deja de visitar la floristería porque se ha cansado de que la Florista continuamente le regañe ante sus intentos de pintar en la tienda.  
 
-Este mismo día se produce un evento especialmente importante para la historia. Jacob, la expareja de la Florista, visita la tienda. Tras investigar sobre el paradero de la Florista ante su misteriosa desaparición, ha descubierto dónde estaba. Enfadado por todo, la acusa en voz alta delante de todos los clientes y la exige volver con él a su antiguo hogar. En este punto, dependiendo del interés romántico con el que el jugador tenga mayor afinidad, se producirá una escena diferente.  
+Este mismo día se produce un evento especialmente importante para la historia. Jacob, la expareja de la Florista, visita la tienda. Tras investigar sobre el paradero de la Florista ante su misteriosa desaparición ha descubierto dónde estaba. Enfadado por todo, la acusa en voz alta delante de todos los clientes y la exige volver con él a su antiguo hogar. En este punto, dependiendo del interés romántico con el que el jugador tenga mayor afinidad, se producirá una escena diferente.  
 
 Para finalizar la tercera semana, la Florista vuelve a hablar con su amiga para que el jugador pueda obtener un resumen del nivel de afinidad con cada personaje. El jugador puede quedar con Ethan, con Sophie, o con Allan.
 
@@ -920,6 +920,12 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 </p>
 <p align="center"><em> Beauty final - Pietro</em></p>
 
+* <b>Sagrario</b>
+<p align="center">
+  <img src="/Images/pjs_sagrario_desarrollo.png">
+</p>
+
+<p align="center"><em> Proceso actual - Sagrario</em></p>
 
 * <b>Daphne</b>
 <p align="center">
@@ -927,6 +933,22 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 </p>
 
 <p align="center"><em> Proceso actual - Daphne</em></p>
+
+
+* <b>Leah</b>
+<p align="center">
+  <img src="/Images/pjs_leah_desarrollo.PNG">
+</p>
+
+<p align="center"><em> Proceso actual - Leah</em></p>
+
+* <b>Limón</b>
+<p align="center">
+  <img src="/Images/pjs_limon_desarrollo.png">
+</p>
+
+<p align="center"><em> Proceso actual - Limón</em></p>
+
 
 ####<h4>8.2.3. Escenarios</h4>
 
@@ -959,6 +981,12 @@ A continuación, se incluye el concept art realizado para los escenarios del vid
   
   * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado gran parte de las referencias empleadas como inspiración para el diseño de la calle: https://pin.it/5wnZEE3. Destacar también que no solo se ha tomado inspiración de estas imágenes, sino que se ha empleado *Google Maps* para buscar lugares reales como, por ejemplo, las calles de Chatan, Prefectura de Okinawa (Japón).  
   * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva de la calle.
+    
+<p align="center">
+<img src="/Images/Thumbnails_Calle.png">
+</p>
+
+<p align="center"><em> Thumbnails Calle</em></p>
   
 </ul>
 
@@ -967,22 +995,22 @@ En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustrac
 
 <p align="center">
 <img src="/Images/ilustraciones_allan_1.png">
-Placeholder cita Allan: El Jardín Botánico - Vista en tercera persona
+<em>Placeholder cita Allan: El Jardín Botánico - Vista en tercera persona</em>
 </p>
 
 <p align="center">
 <img src="/Images/ilustraciones_allan_2.png">
-Placeholder cita Allan: El Jardín Botánico - Vista en primera persona
+<em>Placeholder cita Allan: El Jardín Botánico - Vista en primera persona</em>
 </p>
 
 <p align="center">
 <img src="/Images/ilustraciones_ethan_1.png">
-Placeholder cita Ethan: El Chichón - Vista en tercera persona
+<em>Placeholder cita Ethan: El Chichón - Vista en tercera persona</em>
 </p>
 
 <p align="center">
 <img src="/Images/ilustraciones_ethan_2.png">
-Placeholder cita Ethan: El Chichón - Vista en primera persona
+<em>Placeholder cita Ethan: El Chichón - Vista en primera persona</em>
 </p>
 
 ### <h3>8.3. Música</h3>

@@ -922,7 +922,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 * <b>Sagrario</b>
 <p align="center">
-  <img src="/Images/pjs_sagrario_desarrollo.PNG">
+  <img src="/Images/pjs_sagrario_desarrollo.png">
 </p>
 
 <p align="center"><em> Proceso actual - Sagrario</em></p>

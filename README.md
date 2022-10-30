@@ -752,6 +752,25 @@ Limón es el gato del protagonista. Es la única compañía que tiene al comienz
 </ul>
 
 ### <h3>7.4. Entornos y lugares</h3>
+A lo largo del desarrollo de la historia del videojuego, los personajes van a visitar y pasar por varios entornos y lugares diferentes. Por lo tanto, el videojuego presenta los siguientes escenarios: 
+
+#### <h4>7.4.1. Entornos no románticos</h4> 
+
+* __Floristería:__ tienda del personaje donde va a interactuar con todos los personajes anteriormente descritos. Aquí el jugador podrá incrementar su nivel de afinidad con los personajes con intereses románticos y descubrir la historia que hay detrás de los personajes que solo van a comprar flores. Asimismo, no solo podrá interactuar y conversar con ellos, sino que también podrá realizar los encargos que le realicen mediante el minijuego de las flores.  
+* __Calle:__ escenario de transición entre lugares más importantes. Aquí el jugador tendrá usualmente monólogos internos y a veces interactuará con otros personajes. 
+* __Casa del personaje:__ escenario por el cuál siempre va a empezar el finde semana. Aquí el jugador interactuará mayoritariamente con Leah y Limón, y bajo ciertas condiciones también lo hará con los intereses románticos 
+* __Tienda:__ supermercado del barrio. Es el lugar de trabajo de Allan y el jugador interactúa a veces con él allí. 
+
+#### <h4>7.4.1. Entornos para las citas</h4> 
+
+En estos lugares se interactúa con uno de los intereses románticos y se favorecen los diálogos que permiten subir más el nivel de afinidad. 
+
+* __Cine:__ escenario de una cita con Ethan. En él se retransmite una película de terror que suena de fondo y se escuchan de vez en cuando murmullos del resto de espectadores. 
+* __Jardín botánico:__ escenario de una cita con Allan. Está repleto de árboles, arbustos y flores de todos los tipos. 
+* __Bar:__ entorno diseñado para una cita con Ethan y otra con Allan. El entorno es la terraza de un bar en el que el protagonista y el interés romántico compartirán mesa 
+* __Concierto:__ lugar de la primera cita con Sophie. El personaje principal y Sophie se ubican en la pista, están rodeados de mucha gente y en frente tienen el escenario con el grupo de música tocando 
+* __Bosque:__ escenario de una cita con Allan. Consiste en una ruta natural que atraviesa un bosque, no hay más personajes que el protagonista y él.
+* __Festival:__ escenario de una cita con cualquiera de los intereses románticos. Es una festividad en la ciudad, hay puestos de ocio en la calle y fuegos artificiales. 
 
 ## <h2>8. Arte</h2>
 

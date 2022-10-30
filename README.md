@@ -835,7 +835,7 @@ El objetivo de todo el apartado artístico es hacer sentir al jugador lo más in
 
 ### <h3>10.2. Apartado visual</h3>
 
-####<h4>10.2.1. Imagen corporativa</h4>
+<h4>10.2.1. Imagen corporativa</h4>
 
 **Logo del juego:**
 
@@ -864,7 +864,7 @@ Logo de la empresa
 
 <p align="center"><em>Logo del estudio </em></p>
 
-####<h4>10.2.2. Los Personajes</h4>
+<h4>10.2.2. Los Personajes</h4>
 En el estado actual del proyecto, la mayoría de los personajes están en proceso de desarrollo. Las imágenes que se incluyen a continuación contienen el concept art que hay hasta el día 27 de octubre. Los <em>beautys</em> de cada personaje componen el <em>Sprite principal</em> de cada personaje. 
 
 * <b>La Florista (fem).</b>
@@ -968,7 +968,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center"><em> Proceso actual - Limón</em></p>
 
 
-####<h4>10.2.3. Escenarios</h4>
+<h4>10.2.3. Escenarios</h4>
 
 En el estado actual del proyecto, no se han desarrollado todavía todos los escenarios. Únicamente se han explorado mediante thumbnails y se han generado bocetos de algunos de los escenarios incluidos en la primera semana del videojuego.  
 
@@ -1149,7 +1149,7 @@ Como se puede apreciar en los distintos menús usados de *Referencias 5* se opt�
   <img src="/Images/Nombres.png">
 </p>
 
-* <b>Algunos botones:</b>: 
+* <b>Algunos botones:</b> 
 
 <p align="center">
   <img src="/Images/PartidaNueva.png">

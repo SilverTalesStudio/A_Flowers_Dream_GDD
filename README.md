@@ -101,7 +101,7 @@ En función de todo lo mencionado anteriormente, se ha realizado el siguiente Le
 
 <p align="center"><em>Lean Canvas de la empresa</em></p>
 
-### <h3>4.5. Plan de moetización a 2 años</h3>
+### <h3>4.5. Plan de monetización a 2 años</h3>
 
 <li><b>Plan de monetización</b></li>  
 
@@ -310,7 +310,7 @@ El racimo debe contener 5 flores, por tanto, si el jugador pulsa el botón de fi
 
 Al terminar el minijuego y volver a hablar con el cliente, el diálogo dependerá de las flores seleccionadas, así como la ruta de la partida:  
 
-<li><b>Comprobación de la solución del minijuego</b>
+#### <h4>6.2.3. Comprobación de la solución del minijuego</h4>
 
 El pedido se genera de forma aleatoria dependiendo del personaje. Las variables a tener en cuenta para el minijuego de las flores son: 
 <ul>
@@ -334,7 +334,7 @@ El rango de valores que puede tomar el resultado final es de –12 a 12 puntos. 
 
 Por último, la evaluación cualitativa se envía de vuelta a la Visual Novel y se decide qué dialogo y ruta seguirá la partida del jugador.
 
-<li><b>Prototipo y bocetos del minijuego</b>
+#### <h4>6.2.4. Prototipo y bocetos del minijuego</h4>
 
 <p align="center">
   <img src="/Images/Minijuego1.png">
@@ -366,7 +366,7 @@ Por último, la evaluación cualitativa se envía de vuelta a la Visual Novel y 
 
 <p align="center"><em>Boceto del libro de flores</em></p>
 
-#### <h4>6.2.3. Clasificación de las flores</h4>
+#### <h4>6.2.5. Clasificación de las flores</h4>
 
 En esta tabla, se representan las flores que se van a incluir en el minijuego de la floristería. Al realizar los pedidos, el usuario podrá escoger entre estas flores para generar el ramo correspondiente. El objetivo será tratar de combinar las flores de forma que se acerque lo máximo posible a los requisitos del pedido. En concreto, se mirarán los siguientes factores: colores; sentimientos; y preferencias de cada personaje. En función de estos factores, se otorgarán puntos al jugador. Al final del minijuego, se revisará si la puntuación final supera unos rangos y esto indicará el resultado final que se enviará a la VN para contabilizar en las variables de los personajes. Habrá tres resultados finales posibles: mal, regular, y bien.  
 
@@ -415,7 +415,7 @@ Para finalizar, en la siguiente tabla se recogen la flor favorita y la flor odia
 | Pietro | Centaurea | Rosa roja | 
 | Sagrario | Mirto | Ciclamen | 
 
-#### <h4>6.2.4. Pedidos</h4>
+#### <h4>6.2.6. Pedidos</h4>
 
 Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una petición de alguna flor de un color determinado y alguna flor que transmita un sentimiento en concreto (flores incluidas en la tabla del apartado clasificación de las flores). Además de esto, una vez se muestre el pedido al jugador y mientras este realiza el ramo, se visualizará un resumen del mismo. 
 
@@ -426,7 +426,7 @@ Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una pe
 | Rosa | Rojo | Amistad | Amor eterno, amor verdadero |
 | Blanco | Rojo | Seducción, amor secreto | Buena suerte, buenas noticias -- Pureza del corazón |
 
-### <h3>6.3. Controles</h3>
+## <h2>7. Controles</h3>
 
 El videojuego se controla únicamente con el ratón. El jugador solo tiene que clicar en los botones de la interfaz para atravesar las pantallas o continuar los diálogos, y en el minijuego de crear ramos cliquea sobre las flores y las arrastra la mesa.
   <p align="center">
@@ -435,14 +435,14 @@ El videojuego se controla únicamente con el ratón. El jugador solo tiene que c
 
 <p align="center"><em>Controles con el ratón</em></p>
   
-### <h3>6.4. Capítulos</h3>
+## <h2>8. Capítulos</h3>
 *A Flower’s Dream: The Beginning* consta de 4 capítulos que coinciden con la duración de 4 semanas en el juego, es decir, cada capítulo es una semana. 
 
 Cada capítulo tiene la misma estructura, el jugador experimenta 3 o 4 días de trabajo en la floristería donde va conociendo a los personajes y subiendo o bajando su afinidad con ellos. 
 
 El sábado hay siempre una llamada con la amiga del protagonista a modo de resumen de la semana donde se muestra el progreso de la relación del jugador con el resto de los personajes. Según el desarrollo que haga en el día a día, puede ocurrir una cita el fin de semana. 
 
-#### <h4>6.4.1. Capítulo 1</h4>
+### <h3>8.1. Capítulo 1</h3>
 | Días jugables | Personajes que aparecen |
 |:------------:|:-------------:|
 | Lunes | Sophie, Ethan, Daphne |
@@ -450,26 +450,26 @@ El sábado hay siempre una llamada con la amiga del protagonista a modo de resum
 | Jueves | Allan, Sophie, Pietro | 
 | Viernes | Ethan, Sophie |
 | Sábado | Ethan o Allan |
-#### <h4>6.4.1. Capítulo 2</h4>
+### <h3>8.2. Capítulo 2</h3>
 | Días jugables | Personajes que aparecen |
 |:------------:|:-------------:|
 | Martes | Sagrario, Pietro, Ethan o Allan |
 | Miércoles | Sophie, Ethan |
 | Jueves | Sophie, Allan | 
 | Domingo | Sophie o Ethan |
-#### <h4>6.4.1. Capítulo 3</h4>
+### <h3>8.3. Capítulo 3</h3>
 | Días jugables | Personajes que aparecen |
 |:------------:|:-------------:|
 | Lunes | Sophie, Allan |
 | Miércoles | Ethan, Sagrario |
 | Viernes | Pietro, Sophie o Allan o Ethan |
 | Sábado | Sophie o Allan o Ethan |  
-#### <h4>6.4.1. Capítulo 4</h4>
+### <h3>8.4. Capítulo 4</h3>
 De la última semana falta determinar los días jugables. En cuanto a contenido, todos los personajes con los cuales se puede interactuar aparecen en este capítulo y tienen el final de su historia. 
   
-## <h2>7. Trasfondo</h2>
-### <h3>7.1. Descripción detallada de la historia y la trama</h3>
-En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 6.4. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.  
+## <h2>9. Trasfondo</h2>
+### <h3>9.1. Descripción detallada de la historia y la trama</h3>
+En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 8. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.  
 
 El inicio del videojuego introduce a el/la Florista, el protagonista de la historia y el personaje que controla el jugador. Para facilitar la explicación de la historia, en este caso se va a asumir el control de la Florista femenina.  
 
@@ -547,7 +547,7 @@ Para finalizar la tercera semana, la Florista vuelve a hablar con su amiga para 
 
 Por último, en la cuarta semana se definirán los finales con cada personaje en función de la afinidad obtenida.  
 
-### <h3>7.2. Múltiples finales</h3>
+### <h3>9.2. Múltiples finales</h3>
 
 Debido a la diversidad de personajes y a la posibilidad de elección (ramificaciones), el juego presenta diferentes finales. En función de la afinidad que el jugador tenga con cada personaje, se desbloqueará un final diferente entre los que se encuentran disponibles. Prácticamente todos los finales se desbloquean en la última semana (cuarta semana), con algunas excepciones pertenecientes a finales que se desbloquean con anterioridad. Esto se especificará con más detalle en la descripción de los finales. 
 
@@ -606,7 +606,7 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 </ul>
 
-### <h3>7.3. Personajes</h3>
+### <h3>9.3. Personajes</h3>
 
 *A Flower’s Dream: The Beginning* cuenta con varios personajes que participarán y evolucionarán a lo largo de la historia de la Visual Novel. Estos personajes se pueden dividir en cuatro categorías en función de su rol o papel en la historia:  
 
@@ -751,10 +751,10 @@ Limón es el gato del protagonista. Es la única compañía que tiene al comienz
 
 </ul>
 
-### <h3>7.4. Entornos y lugares</h3>
+### <h3>9.4. Entornos y lugares</h3>
 A lo largo del desarrollo de la historia del videojuego, los personajes van a visitar y pasar por varios entornos y lugares diferentes. Por lo tanto, el videojuego presenta los siguientes escenarios: 
 
-#### <h4>7.4.1. Entornos no románticos</h4> 
+#### <h4>9.4.1. Entornos no románticos</h4> 
 
 * __Floristería:__ tienda del personaje donde va a interactuar con todos los personajes anteriormente descritos. Aquí el jugador podrá incrementar su nivel de afinidad con los personajes con intereses románticos y descubrir la historia que hay detrás de los personajes que solo van a comprar flores. Asimismo, no solo podrá interactuar y conversar con ellos, sino que también podrá realizar los encargos que le realicen mediante el minijuego de las flores.  
 * __Calle:__ escenario de transición entre lugares más importantes. Aquí el jugador tendrá usualmente monólogos internos y a veces interactuará con otros personajes. 
@@ -772,10 +772,10 @@ En estos lugares se interactúa con uno de los intereses románticos y se favore
 * __Bosque:__ escenario de una cita con Allan. Consiste en una ruta natural que atraviesa un bosque, no hay más personajes que el protagonista y él.
 * __Festival:__ escenario de una cita con cualquiera de los intereses románticos. Es una festividad en la ciudad, hay puestos de ocio en la calle y fuegos artificiales. 
 
-## <h2>8. Arte</h2>
+## <h2>10. Arte</h2>
 
 
-### <h3>8.1. Estética general del juego</h3>
+### <h3>10.1. Estética general del juego</h3>
 Dada que la tecnología a utilizar es 2D, el estilo que se ha utilizado es un cartoon estilizado combinando cellshading con degradados. Las principales referencias han sido <em>The Arcana</em>, así como artistas freelance como <em>BoissB</em>. 
 
 <p align="center">
@@ -834,9 +834,9 @@ Para la música, se ha utilizado mucho una tonalidad alegre y vivaz para la gran
 
 El objetivo de todo el apartado artístico es hacer sentir al jugador lo más inmerso y atraído posible por el videojuego. A la par de llamar la atención visualmente. 
 
-### <h3>8.2. Apartado visual</h3>
+### <h3>10.2. Apartado visual</h3>
 
-####<h4>8.2.1. Imagen corporativa</h4>
+####<h4>10.2.1. Imagen corporativa</h4>
 
 **Logo del juego:**
 
@@ -865,7 +865,7 @@ Logo de la empresa
 
 <p align="center"><em>Logo del estudio </em></p>
 
-####<h4>8.2.2. Los Personajes</h4>
+####<h4>10.2.2. Los Personajes</h4>
 En el estado actual del proyecto, la mayoría de los personajes están en proceso de desarrollo. Las imágenes que se incluyen a continuación contienen el concept art que hay hasta el día 27 de octubre. Los <em>beautys</em> de cada personaje componen el <em>Sprite principal</em> de cada personaje. 
 
 * <b>La Florista (fem).</b>
@@ -969,11 +969,11 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center"><em> Proceso actual - Limón</em></p>
 
 
-####<h4>8.2.3. Escenarios</h4>
+####<h4>10.2.3. Escenarios</h4>
 
 En el estado actual del proyecto, no se han desarrollado todavía todos los escenarios. Únicamente se han explorado mediante thumbnails y se han generado bocetos de algunos de los escenarios incluidos en la primera semana del videojuego.  
 
-A continuación, se incluye el concept art realizado para los escenarios del videojuego hasta el día 29 de octubre de 2022. 
+A continuación, se incluye el concept art realizado para los escenarios del videojuego hasta el día 30 de octubre de 2022. 
 
 <ul>
 
@@ -1009,7 +1009,7 @@ A continuación, se incluye el concept art realizado para los escenarios del vid
   
 </ul>
 
-##### <h4>8.2.4. Ilustraciones </h4>
+##### <h4>10.2.4. Ilustraciones </h4>
 En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustraciones están aún en proceso, pero a continuación se adjuntan los placeholders que se han utilizado en la versión Alpha del juego, es decir, de la versión actual:
 
 <p align="center">
@@ -1032,13 +1032,13 @@ En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustrac
 <em>Placeholder cita Ethan: El Chichón - Vista en primera persona</em>
 </p>
 
-## <h2>9. Música</h2>
+## <h2>11. Música</h2>
 Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 
 
 El tono escogido es muy alegre, positivo, vivaz para interpretar el ambiente que hay en las distintas situaciones y en distintos lugares que aparecen en la historia. Al igual que puede ser positivo también hay cambios de tonos a más triste y apagados para situaciones de recuerdos o momentos de honestidad. 
 
 La música no solo está ligada por los lugares sino por las situaciones del protagonista y para diferenciar las personalidades de los distintos personajes que aparecen en escena. 
-### <h3>9.1. Ambiente sonoro</h3>
+### <h3>11.1. Ambiente sonoro</h3>
 Se han separado los distintos ambientes sonoros por los lugares como pueden ser: 
 ##### <h4>9.1.1. Entornos no románticos</h4>
 <ul>
@@ -1066,7 +1066,7 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 <li><p><b>Festival</b>: El ambiente es alegre y de celebración ya que todo el mundo asiste para disfrutar en la feria. Los efectos sonoros son el bullicio de las personas hablando y caminado y los sonidos propios generades por los puestos, además del sonido de fuegos artificiales en su momento correspondiente.</p></li>
 </ul>
 
-### <h3>9.2. Efectos sonoros</h3>
+### <h3>11.2. Efectos sonoros</h3>
 
 Una lista de los efectos sonoros necesarios: 
 <ul>
@@ -1102,7 +1102,7 @@ Una lista de los efectos sonoros necesarios:
 </ul>
  
 
-### <h3>9.3. Música de los personajes</h3> 
+### <h3>11.3. Música de los personajes</h3> 
 
 Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno de los personajes interactuables y más importantes del juego. 
 <ul>
@@ -1117,9 +1117,9 @@ Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno
 <li><p><b>Sagrario</b>: La dulce abuelita tiene un tono alegre, pero también más calmado y de tonalidades relajantes que evocan paz. </p></li>
 </ul>
 
-## <h2>10. Interfaz</h2>
-### <h3>10.1. Diseño básico de los menús</h3>
-Como se puede apreciar en los distintos menús usados de *Referencias 2* se optó por usar el dorado como base para todo lo que es interfaz. Aunque antes de llegar a esta temática se pasaron por varios procesos. 
+## <h2>12. Interfaz</h2>
+### <h3>12.1. Diseño básico de los menús</h3>
+Como se puede apreciar en los distintos menús usados de *Referencias 5* se optó por usar el dorado como base para todo lo que es interfaz. Aunque antes de llegar a esta temática se pasaron por varios procesos. 
 
 <p align="center">
   <img src="/Images/Pantalla_Principal_V1.png">
@@ -1186,14 +1186,14 @@ Para la interfaz de dialogo se ha utilizado la misma paleta de colores y mismo t
   <img src="/Images/Marco-dialogo.png">
 </p>
 
-### <h3>10.2. Diagrama de flujo</h3>
+### <h3>12.2. Diagrama de flujo</h3>
 
 <p align="center">
   <img src="/Images/DiagramaFlujos.png">
 </p>
 
-## <h2>11. Hoja de ruta del desarrollo</h2>
-### <h3>11.1. Hito 1</h3>
+## <h2>13. Hoja de ruta del desarrollo</h2>
+### <h3>13.1. Hito 1</h3>
 
 Finalización de la versión Alpha con la base del videojuego jugable, obviando estética y optimización.  
 
@@ -1205,18 +1205,18 @@ El videojuego cuenta con una adaptación de la resolución acorde para pc, en di
 
 Cualquier otro apartado no comentado está en desarrollo en este momento. 
 
-### <h3>11.2. Hito 2</h3>
+### <h3>13.2. Hito 2</h3>
 
 Finalización de la versión Beta con el juego 100% jugable y con todos los 	diseños, arte y capítulos terminados e implementados. 
 
 Desde la finalización de la versión alfa se requiere del desarrollo de todo el 	arte del juego y su implementación, así como una mejor adaptación de la 		resolución del videojuego en todos los dispositivos. 
 
-### <h3>11.3. Hito 3</h3>
+### <h3>13.3. Hito 3</h3>
 
 Finalización de la versión GoldMaster con todo el videojuego implementado y completo en todos sus apartados, así como optimizado para poder ser jugado por el cliente en todo su esplendor. 
 
 Desde la finalización de la versión beta se necesita optimizar el apartado de implementación para hacer el videojuego lo mejor jugable posible, para ello se llevarán a cabo gran cantidad de testeos por parte del equipo de desarrollo.  
 
-### <h3>11.4. Fecha de lanzamiento</h3>
+### <h3>13.4. Fecha de lanzamiento</h3>
 
 El videojuego será lanzado el día 18 de diciembre de 2022. 

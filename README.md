@@ -193,7 +193,7 @@ El equipo de trabajo estaría formado por tres miembros de arte y tres miembros 
 Por otra parte, estarían las siguientes funcionalidades que son comunes a ambos equipos: 
 
 <li><b>Guión (Clara y María):</b> desarrollo de la narrativa de la Visual Novel y todas las posibles rutas que el jugador puede seguir en función de la afinidad que consiga con los personajes.</li>  
-<br></br>
+
 <li><b>Game design (todo el equipo):</b> diseño del juego y de sus mecánicas.</li> 
 
 ### <h3>5.2. Estimación temporal del desarrollo</h3>
@@ -576,7 +576,7 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 * **Final neutral (cuarta semana):** Sophie se abre con el tema de su hermana pequeña y le cuenta al protagonista para quién son los ramos que encargaba. Es entonces cuando el/la protagonista insiste en conocer a su hermana y llevarla personalmente un ramo de flores hecho con mucho amor. Ante su insistencia y la amistad que siente hacia él/ella, Sophie decide aceptar y ambas acuden a visitar a su hermana al hospital.  
 
-* **Final malo (cuarta semana):** La relación con Sophie no es buena por las continuas contestaciones bordes e insistencias sobre su pasado y hermana. No considera ni una posible amistad. Sus visitas a la floristería son cada vez más escasas hasta que en un momento dado admite que no va a volver porque su hermana ya se encuentra bien y no tiene la obligación de volver a ver la fea cara del protagonista.  
+* **Final malo (cuarta semana):** La relación con Sophie no es buena por las continuas contestaciones bordes e insistencias sobre su pasado y hermana. No considera ni una posible amistad. Sus visitas a la floristería son cada vez más escasas hasta que en un momento dado admite que no va a volver porque su hermana ya se encuentra bien y no tiene la obligación de volver a ver la fea cara del protagonista. <br></br>
 
  
 **<li><p>Allan:</p></li>**  
@@ -585,7 +585,7 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 * **Final neutral (cuarta semana):** Allan y el/la protagonista continúan siendo amigos y quedando para realizar excursiones al aire libre.  
 
-* **Final malo (cuarta semana):** Allan acude a la floristería, pero con menos frecuencia debido a las muchas horas de trabajo que le están imponiendo. El/La protagonista intenta aconsejarle, pero se siente ofendido. Cada vez que se ven se genera una situación incómoda.  
+* **Final malo (cuarta semana):** Allan acude a la floristería, pero con menos frecuencia debido a las muchas horas de trabajo que le están imponiendo. El/La protagonista intenta aconsejarle, pero se siente ofendido. Cada vez que se ven se genera una situación incómoda. <br></br>
 
  
 **<li><p>Ethan:</p></li>** 
@@ -594,7 +594,7 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 * **Final neutral (cuarta semana):** Ethan y el/la protagonista terminan siendo amigos sin desarrollar una relación amorosa. Ambos suelen quedar y mantener conversaciones largas por teléfono sobre libros, una pasión que comparten los dos y que el/la protagonista es de las pocas personas que conoce. En la cuarta semana, Ethan espera a que termine el turno de trabajo en la floristería para quedar a tomar algo, hablar y ponerse al día de las nuevas novedades de la vida. Ethan admite haber conocido a alguien y estar realmente feliz.  
 
-* **Final malo (cuarta semana):** En un día de la cuarta semana, Ethan visita la floristería con su nueva pareja, compra un ramo y cuando la pareja pregunta por el/la protagonista, hace como que no le conoce. La relación que tenía con Ethan se termina, pues este ha decidido pasar página y continuar con su vida de citas y apariencias.  
+* **Final malo (cuarta semana):** En un día de la cuarta semana, Ethan visita la floristería con su nueva pareja, compra un ramo y cuando la pareja pregunta por el/la protagonista, hace como que no le conoce. La relación que tenía con Ethan se termina, pues este ha decidido pasar página y continuar con su vida de citas y apariencias. <br></br>
 
  
 
@@ -604,7 +604,7 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 * **Final bueno (cuarta semana):** Pietro se siente cómodo por la actitud cercana y abierta del protagonista al dejarle pintar en la tienda y el interés que muestra hacia su arte. Por ello, en la cuarta semana viene a ver al protagonista para hablarle sobre su vida y futuro. Después de muchas dudas, Pietro decide luchar por dedicarse profesionalmente al arte y se va a ir a estudiar a la universidad. Debido a la lejanía de esta y al cariño que siente hacia el/la protagonista, le da su teléfono para poder mantenerse en contacto por la amistad que se ha creado.  
 
-* **Final malo (tercera semana):** Debido a la elección del jugador de aquellas opciones secas y cortantes hacia Pietro por entrar a pintar en la floristería sin decir nada y no comprar en algunas ocasiones, Pietro se cansa y en la tercera semana deja de ir a la floristería. El/La protagonista se pregunta por qué Pietro no ha venido en los últimos días a la tienda y, en ese momento, puede ver cómo su figura pasa caminando por la calle a través de las ventanas del escaparate. Dado a que lleva un ramo de flores bajo el brazo, se da a entender que ha ido a otra floristería y que no va a volver.  
+* **Final malo (tercera semana):** Debido a la elección del jugador de aquellas opciones secas y cortantes hacia Pietro por entrar a pintar en la floristería sin decir nada y no comprar en algunas ocasiones, Pietro se cansa y en la tercera semana deja de ir a la floristería. El/La protagonista se pregunta por qué Pietro no ha venido en los últimos días a la tienda y, en ese momento, puede ver cómo su figura pasa caminando por la calle a través de las ventanas del escaparate. Dado a que lleva un ramo de flores bajo el brazo, se da a entender que ha ido a otra floristería y que no va a volver. <br></br>
 
  
 **<li><p>Sagrario:</p></li>**
@@ -758,8 +758,8 @@ A lo largo del desarrollo de la historia del videojuego, los personajes van a vi
 * __Floristería:__ tienda del personaje donde va a interactuar con todos los personajes anteriormente descritos. Aquí el jugador podrá incrementar su nivel de afinidad con los personajes con intereses románticos y descubrir la historia que hay detrás de los personajes que solo van a comprar flores. Asimismo, no solo podrá interactuar y conversar con ellos, sino que también podrá realizar los encargos que le realicen mediante el minijuego de las flores.  
 * __Calle:__ escenario de transición entre lugares más importantes. Aquí el jugador tendrá usualmente monólogos internos y a veces interactuará con otros personajes. 
 * __Casa del personaje:__ escenario por el cuál siempre va a empezar el finde semana. Aquí el jugador interactuará mayoritariamente con Leah y Limón, y bajo ciertas condiciones también lo hará con los intereses románticos 
-* __Tienda:__ supermercado del barrio. Es el lugar de trabajo de Allan y el jugador interactúa a veces con él allí. 
-<br></br>
+* __Tienda:__ supermercado del barrio. Es el lugar de trabajo de Allan y el jugador interactúa a veces con él allí. <br></br>
+
 <b>2. Entornos para las citas </b>
 
 En estos lugares se interactúa con uno de los intereses románticos y se favorecen los diálogos que permiten subir más el nivel de afinidad. 
@@ -978,8 +978,8 @@ A continuación, se incluye el concept art realizado para los escenarios del vid
 
   **<li><p>Floristería: </li></p>**
   
-  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño de la floristería:  https://pin.it/2G2iOy8 
-  * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva del escenario.
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño de la floristería:  https://pin.it/2G2iOy8 <br></br>
+  * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva del escenario. <br></br>
   
 <p align="center">
 <img src="/Images/Thumbnails_Floristería.png">
@@ -987,7 +987,7 @@ A continuación, se incluye el concept art realizado para los escenarios del vid
 
 <p align="center"><em> Thumbnails Floristería</em></p>
 
-  * **Boceto:** A continuación, se muestra el boceto de la floristería. Para su creación, se ha partido de la base del ***Thumbnail número 1*** por su perspectiva y composición.
+  * **Boceto:** A continuación, se muestra el boceto de la floristería. Para su creación, se ha partido de la base del ***Thumbnail número 1*** por su perspectiva y composición. <br></br>
   
  <p align="center">
 <img src="/Images/Boceto_Floristeria.png">
@@ -997,8 +997,8 @@ A continuación, se incluye el concept art realizado para los escenarios del vid
 
 **<li><p>Calle: </li></p>**
   
-  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado gran parte de las referencias empleadas como inspiración para el diseño de la calle: https://pin.it/5wnZEE3. Destacar también que no solo se ha tomado inspiración de estas imágenes, sino que se ha empleado *Google Maps* para buscar lugares reales como, por ejemplo, las calles de Chatan, Prefectura de Okinawa (Japón).  
-  * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva de la calle.
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado gran parte de las referencias empleadas como inspiración para el diseño de la calle: https://pin.it/5wnZEE3. Destacar también que no solo se ha tomado inspiración de estas imágenes, sino que se ha empleado *Google Maps* para buscar lugares reales como, por ejemplo, las calles de Chatan, Prefectura de Okinawa (Japón). <br></br> 
+  * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva de la calle. <br></br>
     
 <p align="center">
 <img src="/Images/Thumbnails_Calle.png">

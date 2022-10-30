@@ -920,6 +920,12 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 </p>
 <p align="center"><em> Beauty final - Pietro</em></p>
 
+* <b>Sagrario</b>
+<p align="center">
+  <img src="/Images/pjs_sagrario_desarrollo.PNG">
+</p>
+
+<p align="center"><em> Proceso actual - Sagrario</em></p>
 
 * <b>Daphne</b>
 <p align="center">
@@ -927,6 +933,18 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 </p>
 
 <p align="center"><em> Proceso actual - Daphne</em></p>
+
+
+* <b>Leah</b>
+<p align="center">
+  <img src="/Images/pjs_leah_desarrollo.PNG">
+</p>
+
+* <b>Leah</b>
+<p align="center">
+  <img src="/Images/pjs_limon_desarrollo.png">
+</p>
+
 
 ####<h4>8.2.3. Escenarios</h4>
 

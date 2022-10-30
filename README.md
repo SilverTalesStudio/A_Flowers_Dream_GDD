@@ -85,9 +85,9 @@ La caja de herramientas de la empresa sería la siguiente:
 
 En ella se muestran las relaciones con los principales Stakeholders. 
 
- Por una parte, la empresa tendría una elación de servicios con Unity, Yarn Spinner y GitHub ya que, con los servicios que proporcionan estas tres empresas, se haría el desarrollo del producto. Además, también se tendría una relación de servicios a cambio de dinero con las empresas propietarias de los softwares de dibujo usados para crear toda la parte de arte del juego (Clip Studio Paint, Procreate y Adobe). 
+ Por una parte, la empresa tendría una elación de servicios con *Unity*, *Yarn Spinner* y *GitHub* ya que, con los servicios que proporcionan estas tres empresas, se haría el desarrollo del producto. Además, también se tendría una relación de servicios a cambio de dinero con las empresas propietarias de los softwares de dibujo usados para crear toda la parte de arte del juego (*Clip Studio Paint*, *Procreate* y *Adobe*). 
 
-Por otra parte, se encontrarían las empresas de distribución del producto (Steam e Itch.io) que proporcionarían exposición y menos dinero a cambio de datos y del producto. Estos a su vez, darían el producto a los consumidores a cambio del precio del juego (no todos los jugadores van a comprar el juego, por lo que dicha compra se ha indicado con líneas discontinuas). 
+Por otra parte, se encontrarían las empresas de distribución del producto (*Steam* e *Itch.io*) que proporcionarían exposición y menos dinero a cambio de datos y del producto. Estos a su vez, darían el producto a los consumidores a cambio del precio del juego (no todos los jugadores van a comprar el juego, por lo que dicha compra se ha indicado con líneas discontinuas). 
 
 Por último, estaría la relación de la empresa con las redes sociales en la que esta última proporcionaría exposición y datos a cambio de datos de la empresa.
 
@@ -105,7 +105,7 @@ En función de todo lo mencionado anteriormente, se ha realizado el siguiente Le
 
 <li><b>Plan de monetización</b></li>  
 
-Además de lo anterior, se ha desarrollado un plan de monetización a 2 años que comenzaría tras el lanzamiento de la versión Gold Master en Itch.io y Steam en el mes de diciembre. Se iniciaría la fase de producción y lanzamiento de diversos tipos de contenidos con el objetivo de mantener el videojuego en activo durante mínimo dos años. Teniendo esto en cuenta, el plan de monetización a dos años que se ha planteado se puede observar en la siguiente línea de tiempo: 
+Además de lo anterior, se ha desarrollado un plan de monetización a 2 años que comenzaría tras el lanzamiento de la versión Gold Master en *Itch.io* y *Steam* en el mes de diciembre. Se iniciaría la fase de producción y lanzamiento de diversos tipos de contenidos con el objetivo de mantener el videojuego en activo durante mínimo dos años. Teniendo esto en cuenta, el plan de monetización a dos años que se ha planteado se puede observar en la siguiente línea de tiempo: 
 
 <p align="center">
   <img src="/Images/PlanMonetizacion.png">
@@ -121,23 +121,25 @@ De todos los DLCs estéticos, una de las skins del pack será gratuita para todo
 
 Para finalizar, destacar que, para el desarrollo del plan de monetización a dos años, se han considerado diversas métricas. Estas son las siguientes:  
 
-<li>Horas de juego: un usuario promedio juega entre unas 3 - 4 horas para terminar el juego completo en una ruta y si se quiere terminar el juego entero con todos los capítulos serán unas 12 –13 horas.</li> 
+<li><b>Horas de juego:</b> un usuario promedio juega entre unas 3 - 4 horas para terminar el juego completo en una ruta y si se quiere terminar el juego entero con todos los capítulos serán unas 12 –13 horas.</li> 
 
 <br></br>
 
-<li>Retención de los jugadores: al tratarse de una novela visual es de interés ver el porcentaje de jugadores que al menos terminan una ruta o permanecen tras empezar los primeros capítulos.</li> 
+<li><b>Retención de los jugadores:</b> al tratarse de una novela visual es de interés ver el porcentaje de jugadores que al menos terminan una ruta o permanecen tras empezar los primeros capítulos.</li> 
 
 <br></br>
 
-<li>Redes sociales: como se pudo observar en el plan de monetización, las redes sociales son especialmente importantes para ayudar a tomar determinadas decisiones a la hora del futuro contenido del juego analizando el feedback recibido. Algunos ejemplos serían:
+<ul>
+
+<b><li><p>Redes sociales: </p></li></b>como se pudo observar en el plan de monetización, las redes sociales son especialmente importantes para ayudar a tomar determinadas decisiones a la hora del futuro contenido del juego analizando el feedback recibido. Algunos ejemplos serían:
   
-- Selección de skins o determinación de personaje con skin gratuita: Se identificará cuáles son los personajes más populares a través del uso de hashtags en redes sociales. De este modo, los jugadores podrán utilizar estos hashtags para subir sus propios fanarts, así como fanfics o simplemente comentarios acerca de sus personajes favoritos. El personaje que más fanarts y comentarios tenga será el más querido por la comunidad, de modo que será por el que se pueda apostar a la hora de crear una skin de pago.
+* **Selección de skins o determinación de personaje con skin gratuita:** Se identificará cuáles son los personajes más populares a través del uso de hashtags en redes sociales. De este modo, los jugadores podrán utilizar estos hashtags para subir sus propios fanarts, así como fanfics o simplemente comentarios acerca de sus personajes favoritos. El personaje que más fanarts y comentarios tenga será el más querido por la comunidad, de modo que será por el que se pueda apostar a la hora de crear una skin de pago.
 
-- Selección de los personajes para las ilustraciones de marketing en eventos. Del mismo modo que el punto anterior, se utilizarán los personajes más populares para promocionar los eventos.
+* **Selección de los personajes para las ilustraciones de marketing en eventos:** Del mismo modo que el punto anterior, se utilizarán los personajes más populares para promocionar los eventos.
 
-- Selección de rutas y ampliación narrativa.
+* **Selección de rutas y ampliación narrativa.**
 
-</li> 
+</ul>
 
 ### <h3>4.6. Tablas de productos y precios</h3>
 
@@ -155,34 +157,38 @@ Por último, se muestra en una tabla los productos que se desarrollarían a lo l
 
 El equipo de trabajo estaría formado por tres miembros de arte y tres miembros de programación. Las funcionalidades de los equipos serían las siguientes: 
 
-<b><p>Equipo de arte</p></b>  
+<ul>
 
-<li><b>Concept y desarrollo de personajes (Cecilia):</b> diseño y realización de los sprites de los personajes que se incluirán en la Visual Novel.</li>  
+<b><li><p>Equipo de arte</p></li></b>
+
+* **Concept y desarrollo de personajes (Cecilia):** diseño y realización de los sprites de los personajes que se incluirán en la Visual Novel.
 <br></br>
-<li><b>Concept y desarrollo de escenarios (María):</b> diseño y realización de los sprites de los escenarios de la Visual Novel (floristería, encuentros con los personajes y citas).</li> 
+* **Concept y desarrollo de escenarios (María):** diseño y realización de los sprites de los escenarios de la Visual Novel (floristería, encuentros con los personajes y citas).
 <br></br>
-<li><b>Concept y desarrollo de la interfaz (Karim):</b> diseño y realización de los sprites correspondientes a la interfaz (textos, botones, etc.).</li> 
+* **Concept y desarrollo de la interfaz (Karim):** diseño y realización de los sprites correspondientes a la interfaz (textos, botones, etc.).
 <br></br>
-<li><b>Portfolio de la empresa (Karim y María):</b> diseño y creación del portfolio de la empresa en Github pages.</li>
+* **Portfolio de la empresa (Karim y María):** diseño y creación del portfolio de la empresa en Github pages.
 <br></br>
-<li><b>Redes sociales (Cecilia):</b> actualización de las redes sociales y subida de comentarios y encuestas sobre los personajes.</li>
+* **Redes sociales (Cecilia):** actualización de las redes sociales y subida de comentarios y encuestas sobre los personajes.
 <br></br>
-<li><b>Búsqueda de Música (Karim):</b> búsqueda de los distintos efectos sonoros y música ambiental para cada situación y personaje.</li>
+* **Búsqueda de Música (Karim):** búsqueda de los distintos efectos sonoros y música ambiental para cada situación y personaje.
 <br></br>
 
-<b><p>Equipo de desarrollo</p></b>  
+<b><li><p>Equipo de desarrollo</p></li></b> 
 
-<li><b>Implementación de los menús (Bárbara):</b> programación de los menús de inicio (menú, pantalla de créditos, galería, etc.) y de contacto del juego.</li> 
+* **Implementación de los menús (Bárbara):** programación de los menús de inicio (menú, pantalla de créditos, galería, etc.) y de contacto del juego. 
 <br></br>
-<li><b>Desarrollo de la Visual Novel y pausa (Clara):</b> programación de la Visual Novel a partir del guión e implementación de la pausa.</li> 
+* **Desarrollo de la Visual Novel y pausa (Clara):** programación de la Visual Novel a partir del guión e implementación de la pausa. 
 <br></br>
-<li><b>Desarrollo del minijuego (Andrea y Bárbara):</b> implementación del sistema de pedidos y el sistema de realización de los ramos de flores durante el minijuego.</li> 
+* **Desarrollo del minijuego (Andrea y Bárbara):** implementación del sistema de pedidos y el sistema de realización de los ramos de flores durante el minijuego.
 <br></br>
-<li><b>Desarrollo del sistema de guardado (por determinar):</b> implementación del guardado del progreso del jugador a lo largo de la Visual Novel y la posibilidad de iniciar una nueva partida.</li>
+* **Desarrollo del sistema de guardado (por determinar):** implementación del guardado del progreso del jugador a lo largo de la Visual Novel y la posibilidad de iniciar una nueva partida.
 <br></br>
-<li><b>Desarrollo del login y selección del protagonista (Clara):</b> creación de una pantalla inicial desde donde el jugador pueda elegir el nombre y el género del personaje protagonista. </li>
+* **Desarrollo del login y selección del protagonista (Clara):** creación de una pantalla inicial desde donde el jugador pueda elegir el nombre y el género del personaje protagonista.
 
 <br></br>
+
+</ul>
 
 Por otra parte, estarían las siguientes funcionalidades que son comunes a ambos equipos: 
 
@@ -194,20 +200,23 @@ Por otra parte, estarían las siguientes funcionalidades que son comunes a ambos
 
 La estimación del desarrollo del proyecto viene dada en función de las tres entregas que se tienen que realizar (entrega Alfa, entrega Beta y entrega del Gold Master). Se plantea la siguiente estimación para cada una de ellas: 
 
-<p><b>Entrega Alfa (mes y medio aproximadamente): </b>es la entrega del prototipo con una funcionalidad básica. En ella se incluyen las siguientes funcionalidades:</p> 
-<li>Los primeros concepts de los personajes, los escenarios y la interfaz (4 semanas). </li>  
+<ul>
 
-<li>La implementación básica del login del usuario y la elección del protagonista (1 semana). </li> 
+<b><li><p>Entrega Alfa (mes y medio aproximadamente):</b> es la entrega del prototipo con una funcionalidad básica. En ella se incluyen las siguientes funcionalidades:</p></li>
 
-<li>La inclusión de la primera semana del guión (5 semanas). </li> 
+* Los primeros concepts de los personajes, los escenarios y la interfaz (4 semanas).
 
-<li>La implementación básica de los menús (1 semana). </li> 
+* La implementación básica del login del usuario y la elección del protagonista (1 semana).
 
-<li>La implementación básica del minijuego y sus funcionalidades (5 semanas). </li> 
+* La inclusión de la primera semana del guión (5 semanas). 
 
-<li>Creación del portfolio de empresa (2 semanas). </li> 
+* La implementación básica de los menús (1 semana). 
 
-<li>Creación de las redes sociales de la empresa (1 semana). </li> 
+* La implementación básica del minijuego y sus funcionalidades (5 semanas).
+
+* Creación del portfolio de empresa (2 semanas).
+
+* Creación de las redes sociales de la empresa (1 semana).
 <br></br>
 
 A continuación, se muestra un diagrama de Gantt básico con las funcionalidades desarrolladas para esta entrega y las personas asignadas a cada una de ellas: 
@@ -218,19 +227,19 @@ A continuación, se muestra un diagrama de Gantt básico con las funcionalidades
 
 <p align="center"><em>Diagrama de Gantt de la Entrega Alfa</em></p>
 
-<p><b>Entrega Beta (3 semanas aproximadamente): </b>es la entrega del juego con todas las mecánicas incluidas corrigiendo los bugs y con todos los assets necesarios. En ella se incluyen las siguientes funcionalidades:</p>  
+<b><li><p>Entrega Beta (3 semanas aproximadamente): </b>es la entrega del juego con todas las mecánicas incluidas corrigiendo los bugs y con todos los assets necesarios. En ella se incluyen las siguientes funcionalidades:</p></li>
 
-<li>La implementación e inclusión de los personajes, los escenarios y la interfaz, así como las ilustraciones extras de los capítulos y las flores (2 semanas).</li>  
+* La implementación e inclusión de los personajes, los escenarios y la interfaz, así como las ilustraciones extras de los capítulos y las flores (2 semanas).  
 
-<li>La implementación completa del login del usuario y su correspondiente selección del protagonista (1 semana).</li> 
+* La implementación completa del login del usuario y su correspondiente selección del protagonista (1 semana).
 
-<li>La inclusión completa del guión y su correspondiente optimización (3 semanas).</li> 
+* La inclusión completa del guión y su correspondiente optimización (3 semanas). 
 
-<li>La implementación completa de los menús y el sistema de guardado (2 semanas en total).</li> 
+* La implementación completa de los menús y el sistema de guardado (2 semanas en total).
 
-<li>La implementación del sistema de pausa (1 semana).</li> 
+* La implementación del sistema de pausa (1 semana).
 
-<li>La implementación completa y optimización del minijuego y el sistema de pedidos (3 semanas).</li> 
+* La implementación completa y optimización del minijuego y el sistema de pedidos (3 semanas). 
 <br></br>
 
 A continuación, se muestra un diagrama de Gantt básico con las funcionalidades desarrolladas para la entrega Beta y las personas asignadas a cada una de ellas: 
@@ -241,11 +250,13 @@ A continuación, se muestra un diagrama de Gantt básico con las funcionalidades
 
 <p align="center"><em>Diagrama de Gantt de la Entrega Beta</em></p>
 
-<p><b>Entrega del Gold Master (1 mes aproximadamente): </b>es la entrega del juego terminado lo más optimizado posible y con todo el arte incluido. En ella se incluyen las siguientes funcionalidades:</p>  
+<b><li><p>Entrega del Gold Master (1 mes aproximadamente): </b>es la entrega del juego terminado lo más optimizado posible y con todo el arte incluido. En ella se incluyen las siguientes funcionalidades:</p></li>
 
-<li>Mejora del videojuego y de su rejugabilidad: probar varias veces las distintas rutas y comprobar el equilibrio del juego, añadir rutas, flores, etc. (2 - 3 semanas).</li> 
+* <b>Mejora del videojuego y de su rejugabilidad:</b> probar varias veces las distintas rutas y comprobar el equilibrio del juego, añadir rutas, flores, etc. (2 - 3 semanas).</li> 
 
-<li>Realización de la etapa de Polishing: optimización de la Visual Novel y del minijuego (4 semanas).</li> 
+* <b>Realización de la etapa de Polishing:</b> optimización de la Visual Novel y del minijuego (4 semanas).
+
+</ul>
 
 <br></br>
 
@@ -469,7 +480,7 @@ De la última semana falta determinar los días jugables. En cuanto a contenido,
   
 ## <h2>9. Trasfondo</h2>
 ### <h3>9.1. Descripción detallada de la historia y la trama</h3>
-En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 8. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales.  
+En este apartado, se incluye una descripción detallada de la historia del juego. Como se indicó en el ***Apartado 8. Capítulos***, el videojuego divide la historia en cuatro capítulos los cuales se corresponden con semanas. Cada una de estas semanas está formada a su vez por 3 o 4 días de trabajo, en los que los personajes visitan la floristería e interactúan con el jugador, y el fin de semana, en el que el jugador podrá quedar con los intereses románticos. Asimismo, dado a que el jugador puede elegir entre diferentes opciones al hablar con los personajes, se generan ramificaciones que harán que la historia con cada personaje varíe ligeramente. Esta también es la razón de que en el juego existan múltiples finales. <br></br>
 
 El inicio del videojuego introduce a el/la Florista, el protagonista de la historia y el personaje que controla el jugador. Para facilitar la explicación de la historia, en este caso se va a asumir el control de la Florista femenina.  
 
@@ -509,10 +520,9 @@ En el fin de semana, la Florista comienza su día hablando con su amiga Leah sob
 
 Este sería el final de la primera semana, es decir, del primer capítulo del videojuego en el cual se presenta la historia y se introducen los personajes principales para que el jugador los conozca. Asimismo, destacar que, en esta primera semana, la Florista se siente muy feliz por su nueva libertad. Por fin puede dedicarse a lo que quiere. Estos comentarios hacen hincapié en su relación tóxica con su antigua pareja. Esta no le dejaba tener su propia personalidad y siempre le mandaba lo que tenía que hacer por lo que la Florista había entrado en una rutina de obediencia inconsciente y ocultaba lo que de verdad sentía tras una máscara.  
 
-El resto de las semanas siguen la misma estructura, con continuas visitas de los personajes a la tienda para que el jugador pueda profundizar o cortar las relaciones en función de sus decisiones. A medida que la afinidad mejore con los intereses románticos, las interacciones serán más amorosas. En el caso de los personajes que no son intereses románticos, se irán descubriendo nuevas partes de sus historias a mayor afinidad.  
+El resto de las semanas siguen la misma estructura, con continuas visitas de los personajes a la tienda para que el jugador pueda profundizar o cortar las relaciones en función de sus decisiones. A medida que la afinidad mejore con los intereses románticos, las interacciones serán más amorosas. En el caso de los personajes que no son intereses románticos, se irán descubriendo nuevas partes de sus historias a mayor afinidad. <br></br>
 
  
-
 El primer día de la segunda semana, visitan la tienda Sagrario y Pietro. Sagrario preguntará a la Florista sobre su vida amorosa en caso de que haya ido a una cita con Ethan o Allan, pues los vio juntos. Asimismo, se descubrirá un poco la razón de sus visitas a la tienda: prensar flores para enviarlas en las cartas a su pareja que vive lejos. 
 
 En cuanto a Pietro, este vuelve a la floristería mientras la Florista está atendiendo a Sagrario con la intención de pintar. Si previamente el jugador le dejó pintar, Sagrario le va a echar la bronca. En caso contrario, esperará su turno para comprar.  
@@ -527,9 +537,8 @@ El jueves regresa Sophie a la tienda porque se ha dado cuenta de que se le cayó
 
 Posteriormente, Allan acude a ver a la Florista porque ha descubierto una tienda en la que venden flores y plantas exóticas difíciles de conseguir. Como sabe que comparten la misma afición quiere avisar a la Florista sobre ello. Antes de irse, el jugador tendrá la opción de invitar a tomar algo a Allan cuando termine su turno de trabajo si tiene suficiente afinidad con él. En este diálogo, se podrá ver el horario abusivo que tiene Allan en su trabajo y como su jefe se aprovecha de su ingenuidad. En caso de aceptar, Allan y la Florista tendrán una cita el mismo jueves por la noche en un bar.  
 
-Para finalizar la segunda semana, la Florista vuelve a hablar con su amiga para que el jugador pueda obtener un resumen del nivel de afinidad con cada personaje. Entonces, dependiendo de las elecciones del jugador, este podrá: quedar con Sophie para ir al concierto; quedar con Ethan para ir al cine; o no quedar con nadie. Ambas citas se desarrollan de forma separada y permiten profundizar más en la relación con los personajes.  
+Para finalizar la segunda semana, la Florista vuelve a hablar con su amiga para que el jugador pueda obtener un resumen del nivel de afinidad con cada personaje. Entonces, dependiendo de las elecciones del jugador, este podrá: quedar con Sophie para ir al concierto; quedar con Ethan para ir al cine; o no quedar con nadie. Ambas citas se desarrollan de forma separada y permiten profundizar más en la relación con los personajes. <br></br>
 
- 
 
 En la tercera semana, la expareja del protagonista visitará la tienda descubriendo su pasado y la razón de su mudanza a la ciudad.  
 
@@ -543,7 +552,7 @@ El viernes visita la floristería Pietro. Si el jugador tiene buena afinidad con
 
 Este mismo día se produce un evento especialmente importante para la historia. Jacob, la expareja de la Florista, visita la tienda. Tras investigar sobre el paradero de la Florista ante su misteriosa desaparición ha descubierto dónde estaba. Enfadado por todo, la acusa en voz alta delante de todos los clientes y la exige volver con él a su antiguo hogar. En este punto, dependiendo del interés romántico con el que el jugador tenga mayor afinidad, se producirá una escena diferente.  
 
-Para finalizar la tercera semana, la Florista vuelve a hablar con su amiga para que el jugador pueda obtener un resumen del nivel de afinidad con cada personaje. El jugador puede quedar con Ethan, con Sophie, o con Allan.
+Para finalizar la tercera semana, la Florista vuelve a hablar con su amiga para que el jugador pueda obtener un resumen del nivel de afinidad con cada personaje. El jugador puede quedar con Ethan, con Sophie, o con Allan. <br></br>
 
 Por último, en la cuarta semana se definirán los finales con cada personaje en función de la afinidad obtenida.  
 
@@ -608,11 +617,9 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 ### <h3>9.3. Personajes</h3>
 
-*A Flower’s Dream: The Beginning* cuenta con varios personajes que participarán y evolucionarán a lo largo de la historia de la Visual Novel. Estos personajes se pueden dividir en cuatro categorías en función de su rol o papel en la historia:  
+*A Flower’s Dream: The Beginning* cuenta con varios personajes que participarán y evolucionarán a lo largo de la historia de la Visual Novel. Estos personajes se pueden dividir en cuatro categorías en función de su rol o papel en la historia: <br></br>
 
-#### <h4>7.3.1. Personajes jugables</h4>
-
-En esta categoría, se encuentra el personaje que el jugador podrá controlar a lo largo de la Visual Novel. Mediante la toma de decisiones en puntos clave, el jugador decidirá no solo la personalidad del protagonista, sino también el desarrollo y profundidad de las relaciones con el resto de los personajes. Es importante destacar la libertad del jugador a la hora de seleccionar el género del personaje: mujer, hombre, o no binario. 
+<b>1. Personajes jugables: </b>En esta categoría, se encuentra el personaje que el jugador podrá controlar a lo largo de la Visual Novel. Mediante la toma de decisiones en puntos clave, el jugador decidirá no solo la personalidad del protagonista, sino también el desarrollo y profundidad de las relaciones con el resto de los personajes. Es importante destacar la libertad del jugador a la hora de seleccionar el género del personaje: mujer, hombre, o no binario. 
 
 <ul>
 
@@ -625,10 +632,8 @@ Tras huir de su país y dejar todo atrás debido a una situación complicada, de
 <p align="center">
   <img src="/Images/polaroids_florista_she.png">
 </p>
-
-#### <h4>7.3.2. Personajes con intereses románticos</h4>
-
-En esta categoría, se encuentran los personajes no jugables con los que el jugador puede interactuar de forma romántica. Si el jugador selecciona aquellas respuestas que mejor encajan con la personalidad y forma de ser de cada uno de estos personajes, su afinidad subirá y su relación avanzará. Aquel interés romántico con el que tenga mayor afinidad al final del juego será con el que termine teniendo una relación amorosa. Los personajes con intereses románticos presentan tres tipos de finales: bueno (relación amorosa), neutral y malo. 
+<br></br>
+<b>2. Personajes con intereses románticos: </b>En esta categoría, se encuentran los personajes no jugables con los que el jugador puede interactuar de forma romántica. Si el jugador selecciona aquellas respuestas que mejor encajan con la personalidad y forma de ser de cada uno de estos personajes, su afinidad subirá y su relación avanzará. Aquel interés romántico con el que tenga mayor afinidad al final del juego será con el que termine teniendo una relación amorosa. Los personajes con intereses románticos presentan tres tipos de finales: bueno (relación amorosa), neutral y malo. 
 
 <ul>
 
@@ -670,10 +675,8 @@ Un joven de apariencia hermosa y carácter coqueto, Ethan siempre se encuentra d
 </p>
 
 </ul>
-
-#### <h4>7.3.3. Personajes sin intereses románticos</h4>
-
-Aquí se encuentran aquellos personajes no jugables que participan en la historia, pero de forma menos relevante. El jugador puede interactuar con estos personajes cuando visitan la tienda para realizar pedidos y puede desarrollar en mayor o menor medida su relación con estos en función de sus decisiones. Sin embargo, las tramas de estos personajes son secundarias y no son intereses amorosos por lo que al final del juego el jugador no podrá tener una relación romántica con ellos, aunque su afinidad sea elevada. El principal objetivo de estos personajes es la realización de pedidos y desarrollo de historias secundarias. Estos personajes, a diferencia de aquellos principales, presentan únicamente dos finales en la historia. La naturaleza de estos varía en función del personaje.  
+<br></br>
+<b>3. Personajes sin intereses románticos: </b>Aquí se encuentran aquellos personajes no jugables que participan en la historia, pero de forma menos relevante. El jugador puede interactuar con estos personajes cuando visitan la tienda para realizar pedidos y puede desarrollar en mayor o menor medida su relación con estos en función de sus decisiones. Sin embargo, las tramas de estos personajes son secundarias y no son intereses amorosos por lo que al final del juego el jugador no podrá tener una relación romántica con ellos, aunque su afinidad sea elevada. El principal objetivo de estos personajes es la realización de pedidos y desarrollo de historias secundarias. Estos personajes, a diferencia de aquellos principales, presentan únicamente dos finales en la historia. La naturaleza de estos varía en función del personaje.  
 
 <ul>
 
@@ -700,10 +703,8 @@ Mujer mayor muy misteriosa y cerrada. Tiene un gran motivo para ir a comprar flo
 </p>
 
 </ul>
-
-#### <h4>7.3.4. Personajes secundarios</h4>
-
-Son personajes que aparecen en momentos puntuales de la trama en la floristería y con los que el jugador interactúa de forma breve. Su objetivo no es el desarrollo de relaciones, sino mejorar y facilitar el progreso de la trama. De entre estos personajes, el más importante a destacar es Jacob, la expareja del protagonista, que aparecerá en un punto clave de la historia. 
+<br></br>
+<b>4. Personajes secundarios: </b>Son personajes que aparecen en momentos puntuales de la trama en la floristería y con los que el jugador interactúa de forma breve. Su objetivo no es el desarrollo de relaciones, sino mejorar y facilitar el progreso de la trama. De entre estos personajes, el más importante a destacar es Jacob, la expareja del protagonista, que aparecerá en un punto clave de la historia. 
 
 <ul>
 
@@ -726,10 +727,8 @@ Jacob es la expareja del protagonista de la historia. Tenía una relación tóxi
 * **Información clave:** Expareja del protagonista. Tuvo una relación de varios años con el/la protagonista. Su actitud siempre fue tóxica y no dejaba al protagonista expresarse y ser libre, siempre menospreciándole. Gracias a la ayuda de amigos y familiares, el/la protagonista pudo finalmente terminar la relación y huir a un nuevo hogar sin que Jacob supiera nada. Es una persona insegura, irascible y orgullosa. No le gusta que le lleven la contraria. Al enterarse de lo que había pasado, estalló en ira y decidió investigar sobre su paradero. 
 
 </ul>
-
-#### <h4>7.3.5. Personajes de apoyo</h4>
-
-En último lugar, se encuentran los personajes de apoyo. Estos son personajes que no aparecen en la floristería, pero con los que el personaje puede hablar e interactuar de otras maneras. El principal objetivo de estos personajes es aportar algún tipo de feedback al jugador a modo de resumen de la historia. 
+<br></br>
+<b>5. Personajes de apoyo: </b>En último lugar, se encuentran los personajes de apoyo. Estos son personajes que no aparecen en la floristería, pero con los que el personaje puede hablar e interactuar de otras maneras. El principal objetivo de estos personajes es aportar algún tipo de feedback al jugador a modo de resumen de la historia. 
 
 <ul>
 
@@ -752,16 +751,16 @@ Limón es el gato del protagonista. Es la única compañía que tiene al comienz
 </ul>
 
 ### <h3>9.4. Entornos y lugares</h3>
-A lo largo del desarrollo de la historia del videojuego, los personajes van a visitar y pasar por varios entornos y lugares diferentes. Por lo tanto, el videojuego presenta los siguientes escenarios: 
+A lo largo del desarrollo de la historia del videojuego, los personajes van a visitar y pasar por varios entornos y lugares diferentes. Por lo tanto, el videojuego presenta los siguientes escenarios: <br></br>
 
-#### <h4>9.4.1. Entornos no románticos</h4> 
+<b>1. Entornos no románticos </b>
 
 * __Floristería:__ tienda del personaje donde va a interactuar con todos los personajes anteriormente descritos. Aquí el jugador podrá incrementar su nivel de afinidad con los personajes con intereses románticos y descubrir la historia que hay detrás de los personajes que solo van a comprar flores. Asimismo, no solo podrá interactuar y conversar con ellos, sino que también podrá realizar los encargos que le realicen mediante el minijuego de las flores.  
 * __Calle:__ escenario de transición entre lugares más importantes. Aquí el jugador tendrá usualmente monólogos internos y a veces interactuará con otros personajes. 
 * __Casa del personaje:__ escenario por el cuál siempre va a empezar el finde semana. Aquí el jugador interactuará mayoritariamente con Leah y Limón, y bajo ciertas condiciones también lo hará con los intereses románticos 
 * __Tienda:__ supermercado del barrio. Es el lugar de trabajo de Allan y el jugador interactúa a veces con él allí. 
-
-#### <h4>7.4.1. Entornos para las citas</h4> 
+<br></br>
+<b>2. Entornos para las citas </b>
 
 En estos lugares se interactúa con uno de los intereses románticos y se favorecen los diálogos que permiten subir más el nivel de afinidad. 
 
@@ -1040,7 +1039,8 @@ El tono escogido es muy alegre, positivo, vivaz para interpretar el ambiente que
 La música no solo está ligada por los lugares sino por las situaciones del protagonista y para diferenciar las personalidades de los distintos personajes que aparecen en escena. 
 ### <h3>11.1. Ambiente sonoro</h3>
 Se han separado los distintos ambientes sonoros por los lugares como pueden ser: 
-##### <h4>9.1.1. Entornos no románticos</h4>
+
+<b> 1. Entornos no románticos</b>
 <ul>
 <li><p><b>Floristería</b>: El ambiente tiene que ser ameno, alegre, positivo, muy al estilo clásico. Es donde se va a efectuar la jugabilidad de las flores por lo que tiene que ser música muy relajante y a la vez que no sobresalga demasiado para que no distraiga al jugador, pero si para que se sienta a gusto como se sentiría el protagonista del juego.</p></li>
 
@@ -1051,7 +1051,7 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 <li><p><b>Tienda</b>: Música más típica de tiendas de conveniencia, siendo la más neutral de todas. La típica tienda donde ponen música de la radio o actuales de forma de ambiente un poco baja para no incomodar a los clientes.</p></li>
 </ul>
 
-##### <h4>9.1.2. Entornos para citas</h4>
+<b> 2. Entornos para citas</b>
 <ul>
 <li><p><b>Cine</b>: Se ha optado por un inicio de música de ambiente de la calle para pasar a un silencio y a sonidos típicos de película de terror debido a la historia lo amerita, también hay efectos sonoros de personas murmullando y alguno que otro grito de miedo.</p></li>
 

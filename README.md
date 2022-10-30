@@ -981,6 +981,12 @@ A continuación, se incluye el concept art realizado para los escenarios del vid
   
   * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado gran parte de las referencias empleadas como inspiración para el diseño de la calle: https://pin.it/5wnZEE3. Destacar también que no solo se ha tomado inspiración de estas imágenes, sino que se ha empleado *Google Maps* para buscar lugares reales como, por ejemplo, las calles de Chatan, Prefectura de Okinawa (Japón).  
   * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva de la calle.
+    
+<p align="center">
+<img src="/Images/Thumbnails_Calle.png">
+</p>
+
+<p align="center"><em> Thumbnails Calle</em></p>
   
 </ul>
 
@@ -989,22 +995,22 @@ En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustrac
 
 <p align="center">
 <img src="/Images/ilustraciones_allan_1.png">
-Placeholder cita Allan: El Jardín Botánico - Vista en tercera persona
+<em>Placeholder cita Allan: El Jardín Botánico - Vista en tercera persona</em>
 </p>
 
 <p align="center">
 <img src="/Images/ilustraciones_allan_2.png">
-Placeholder cita Allan: El Jardín Botánico - Vista en primera persona
+<em>Placeholder cita Allan: El Jardín Botánico - Vista en primera persona</em>
 </p>
 
 <p align="center">
 <img src="/Images/ilustraciones_ethan_1.png">
-Placeholder cita Ethan: El Chichón - Vista en tercera persona
+<em>Placeholder cita Ethan: El Chichón - Vista en tercera persona</em>
 </p>
 
 <p align="center">
 <img src="/Images/ilustraciones_ethan_2.png">
-Placeholder cita Ethan: El Chichón - Vista en primera persona
+<em>Placeholder cita Ethan: El Chichón - Vista en primera persona</em>
 </p>
 
 ### <h3>8.3. Música</h3>

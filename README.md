@@ -1032,16 +1032,15 @@ En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustrac
 <em>Placeholder cita Ethan: El Chichón - Vista en primera persona</em>
 </p>
 
-### <h3>8.3. Música</h3>
+## <h2>9. Música</h2>
 Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 
 
 El tono escogido es muy alegre, positivo, vivaz para interpretar el ambiente que hay en las distintas situaciones y en distintos lugares que aparecen en la historia. Al igual que puede ser positivo también hay cambios de tonos a más triste y apagados para situaciones de recuerdos o momentos de honestidad. 
 
 La música no solo está ligada por los lugares sino por las situaciones del protagonista y para diferenciar las personalidades de los distintos personajes que aparecen en escena. 
-### <h3>8.4. Ambiente sonoro</h3>
+### <h3>9.1. Ambiente sonoro</h3>
 Se han separado los distintos ambientes sonoros por los lugares como pueden ser: 
-
-<b>Entornos no románticos</b>
+##### <h4>9.1.1. Entornos no románticos</h4>
 <ul>
 <li><p><b>Floristería</b>: El ambiente tiene que ser ameno, alegre, positivo, muy al estilo clásico. Es donde se va a efectuar la jugabilidad de las flores por lo que tiene que ser música muy relajante y a la vez que no sobresalga demasiado para que no distraiga al jugador, pero si para que se sienta a gusto como se sentiría el protagonista del juego.</p></li>
 
@@ -1052,7 +1051,7 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 <li><p><b>Tienda</b>: Música más típica de tiendas de conveniencia, siendo la más neutral de todas. La típica tienda donde ponen música de la radio o actuales de forma de ambiente un poco baja para no incomodar a los clientes.</p></li>
 </ul>
 
-<b>Entornos para las citas</b>
+##### <h4>9.1.2. Entornos para citas</h4>
 <ul>
 <li><p><b>Cine</b>: Se ha optado por un inicio de música de ambiente de la calle para pasar a un silencio y a sonidos típicos de película de terror debido a la historia lo amerita, también hay efectos sonoros de personas murmullando y alguno que otro grito de miedo.</p></li>
 
@@ -1064,10 +1063,10 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 
 <li><p><b>Bosque</b>: Muy similar a la del jardín Botánico, pero siendo más libre, más relajada y natural para evocar espacio abierto y mucha naturaleza. Para los efectos sonoros se pondrán pequeños sonidos de aves diversas y el viento.</p></li>
 
-<li><p><b>Acuario</b>: Más orientada a lo acuático, profundo, pero manteniendo la alegría porque está en una cita nuestro protagonista. Los efectos sonoros son personas hablando y murmurando junto con algún efecto marino como pueden ser burbujas o algún sonido de focas o pingüinos.</p></li>
+<li><p><b>Festival</b>: El ambiente es alegre y de celebración ya que todo el mundo asiste para disfrutar en la feria. Los efectos sonoros son el bullicio de las personas hablando y caminado y los sonidos propios generades por los puestos, además del sonido de fuegos artificiales en su momento correspondiente.</p></li>
 </ul>
 
-<b>Efectos Sonoros</b>
+### <h3>9.2. Efectos sonoros</h3>
 
 Una lista de los efectos sonoros necesarios: 
 <ul>
@@ -1087,8 +1086,10 @@ Una lista de los efectos sonoros necesarios:
 
 <li><p>Sonido de pisadas en distintos ambientes</p></li>
 
-<li><p>Sonidos marinos</p></li>
+<li><p>Sonidos de puestos de feria</p></li>
 
+<li><p>Sonidos de fuegos artificiales</p></li>
+  
 <li><p>Sonidos de timbre/campanilla</p></li>
 
 <li><p>Sonidos de animales: pájaros</p></li>
@@ -1101,7 +1102,7 @@ Una lista de los efectos sonoros necesarios:
 </ul>
  
 
-<b>Personajes</b> 
+### <h3>9.3. Música de los personajes</h3> 
 
 Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno de los personajes interactuables y más importantes del juego. 
 <ul>
@@ -1116,8 +1117,8 @@ Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno
 <li><p><b>Sagrario</b>: La dulce abuelita tiene un tono alegre, pero también más calmado y de tonalidades relajantes que evocan paz. </p></li>
 </ul>
 
-## <h2>9. Interfaz</h2>
-### <h3>9.1. Diseño básico de los menús</h3>
+## <h2>10. Interfaz</h2>
+### <h3>10.1. Diseño básico de los menús</h3>
 Como se puede apreciar en los distintos menús usados de *Referencias 2* se optó por usar el dorado como base para todo lo que es interfaz. Aunque antes de llegar a esta temática se pasaron por varios procesos. 
 
 <p align="center">
@@ -1185,14 +1186,14 @@ Para la interfaz de dialogo se ha utilizado la misma paleta de colores y mismo t
   <img src="/Images/Marco-dialogo.png">
 </p>
 
-### <h3>9.2. Diagrama de flujo</h3>
+### <h3>10.2. Diagrama de flujo</h3>
 
 <p align="center">
   <img src="/Images/DiagramaFlujos.png">
 </p>
 
-## <h2>10. Hoja de ruta del desarrollo</h2>
-### <h3>10.1. Hito 1</h3>
+## <h2>11. Hoja de ruta del desarrollo</h2>
+### <h3>11.1. Hito 1</h3>
 
 Finalización de la versión Alpha con la base del videojuego jugable, obviando estética y optimización.  
 
@@ -1204,18 +1205,18 @@ El videojuego cuenta con una adaptación de la resolución acorde para pc, en di
 
 Cualquier otro apartado no comentado está en desarrollo en este momento. 
 
-### <h3>10.2. Hito 2</h3>
+### <h3>11.2. Hito 2</h3>
 
 Finalización de la versión Beta con el juego 100% jugable y con todos los 	diseños, arte y capítulos terminados e implementados. 
 
 Desde la finalización de la versión alfa se requiere del desarrollo de todo el 	arte del juego y su implementación, así como una mejor adaptación de la 		resolución del videojuego en todos los dispositivos. 
 
-### <h3>10.3. Hito 3</h3>
+### <h3>11.3. Hito 3</h3>
 
 Finalización de la versión GoldMaster con todo el videojuego implementado y completo en todos sus apartados, así como optimizado para poder ser jugado por el cliente en todo su esplendor. 
 
 Desde la finalización de la versión beta se necesita optimizar el apartado de implementación para hacer el videojuego lo mejor jugable posible, para ello se llevarán a cabo gran cantidad de testeos por parte del equipo de desarrollo.  
 
-### <h3>10.4. Fecha de lanzamiento</h3>
+### <h3>11.4. Fecha de lanzamiento</h3>
 
 El videojuego será lanzado el día 18 de diciembre de 2022. 

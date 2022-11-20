@@ -323,35 +323,52 @@ Al terminar el minijuego y volver a hablar con el cliente, el diálogo depender�
 
 #### <h4>6.2.3. Comprobación de la solución del minijuego</h4>
 
-El pedido se genera de forma aleatoria dependiendo del personaje. Las variables a tener en cuenta para el minijuego de las flores son: 
+El pedido se genera de forma aleatoria dependiendo del personaje. Se cuentan por separado los puntos de cada aspecto de la flor:  
 <ul>
-    <li><b>Flor favorita del cliente:</b> suma 2 puntos al resultado final. 
-    <li><b>Flor odiada por el cliente:</b> restan 2 puntos al resultado final. 
-    <li><b>Color exacto del pedido:</b> suman 1 punto al resultado final. 
-    <li><b>Colores afines al pedido (Máximo 2 colores):</b> suman 1 punto al resultado final. 
-    <li><b>Colores no afines al pedido (Máximo 2 colores):</b> restan 1 punto al resultado final. 
-    <li><b>Sentimiento exacto del pedido:</b> suman 1 punto al resultado final. 
-    <li><b>Sentimientos afines al pedido (Máximo 2 sentimientos):</b> suman 1 punto al resultado final. 
-    <li><b>Sentimientos no afines al pedido (Máximo 2 sentimientos):</b> restan 1 punto al resultado final. 
+    <li><b>Puntos totales al comprobar si hay flor favorita y/u odiada. 
+    <li><b>Puntos totales al comprobar si hay color pedido y/o no afín. 
+    <li><b>Puntos totales al comprobar si hay sentimiento pedido y/o no afín. 
 </ul>
-Estas variables indicadas se comparan con las que el cliente desea para su pedido y se suman o restan dependiendo de si son afines o no, o si son favoritas u odiadas. 
-
-El rango de valores que puede tomar el resultado final es de –12 a 12 puntos. Este resultado tendrá una evaluación cualitativa al terminar el minijuego: 
+Las variables a tener en cuenta para el minijuego de las flores son: 
 <ul>
-    <li><b>Rango de -12 a –4:</b> "mal”. 
-    <li><b>Rango de -4 a 4:</b> "regular”. 
-    <li><b>Rango de 4 a 12:</b> “bien”. 
+    <li><b>Flor favorita del cliente:</b> suma 1 puntos al conteo de puntos de flor favorita y/o odiada. 
+    <li><b>Flor odiada por el cliente:</b> restan 1 puntos al conteo de puntos de flor favorita y/o odiada.  
+    <li><b>Color exacto del pedido:</b> suman 1 punto al conteo de puntos de color del pedido y color no afín.  
+    <li><b>Colores no afines al pedido (Máximo 2 colores):</b> restan 1 punto al conteo de puntos de color del pedido y color no afín.  
+    <li><b>Sentimiento exacto del pedido:</b> suman 1 punto al conteo de puntos de sentimiento del pedido y sentimiento no afín. 
+    <li><b>Sentimientos no afines al pedido (Máximo 2 sentimientos):</b> restan 1 punto al conteo de puntos de sentimiento del pedido y sentimiento no afín. 
 </ul>
 
-Por último, la evaluación cualitativa se envía de vuelta a la Visual Novel y se decide qué dialogo y ruta seguirá la partida del jugador.
+Estas variables indicadas se comparan con las que el cliente desea para su pedido y se suman o restan dependiendo de si son lo que se pide o no, o si son favoritas u odiadas. 
 
-#### <h4>6.2.4. Prototipo y bocetos del minijuego</h4>
+Cuando hay una flor favorita en el ramo, se suma 1 punto en los tres aspectos (flor favorita, color, sentimiento), en caso de ser la flor odiada, se hace lo contrario. 
+
+El resultado de cada aspecto tiene el siguiente rango de valores que cambia a un valor cualitativo dependiendo de si el conteo de puntos finales está dentro de un rango u otro: 
+
+<ul>
+    <li>Puntos totales en flor favorita y/u odiada: [-1, 1] 
+        <li><b>Resultado = -1:</b> "mal”. 
+        <li><b>Resultado = 0:</b> "regular”. 
+        <li><b>Resultado = 1:</b> “bien”. 
+    <li>Puntos totales en color exacto y/o no afín: [-5, 5]  
+        <li><b>Resultado en rango [-5, -2]:</b> "mal”. 
+        <li><b>Resultado en rango [-1, 1]:</b> "regular”. 
+        <li><b>Resultado en rango [2, 5]:</b> “bien”.   
+    <li>Puntos totales en color exacto y/o no afín: [-5, 5]  
+        <li><b>Resultado en rango [-5, -2]:</b> "mal”. 
+        <li><b>Resultado en rango [-1, 1]:</b> "regular”. 
+        <li><b>Resultado en rango [2, 5]:</b> “bien”.  
+</ul>
+
+Una vez se tengan los resultados cualitativos de cada aspecto de la flor, se comparan entre ellas y si dos coinciden con un mismo resultado, se envía a la Visual Novel para que decida qué dialogo y ruta seguirá la partida del jugador, pero si el resultado por aspecto es “mal”, “regular” y “bien”, lo que se envía a la Visual Novel es el resultado “regular”. 
+
+#### <h4>6.2.4. Pantallas finales del minijuego </h4>
 
 <p align="center">
   <img src="/Images/Minijuego1.png">
 </p>
 
-<p align="center"><em>Pantalla inicial del minijuego: pedido con foto del cliente</em></p>
+<p align="center"><em>Pantalla inicial del minijuego: Pedido con foto del cliente</em></p>
 
 <p align="center">
   <img src="/Images/Minijuego2.png">
@@ -375,7 +392,7 @@ Por último, la evaluación cualitativa se envía de vuelta a la Visual Novel y 
   <img src="/Images/Minijuego5.jpg">
 </p>
 
-<p align="center"><em>Boceto del libro de flores</em></p>
+<p align="center"><em>Pantalla del Minijuego con libro de flores</em></p>
 
 #### <h4>6.2.5. Clasificación de las flores</h4>
 
@@ -1771,15 +1788,19 @@ Cualquier otro apartado no comentado está en desarrollo en este momento.
 
 ### <h3>13.2. Hito 2</h3>
 
-Finalización de la versión Beta con el juego 100% jugable y con todos los 	diseños, arte y capítulos terminados e implementados. 
+Finalización de la versión Beta con el juego 100% jugable y con todos los diseños, arte y capítulos terminados e implementados. 
 
-Desde la finalización de la versión alfa se requiere del desarrollo de todo el 	arte del juego y su implementación, así como una mejor adaptación de la 		resolución del videojuego en todos los dispositivos. 
+El videojuego contiene todos los capítulos jugables hasta el final, con todas las ramas de desarrollo de las rutas de cada personaje, así como casi todo el arte 	integrado, y ya hay música y efectos de sonido.   
+
+Por otra parte, la adaptación de la resolución ha sido mejorada en dispositivos móviles, aunque no está totalmente adaptable. Además, se ha optimizado el juego para estos dispositivos, evitando tiempos de carga muy elevados y errores que no permitan jugarlo.  
 
 ### <h3>13.3. Hito 3</h3>
 
 Finalización de la versión GoldMaster con todo el videojuego implementado y completo en todos sus apartados, así como optimizado para poder ser jugado por el cliente en todo su esplendor. 
 
-Desde la finalización de la versión beta se necesita optimizar el apartado de implementación para hacer el videojuego lo mejor jugable posible, para ello se llevarán a cabo gran cantidad de testeos por parte del equipo de desarrollo.  
+Desde la finalización de la versión beta se necesita optimizar el apartado de implementación para hacer el videojuego lo mejor jugable posible, para ello se llevarán a cabo gran cantidad de testeos por parte del equipo de desarrollo. Además, se deben incluir implementaciones pasadas por alto que pueden ser de utilidad para el jugador.  
+
+En la parte de arte, se debe incluir todos los apartados no terminados en la versión beta. Así como, detallar apartados ya incluidos en la versión anterior para que tengan una visualización adecuada.  
 
 ### <h3>13.4. Fecha de lanzamiento</h3>
 

@@ -1493,7 +1493,7 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 <li><p><b>Tienda</b>: Música más típica de tiendas de conveniencia, siendo la más neutral de todas. La típica tienda donde ponen música de la radio o actuales de forma de ambiente un poco baja para no incomodar a los clientes.</p></li>
 </ul>
 
-!audio[ Musica Floristería ]( Musica_floristeria.mp3 ){ size=10 duration=224 cycle=forever }
+!audio[ Musica Floristería ]( /musica/Musica_floristeria.mp3 ){ size=10 duration=224 cycle=forever }
 
 <b> 2. Entornos para citas</b>
 <ul>

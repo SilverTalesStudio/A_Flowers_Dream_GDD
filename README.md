@@ -922,12 +922,22 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center">
   <img src="/Images/pjs_allan_desarrollo.png">
 </p>
-<p align="center"><em>Ilustración  Desarrollo de Allan</em></p>
+<p align="center"><em> Desarrollo de Allan</em></p>
 
 <p align="center">
   <img src="/Images/pjs_allan_pruebasColor.png">
 </p>
 <p align="center"><em>Pruebas de color de Allan</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_allan_final.png">
+</p>
+<p align="center"><em>Beauty final - Allan</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_allan_expressions.PNG">
+</p>
+<p align="center"><em>Expresiones - Allan</em></p>
 
 
 * <b>Ethan</b>

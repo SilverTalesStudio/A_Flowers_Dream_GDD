@@ -630,7 +630,7 @@ Tras huir de su país y dejar todo atrás debido a una situación complicada, de
 </ul>
 
 <p align="center">
-  <img src="/Images/polaroids_florista_she.PNG">
+  <img src="/Images/polaroids_florista_she.png">
 </p>
 <br></br>
 <b>2. Personajes con intereses románticos: </b>En esta categoría, se encuentran los personajes no jugables con los que el jugador puede interactuar de forma romántica. Si el jugador selecciona aquellas respuestas que mejor encajan con la personalidad y forma de ser de cada uno de estos personajes, su afinidad subirá y su relación avanzará. Aquel interés romántico con el que tenga mayor afinidad al final del juego será con el que termine teniendo una relación amorosa. Los personajes con intereses románticos presentan tres tipos de finales: bueno (relación amorosa), neutral y malo. 
@@ -646,7 +646,7 @@ Una chica joven con un pasado oscuro y una personalidad pasota. Aunque en un ini
 
 
 <p align="center">
-  <img src="/Images/polaroids_sophie.PNG">
+  <img src="/Images/polaroids_sophie.png">
 </p>
 
 **<li><p>Allan:</li></p>**

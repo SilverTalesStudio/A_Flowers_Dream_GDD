@@ -1059,7 +1059,7 @@ A continuación, se incluye el concept art realizado para los escenarios del jue
   
   * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño de la tienda: https://pin.it/6Q6Ct81 <br></br> 
     
-   * **Boceto:**  A continuación, se muestra el boceto de la tienda. Para su creación, se han empleado las referencias que se pueden encontrar en el tablero de Pinterest superior.<br></br>
+   * **Boceto:**  A continuación, se muestra el boceto de la tienda. Para su creación, se han empleado las referencias que se pueden encontrar en el tablero de *Pinterest* superior.<br></br>
     
 <p align="center">
 <img src="/Images/Boceto_Tienda.png">
@@ -1188,7 +1188,7 @@ A continuación, se incluye el concept art realizado para los escenarios del jue
 
 <p align="center"><em> Boceto cine a partir del thumbnail 1</em></p>
 
-   * **Diseño final:** Finalmente, se coloreó el lineart del concierto basándose en los colores característicos de las salas de cine como, por ejemplo, las butacas rojas. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes. Al igual que con el resto de los escenarios, se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
+   * **Diseño final:** Finalmente, se coloreó el lineart del cine basándose en los colores característicos de las salas de cine como, por ejemplo, las butacas rojas. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes. Al igual que con el resto de los escenarios, se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
     
 <p align="center">
 <img src="/Images/Cine_Final_Con_Ruido.png">

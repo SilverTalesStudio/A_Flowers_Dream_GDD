@@ -972,7 +972,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 En el estado actual del proyecto, se han desarrollado todos los escenarios del videojuego que se utilizan en las cuatro semanas que lo conforman.
 
-A pesar de esto, es importante destacar que el escenario de la Tienda y el Jardín Botánico se mejorarán de cara a la siguiente fase del proyecto y también se realizará un fondo único para el menú principal.
+A pesar de esto, es importante destacar que los escenarios de la Tienda, el Camerino y el Jardín Botánico se mejorarán de cara a la siguiente fase del proyecto y también se realizará un fondo único para el menú principal. 
 
 A continuación, se incluye el concept art realizado para los escenarios del juego hasta el día 19 de noviembre de 2022. 
 
@@ -1168,6 +1168,26 @@ A continuación, se incluye el concept art realizado para los escenarios del jue
 </p>
 
 <p align="center"><em> Diseño final concierto</em></p>
+
+**<li><p>Camerino: </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño del camerino: https://pin.it/50Of5Xp <br></br> 
+    
+   * **Boceto:** A continuación, se muestra el boceto del camerino. Para su creación, se han empleado las referencias que se pueden encontrar en el tablero de *Pinterest* superior.<br></br>
+    
+<p align="center">
+<img src="/Images/Boceto_Camerino.png">
+</p>
+
+<p align="center"><em> Boceto camerino</em></p>
+
+   * **Diseño final:** Finalmente, se coloreó el lineart del camerino y se añadió la paleta de iluminación de atardecer, utilizada también para los personajes,  modificando su tono empleando mapas de gradiente. Al igual que con el resto de los escenarios, se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
+    
+<p align="center">
+<img src="/Images/Camerino_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final camerino</em></p>
 
 **<li><p>Cine: </li></p>**
   

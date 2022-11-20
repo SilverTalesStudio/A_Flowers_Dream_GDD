@@ -972,7 +972,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 En el estado actual del proyecto, se han desarrollado todos los escenarios del videojuego que se utilizan en las cuatro semanas que lo conforman.
 
-A pesar de esto, es importante destacar que el escenario de la Tienda y el Jardín Botánico se mejorarán de cara a la siguiente fase del proyecto y también se realizará un fondo único para el menú principal. Asimismo, para agilizar el proceso de creación de los escenarios, se ha prescindido de ciertos pasos gracias al uso de múltiples referencias y paletas de color.
+A pesar de esto, es importante destacar que el escenario de la Tienda y el Jardín Botánico se mejorarán de cara a la siguiente fase del proyecto y también se realizará un fondo único para el menú principal.
 
 A continuación, se incluye el concept art realizado para los escenarios del juego hasta el día 19 de noviembre de 2022. 
 

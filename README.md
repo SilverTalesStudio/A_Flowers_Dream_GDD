@@ -898,6 +898,17 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <p align="center"><em> Expresiones - Florista (fem)</em></p>
 
+* <b>El Florista (masc).</b>
+<p align="center">
+  <img src="/Images/pjs_floristamasc_desarrollo.PNG">
+</p>
+<p align="center"><em> Desarrollo de cabello - Florista (masc)</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_florista_he_beauty.png">
+</p>
+<p align="center"><em> Beauty final - Florista (masc)</em></p>
+
 * <b>Sophie</b>
 <p align="center">
   <img src="/Images/pjs_sophie_desarrollo.png">
@@ -971,7 +982,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 
 <p align="center">
-  <img src="/Images/pjs_pietro_desarrollo_2.PNG">
+  <img src="/Images/pjs_pietro_desarrollo2.PNG">
   <img src="/Images/pjs_pietro_Desarrollo_1.png">
 </p>
 <p align="center"><em> Desarrollo - Pietro</em></p>
@@ -994,14 +1005,14 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 <p align="center"><em> Boceto - Sagrario</em></p>
 
 <p align="center">
-  <img src="/Images/pjs_sagrario_final.png">
+  <img src="/Images/pjs_sagrario_neutral.png">
 </p>
 
 <p align="center"><em> Beauty final - Sagrario</em></p>
 
 * <b>Minerva</b>
 <p align="center">
-  <img src="/Images/pjs_minerva_final.png">
+  <img src="/Images/pjs_minerva_neutral.png">
 </p>
 
 <p align="center"><em> Beauty final - Minerva </em></p>

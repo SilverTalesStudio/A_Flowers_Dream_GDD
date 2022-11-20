@@ -347,17 +347,17 @@ El resultado de cada aspecto tiene el siguiente rango de valores que cambia a un
 
 <ul>
     <li>Puntos totales en flor favorita y/u odiada: [-1, 1] 
-        <li><b>Resultado = -1:</b> "mal”. 
-        <li><b>Resultado = 0:</b> "regular”. 
-        <li><b>Resultado = 1:</b> “bien”. 
+* **Resultado = -1:** "mal”. 
+* **Resultado = 0:** "regular”. 
+* **Resultado = 1:** “bien”. 
     <li>Puntos totales en color exacto y/o no afín: [-5, 5]  
-        <li><b>Resultado en rango [-5, -2]:</b> "mal”. 
-        <li><b>Resultado en rango [-1, 1]:</b> "regular”. 
-        <li><b>Resultado en rango [2, 5]:</b> “bien”.   
+* **Resultado en rango [-5, -2]:** "mal”. 
+* **Resultado en rango [-1, 1]:** "regular”. 
+* **Resultado en rango [2, 5]:** “bien”.   
     <li>Puntos totales en color exacto y/o no afín: [-5, 5]  
-        <li><b>Resultado en rango [-5, -2]:</b> "mal”. 
-        <li><b>Resultado en rango [-1, 1]:</b> "regular”. 
-        <li><b>Resultado en rango [2, 5]:</b> “bien”.  
+* **Resultado en rango [-5, -2]:** "mal”. 
+* **Resultado en rango [-1, 1]:** "regular”. 
+* **Resultado en rango [2, 5]:** “bien”.    
 </ul>
 
 Una vez se tengan los resultados cualitativos de cada aspecto de la flor, se comparan entre ellas y si dos coinciden con un mismo resultado, se envía a la Visual Novel para que decida qué dialogo y ruta seguirá la partida del jugador, pero si el resultado por aspecto es “mal”, “regular” y “bien”, lo que se envía a la Visual Novel es el resultado “regular”. 

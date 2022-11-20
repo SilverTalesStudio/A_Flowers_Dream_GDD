@@ -1493,6 +1493,8 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 <li><p><b>Tienda</b>: Música más típica de tiendas de conveniencia, siendo la más neutral de todas. La típica tienda donde ponen música de la radio o actuales de forma de ambiente un poco baja para no incomodar a los clientes.</p></li>
 </ul>
 
+[[audio-{Musica_floristeria.mp3}-{Floristería}]]
+
 <b> 2. Entornos para citas</b>
 <ul>
 <li><p><b>Cine</b>: Se ha optado por un inicio de música de ambiente de la calle para pasar a un silencio y a sonidos típicos de película de terror debido a la historia lo amerita, también hay efectos sonoros de personas murmullando y alguno que otro grito de miedo.</p></li>

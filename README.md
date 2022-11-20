@@ -782,9 +782,10 @@ En estos lugares se interactúa con uno de los intereses románticos y se favore
 
 * __Cine:__ escenario de una cita con Ethan. En él se retransmite una película de terror que suena de fondo y se escuchan de vez en cuando murmullos del resto de espectadores. 
 * __Jardín botánico:__ escenario de una cita con Allan. Está repleto de árboles, arbustos y flores de todos los tipos. 
-* __Bar:__ entorno diseñado para una cita con Ethan y otra con Allan. El entorno es la terraza de un bar en el que el protagonista y el interés romántico compartirán mesa 
-* __Concierto:__ lugar de la primera cita con Sophie. El personaje principal y Sophie se ubican en la pista, están rodeados de mucha gente y en frente tienen el escenario con el grupo de música tocando 
-* __Bosque:__ escenario de una cita con Allan. Consiste en una ruta natural que atraviesa un bosque, no hay más personajes que el protagonista y él.
+* __Bar:__ entorno diseñado para una cita con Ethan y otra con Allan. El entorno es la terraza de un bar en el que el protagonista y el interés romántico compartirán mesa.
+* __Concierto:__ lugar de la primera cita con Sophie. El personaje principal y Sophie se ubican en la pista, están rodeados de mucha gente y en frente tienen el escenario con el grupo de música tocando.
+* __Camerino:__ lugar que visitan el/la protagonista y Sophie tras el concierto en su primera cita. Sophie tiene que curar las heridas del protagonista por un altercado que hubo en la pista del concierto.
+* __Paraje Natural/Bosque:__ escenario de una cita con Allan. Consiste en una ruta natural que atraviesa un bosque, no hay más personajes que el protagonista y él.
 * __Festival:__ escenario de una cita con cualquiera de los intereses románticos. Es una festividad en la ciudad, hay puestos de ocio en la calle y fuegos artificiales. 
 
 ## <h2>10. Arte</h2>

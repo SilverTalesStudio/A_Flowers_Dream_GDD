@@ -1326,23 +1326,39 @@ Una vez se disponía del diseño final coloreado con la paleta seleccionada, se 
 En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustraciones están aún en proceso, pero a continuación se adjuntan los placeholders que se han utilizado en la versión Alpha del juego, es decir, de la versión actual:
 
 <p align="center">
-<img src="/Images/ilustraciones_allan_1.png">
-<em>Placeholder cita Allan: El Jardín Botánico - Vista en tercera persona</em>
+<img src="/Images/illus_week1_allan.png">
+<em>Ilustración Semana 1 cita Allan: El Jardín Botánico</em>
 </p>
 
 <p align="center">
-<img src="/Images/ilustraciones_allan_2.png">
-<em>Placeholder cita Allan: El Jardín Botánico - Vista en primera persona</em>
+<img src="/Images/illus_week1_ethan.png">
+<em>Ilustración Semana 1 cita Ethan: El Chichón</em>
 </p>
 
 <p align="center">
-<img src="/Images/ilustraciones_ethan_1.png">
-<em>Placeholder cita Ethan: El Chichón - Vista en tercera persona</em>
+<img src="/Images/illus_week2_ethan.png">
+<em>Ilustración Semana 2 cita Ethan: El Cine</em>
 </p>
 
 <p align="center">
-<img src="/Images/ilustraciones_ethan_2.png">
-<em>Placeholder cita Ethan: El Chichón - Vista en primera persona</em>
+<img src="/Images/illus_week2_sophie.png">
+<em>Ilustración Semana 2 cita Sophie: El Concierto</em>
+</p>
+
+<p align="center">
+<img src="/Images/illus_week3_allan.png">
+<em>Ilustración Semana 3 cita Allan: La Montaña</em>
+</p>
+
+
+<p align="center">
+<img src="/Images/illus_week3_sophie.png">
+<em>Ilustración Semana 3 cita Sophie: El festival medieval (I)</em>
+</p>
+
+<p align="center">
+<img src="/Images/illus_week3_ethan.png">
+<em>Ilustración Semana 3 cita Ethan: El festival medieval (II)</em>
 </p>
 
 ## <h2>11. Música</h2>

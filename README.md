@@ -346,15 +346,15 @@ Cuando hay una flor favorita en el ramo, se suma 1 punto en los tres aspectos (f
 El resultado de cada aspecto tiene el siguiente rango de valores que cambia a un valor cualitativo dependiendo de si el conteo de puntos finales está dentro de un rango u otro: 
 
 <ul>
-    <li>Puntos totales en flor favorita y/u odiada: [-1, 1] 
+  <li>Puntos totales en flor favorita y/u odiada: [-1, 1]</li>
 * **Resultado = -1:** "mal”. 
 * **Resultado = 0:** "regular”. 
 * **Resultado = 1:** “bien”. 
-    <li>Puntos totales en color exacto y/o no afín: [-5, 5]  
+    <li>Puntos totales en color exacto y/o no afín: [-5, 5]</li>  
 * **Resultado en rango [-5, -2]:** "mal”. 
 * **Resultado en rango [-1, 1]:** "regular”. 
 * **Resultado en rango [2, 5]:** “bien”.   
-    <li>Puntos totales en color exacto y/o no afín: [-5, 5]  
+    <li>Puntos totales en color exacto y/o no afín: [-5, 5]</li>  
 * **Resultado en rango [-5, -2]:** "mal”. 
 * **Resultado en rango [-1, 1]:** "regular”. 
 * **Resultado en rango [2, 5]:** “bien”.    

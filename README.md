@@ -1344,13 +1344,13 @@ A continuación, se incluye el concept art realizado para los escenarios del jue
 
 <p align="center"><em> Thumbnails paraje natural/bosque</em></p>
     
-   * **Boceto:**  A continuación, se muestra el boceto de la calle. Para su creación, se ha partido de la base del **Thumbnail número 3** por su perspectiva y composición.<br></br>
+   * **Boceto:**  A continuación, se muestra el boceto del paraje natural/bosque. Para su creación, se ha partido de la base del **Thumbnail número 3** por su perspectiva y composición.<br></br>
     
 <p align="center">
 <img src="/Images/Boceto_ParajeNatural.png">
 </p>
 
-<p align="center"><em> Boceto paraje natural/bosque</em></p>
+<p align="center"><em> Boceto paraje natural/bosque a partir de thumbnail 3</em></p>
 
    * **Diseño final:** Mediante el uso de pinceles auxiliares de flores y plantas y una paleta de color de bosque, se creó el diseño final de este escenario. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
     

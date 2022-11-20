@@ -1474,9 +1474,9 @@ En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustrac
 </p>
 
 ## <h2>11. Música</h2>
-Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor para la reutilización de dicha música. 
+Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor como Pixabay, para la reutilización de dicha música. 
 
-El tono escogido es muy alegre, positivo, vivaz para interpretar el ambiente que hay en las distintas situaciones y en distintos lugares que aparecen en la historia. Al igual que puede ser positivo también hay cambios de tonos a más triste y apagados para situaciones de recuerdos o momentos de honestidad. 
+El tono escogido es muy alegre, positivo, vivaz para interpretar el ambiente que hay en las distintas situaciones y en distintos lugares que aparecen en la historia. Al igual que puede ser positivo también hay cambios de tonos a más triste y apagados para situaciones de recuerdos, momentos tristes o momentos de honestidad. 
 
 La música no solo está ligada por los lugares sino por las situaciones del protagonista y para diferenciar las personalidades de los distintos personajes que aparecen en escena. 
 ### <h3>11.1. Ambiente sonoro</h3>
@@ -1484,7 +1484,7 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 
 <b> 1. Entornos no románticos</b>
 <ul>
-<li><p><b>Floristería</b>: El ambiente tiene que ser ameno, alegre, positivo, muy al estilo clásico. Es donde se va a efectuar la jugabilidad de las flores por lo que tiene que ser música muy relajante y a la vez que no sobresalga demasiado para que no distraiga al jugador, pero si para que se sienta a gusto como se sentiría el protagonista del juego.</p></li>
+<li><p><b>Floristería</b>: El ambiente tiene que ser ameno, alegre, positivo, muy relajante. Es donde se va a efectuar la jugabilidad de las flores por lo que tiene que ser música muy relajante y a la vez que no sobresalga demasiado para que no distraiga al jugador, pero si para que se sienta a gusto como se sentiría el protagonista del juego.</p></li>
 
 <li><p><b>Calle</b>: Más bullicioso y movido para dar sensación de multitud y de salida, acompañada de efectos sonoros de personas andando y hablando por el fondo sin llegar a desorientar o perturbar al jugador.</p></li>
 
@@ -1505,7 +1505,7 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 
 <li><p><b>Bosque</b>: Muy similar a la del jardín Botánico, pero siendo más libre, más relajada y natural para evocar espacio abierto y mucha naturaleza. Para los efectos sonoros se pondrán pequeños sonidos de aves diversas y el viento.</p></li>
 
-<li><p><b>Festival</b>: El ambiente es alegre y de celebración ya que todo el mundo asiste para disfrutar en la feria. Los efectos sonoros son el bullicio de las personas hablando y caminado y los sonidos propios generades por los puestos, además del sonido de fuegos artificiales en su momento correspondiente.</p></li>
+<li><p><b>Festival Medieval</b>: El ambiente es alegre y de celebración ya que todo el mundo asiste para disfrutar en la feria medieval. Los efectos sonoros son el bullicio de las personas hablando y caminado y los sonidos propios generades por los puestos, además del sonido de fuegos artificiales en su momento correspondiente.</p></li>
 </ul>
 
 ### <h3>11.2. Efectos sonoros</h3>

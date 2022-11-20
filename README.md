@@ -476,7 +476,15 @@ El sábado hay siempre una llamada con la amiga del protagonista a modo de resum
 | Viernes | Pietro, Sophie o Allan o Ethan |
 | Sábado | Sophie o Allan o Ethan |  
 ### <h3>8.4. Capítulo 4</h3>
-De la última semana falta determinar los días jugables. En cuanto a contenido, todos los personajes con los cuales se puede interactuar aparecen en este capítulo y tienen el final de su historia. 
+En el último capítulo no hay un orden predeterminado de las apariciones de los personajes. Cada día será una escena diferente y el orden viene dado por los niveles de afinidad que el jugador tiene con ellos, de manera que el menos compatible aparece el primero, y el más compatible el último para cerrar con un broche de oro.
+| Días jugables | Personajes que aparecen |
+|:------------:|:-------------:|
+| Lunes | Quinto personaje |
+| Martes | Cuarto personaje personaje |
+| Miércoles | Tercer personaje |
+| Jueves | Segundo personaje | 
+| Viernes | Primer personaje |
+
   
 ## <h2>9. Trasfondo</h2>
 ### <h3>9.1. Descripción detallada de la historia y la trama</h3>
@@ -548,7 +556,7 @@ En la tercera semana, la expareja del protagonista visitará la tienda descubrie
 
 El primer día de esta semana, Sophie es el primer personaje que visita la tienda. En función de lo que haya pasado el fin de semana anterior se producirán diferentes escenarios (ramificaciones): si el jugador tiene igual o menos de diez puntos de afinidad con ella, se desarrolla el final malo por afinidad; si el jugador dejó plantada a Sophie el fin de semana por ir al cine con Ethan, se desarrolla otro final malo porque Sophie se dio cuenta de que la protagonista le mintió para no ir al concierto; y si no sucedió ninguno de estos dos casos, se pasa a la ramificación de la historia normal. En esta, Sophie viene a la tienda para pedir un ramo y la conversación se desarrolla de forma diferente dependiendo de si el jugador quedó con ella el fin de semana o no. 
 
-Después de Sophie, visita la tienda Allan. Si el jugador tiene suficiente afinidad con él, este propondrá una cita para el fin de semana: pasar una tarde en un paraje natural. 
+Después de Sophie, visita la tienda Allan. Si el jugador tiene igual o menos de diez puntos de afinidad con él, se activa el final malo de Allan que consiste una conversación sobre la falta de conocimientos de jardinería del jugador. Si esto no se cumple, tendrán una conversación normal en la que al final, si el jugador tiene mucha afinidad con él, Allan propondrá una cita para el fin de semana: pasar una tarde en un paraje natural.  
 
 El miércoles acuden a la tienda Ethan y Sagrario. En el caso de Ethan, se produce una ramificación dependiendo de los hechos del fin de semana: si el jugador quedó con él, la Florista le pregunta sobre su desaparición, por qué no ha venido a verla antes y se descubre el miedo al compromiso que siente Ethan al ver que la Florista se está enamorando de él. Si el jugador no quedó con él, Ethan simplemente se pondrá triste y volverá a retomar sus avances románticos. Asimismo, si el nivel de afinidad con Ethan es menor o igual a diez puntos, se activa el final malo de Ethan en el cual va a visitar la tienda con su nueva pareja.
 
@@ -586,20 +594,20 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 **<li><p>Sophie:</p></li>**  
 
-* **Final bueno (cuarta semana):** Sophie se siente agradecida por la comprensión y apoyo del protagonista ante su pasado y carácter complicado. Además, su hermana ya se ha recuperado y le han dado el alta en el hospital. Debido a la cercanía que siente hacia el/la protagonista, decide quedar para presentarle a su hermana. Preparan un picnic en el parque. La hermana agradece al protagonista los hermosos ramos y este le sorprende regalándole uno para celebrar su salida del hospital. Sophie siente el pecho cálido ante la escena. Inician una relación romántica.  
+* **Final bueno (cuarta semana):** Tras iniciar una relación romántica en la última cita, Sophie decide presentar a su hermana al protagonista. El/la protagonista está de los nervios porque sabe que es un encuentro muy importante, pero Sophie no tiene dudas de que saldrá bien. El/la protagonista se tranquiliza y se vuelve optimista respecto a su futuro cercano  
 
-* **Final neutral (cuarta semana):** Sophie se abre con el tema de su hermana pequeña y le cuenta al protagonista para quién son los ramos que encargaba. Es entonces cuando el/la protagonista insiste en conocer a su hermana y llevarla personalmente un ramo de flores hecho con mucho amor. Ante su insistencia y la amistad que siente hacia él/ella, Sophie decide aceptar y ambas acuden a visitar a su hermana al hospital.  
+* **Final neutral (cuarta semana):** El/la protagonista reflexiona sobre su amistad con Sophie y cuenta que gracias a ella pudo escuchar antes que nadie el nuevo single de su grupo favorito. 
 
-* **Final malo (tercera semana):** La relación con Sophie no es buena por las continuas contestaciones bordes e insistencias sobre su pasado y hermana. No considera ni una posible amistad. Sus visitas a la floristería son cada vez más escasas hasta que en un momento dado admite que no va a volver porque su hermana ya se encuentra bien y no tiene la obligación de volver a ver la fea cara del protagonista. <br></br>
+* **Final malo (tercera semana):** Si el/la protagonista mintió a Sophie diciéndola que no podía quedar con ella porque estaba enfarm para quedar con Ethan, ella se lo tomará muy mal porque odia que la engañen, y más con Ethan que lo conoció y le cae mal. Este hecho destroza la relación que tuvierais y no vuelve más. <br></br>
 
  
 **<li><p>Allan:</p></li>**  
 
-* **Final bueno (cuarta semana):** Allan deja el trabajo al no acceder a las explotaciones laborales de su jefe y expresar sus verdaderos sentimientos gracias al apoyo del protagonista. Aunque ya no tiene trabajo, se siente contento por haber dado la cara por sí mismo. En ese momento, al protagonista se le ocurre la idea de contratar a otro par de manos para la floristería y no se le ocurre nadie mejor que Allan, un gran amante de la naturaleza y alguien a quien ama. Ambos trabajan juntos en la floristería haciendo lo que más disfrutan y en buena compañía. Inician una relación estable. 
+* **Final bueno (cuarta semana):** El/la protagonista tiene que hacer compras en la tienda donde trabaja Allan y decide ir a saludar a su novio. En el proceso descubre otro momento de abuso del jefe hacia Allan. Es la gota que colma el vaso, el/la protagonista saca a Allan de allí, y a pesar de que le despiden no hay ningún problema porque Allan empieza a trabajar en la floristería. Trabajando así en su pasión y con su pareja.
 
-* **Final neutral (cuarta semana):** Allan y el/la protagonista continúan siendo amigos y quedando para realizar excursiones al aire libre.  
+* **Final neutral (cuarta semana):** El/la protagonista cuenta como aprecia su amistad con Allan y cómo ahora tiene a alguien con quien compartir su afición, hasta el punto de que compra las flores que le pidió Allan el primer día porque sabe que le gustan. 
 
-* **Final malo (tercera semana):** Allan acude a la floristería, pero con menos frecuencia debido a las muchas horas de trabajo que le están imponiendo. El/La protagonista intenta aconsejarle, pero se siente ofendido. Cada vez que se ven se genera una situación incómoda. <br></br>
+* **Final malo (tercera semana):** Allan acude a la floristería frustrado y le hace una prueba de conocimiento a él/la protagonista sobre jardinería. En ella descubre que realmente el/la protagonista no sabe casi sobre plantas y se siente estafado. Tras criticar la actuación del florista, se va para no volver.  <br></br>
 
  
 **<li><p>Ethan:</p></li>** 
@@ -625,9 +633,11 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
  
 **<li><p>Sagrario:</p></li>**
 
-* **Final bueno (cuarta semana):** Sagrario acude a la floristería con su pareja para presentársela al protagonista porque le encantaron los ramos que hizo y Sagrario le enviaba a su hogar.  
+* **Final bueno (cuarta semana):** Sagrario acude a la floristería con su pareja para presentársela al protagonista porque le encantaron los ramos que hizo y Sagrario le enviaba a su hogar. El/la protagonista jamás había sentido que alguien apreciara tanto su trabajo así que es un momento muy emotivo para ella.  
 
-* **Final neutro (cuarta semana):** Sagrario acude a la floristería para pedir su último ramo, pero dado que el nivel de afinidad no es lo suficientemente alto, la información aportada es incompleta. No se llega a conocer su verdadera historia.  
+* **Final neutro (cuarta semana):** El/la protagonista se lamenta de no haber conseguido desarrollado tanto una relación con Sagrario y decide que se esforzará más en conocerla mejor. 
+
+* **Final malo (tercera semana):** El/la protagonista se encuentra a Sagrario pasando de largo de la floristería y le insiste a que pase a comprar, ahí Sagrario confiesa que odia los ramos que hace porque no sabe hacerlo bien. El/la protagnoista se queda horrible tras descubrir que la cosa que mejor se le daba hacer era mentira y no es tan buena en ello.
 
 </ul>
 

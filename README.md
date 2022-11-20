@@ -1251,7 +1251,7 @@ A continuación, se incluye el concept art realizado para los escenarios del jue
 
 <p align="center"><em> Boceto bar</em></p>
 
-   * **Diseño final:** Finalmente, se coloreó el lineart de la tienda utilizando como base una paleta de color de tonos cálidos, en la que predomina el verde, encontrada en *Pinterest*. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se modificaron sus tonos empleando mapas de gradiente. Al igual que con el resto de los escenarios, se aplicó un efecto de ruido al 1% para darle efecto de grano. Como el bar es un escenario que puede aparecer de día o de noche se realizaron dos versiones de este simplemente aplicando distintos filtros. El resultado final es el siguiente:<br></br>
+   * **Diseño final:** Finalmente, se coloreó el lineart del bar utilizando como base una paleta de color de tonos cálidos, en la que predomina el verde, encontrada en *Pinterest*. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se modificaron sus tonos empleando mapas de gradiente. Al igual que con el resto de los escenarios, se aplicó un efecto de ruido al 1% para darle efecto de grano. Como el bar es un escenario que puede aparecer de día o de noche se realizaron dos versiones de este simplemente aplicando distintos filtros. El resultado final es el siguiente:<br></br>
     
 <p align="center">
 <img src="/Images/BarDia_Final_Con_Ruido.png">

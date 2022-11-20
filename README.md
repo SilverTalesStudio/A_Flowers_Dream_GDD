@@ -347,16 +347,24 @@ El resultado de cada aspecto tiene el siguiente rango de valores que cambia a un
 
 <ul>
   <li>Puntos totales en flor favorita y/u odiada: [-1, 1]</li>
-* **Resultado = -1:** "mal”. 
+* **Resultado = -1:** "mal”.
+<br></br>
 * **Resultado = 0:** "regular”. 
+<br></br>
 * **Resultado = 1:** “bien”. 
+<br></br>
     <li>Puntos totales en color exacto y/o no afín: [-5, 5]</li>  
 * **Resultado en rango [-5, -2]:** "mal”. 
+<br></br>
 * **Resultado en rango [-1, 1]:** "regular”. 
+<br></br>
 * **Resultado en rango [2, 5]:** “bien”.   
+<br></br>
     <li>Puntos totales en color exacto y/o no afín: [-5, 5]</li>  
 * **Resultado en rango [-5, -2]:** "mal”. 
+<br></br>
 * **Resultado en rango [-1, 1]:** "regular”. 
+<br></br>
 * **Resultado en rango [2, 5]:** “bien”.    
 </ul>
 

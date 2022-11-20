@@ -1661,30 +1661,14 @@ Como se puede apreciar en los distintos men√∫s usados de *Referencias 5* se opt√
 </p>
 
 <p align="center">
-  <img src="/Images/CargarPartida_desactivada.png">
-</p>
-
-<p align="center">
   <img src="/Images/boton_libro.png">
-</p>
-
-<p align="center">
   <img src="/Images/boton_pausa_Guardar_desactivado.png">
 </p>
 
 <p align="center">
   <img src="/Images/no_popup.png">
-</p>
-
-<p align="center">
   <img src="/Images/si_popup.png">
-</p>
-
-<p align="center">
   <img src="/Images/boton_genero.png">
-</p>
-
-<p align="center">
   <img src="/Images/boton_deslizar_menu_minijuego.png">
 </p>
 

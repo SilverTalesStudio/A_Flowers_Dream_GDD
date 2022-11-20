@@ -400,7 +400,7 @@ Una vez se tengan los resultados cualitativos de cada aspecto de la flor, se com
 <p align="center"><em>Pantalla del minijuego con aviso de menos de 5 flores</em></p>
 
 <p align="center">
-  <img src="/Images/Minijuego5.jpg">
+  <img src="/Images/Minijuego5.png">
 </p>
 
 <p align="center"><em>Pantalla del Minijuego con libro de flores</em></p>

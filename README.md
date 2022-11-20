@@ -1001,7 +1001,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 * <b>Minerva</b>
 <p align="center">
-  <img src="/Images/pjs_minerva_final.PNG">
+  <img src="/Images/pjs_minerva_final.png">
 </p>
 
 <p align="center"><em> Beauty final - Minerva </em></p>
@@ -1055,7 +1055,7 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 * <b>Jacob</b>
 <p align="center">
-  <img src="/Images/pjs_jacob_pruebascolor.png">
+  <img src="/Images/pjs_jacob_pruebascolor.PNG">
 </p>
 
 <p align="center"><em> Pruebas de color - Jacob </em></p>

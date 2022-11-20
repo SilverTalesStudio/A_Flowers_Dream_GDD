@@ -325,18 +325,18 @@ Al terminar el minijuego y volver a hablar con el cliente, el diálogo depender�
 
 El pedido se genera de forma aleatoria dependiendo del personaje. Se cuentan por separado los puntos de cada aspecto de la flor:  
 <ul>
-    <li><b>Puntos totales al comprobar si hay flor favorita y/u odiada. 
-    <li><b>Puntos totales al comprobar si hay color pedido y/o no afín. 
-    <li><b>Puntos totales al comprobar si hay sentimiento pedido y/o no afín. 
+    <li><b>Puntos totales al comprobar si hay flor favorita y/u odiada.</b></li>
+    <li><b>Puntos totales al comprobar si hay color pedido y/o no afín.</b></li>
+    <li><b>Puntos totales al comprobar si hay sentimiento pedido y/o no afín.</b></li>
 </ul>
 Las variables a tener en cuenta para el minijuego de las flores son: 
 <ul>
-    <li><b>Flor favorita del cliente:</b> suma 1 puntos al conteo de puntos de flor favorita y/o odiada. 
-    <li><b>Flor odiada por el cliente:</b> restan 1 puntos al conteo de puntos de flor favorita y/o odiada.  
-    <li><b>Color exacto del pedido:</b> suman 1 punto al conteo de puntos de color del pedido y color no afín.  
-    <li><b>Colores no afines al pedido (Máximo 2 colores):</b> restan 1 punto al conteo de puntos de color del pedido y color no afín.  
-    <li><b>Sentimiento exacto del pedido:</b> suman 1 punto al conteo de puntos de sentimiento del pedido y sentimiento no afín. 
-    <li><b>Sentimientos no afines al pedido (Máximo 2 sentimientos):</b> restan 1 punto al conteo de puntos de sentimiento del pedido y sentimiento no afín. 
+    <li><b>Flor favorita del cliente:</b> suma 1 puntos al conteo de puntos de flor favorita y/o odiada.</b></li>
+    <li><b>Flor odiada por el cliente:</b> restan 1 puntos al conteo de puntos de flor favorita y/o odiada.</b></li> 
+    <li><b>Color exacto del pedido:</b> suman 1 punto al conteo de puntos de color del pedido y color no afín.</b></li>
+    <li><b>Colores no afines al pedido (Máximo 2 colores):</b> restan 1 punto al conteo de puntos de color del pedido y color no afín.</b></li> 
+    <li><b>Sentimiento exacto del pedido:</b> suman 1 punto al conteo de puntos de sentimiento del pedido y sentimiento no afín.</b></li>
+    <li><b>Sentimientos no afines al pedido (Máximo 2 sentimientos):</b> restan 1 punto al conteo de puntos de sentimiento del pedido y sentimiento no afín.</b></li>
 </ul>
 
 Estas variables indicadas se comparan con las que el cliente desea para su pedido y se suman o restan dependiendo de si son lo que se pide o no, o si son favoritas u odiadas. 
@@ -346,21 +346,24 @@ Cuando hay una flor favorita en el ramo, se suma 1 punto en los tres aspectos (f
 El resultado de cada aspecto tiene el siguiente rango de valores que cambia a un valor cualitativo dependiendo de si el conteo de puntos finales está dentro de un rango u otro: 
 
 <ul>
-  <li>Puntos totales en flor favorita y/u odiada: [-1, 1]</li>
-* **Resultado = -1:** "mal”.
+
+**<li><p>Puntos totales en flor favorita y/u odiada: [-1, 1]</p></li>**
+* **Resultado = -1:** "mal."
 <br></br>
 * **Resultado = 0:** "regular”. 
 <br></br>
 * **Resultado = 1:** “bien”. 
 <br></br>
-    <li>Puntos totales en color exacto y/o no afín: [-5, 5]</li>  
+
+**<li><p>Puntos totales en color exacto y/o no afín: [-5, 5]</p></li>**
 * **Resultado en rango [-5, -2]:** "mal”. 
 <br></br>
 * **Resultado en rango [-1, 1]:** "regular”. 
 <br></br>
 * **Resultado en rango [2, 5]:** “bien”.   
 <br></br>
-    <li>Puntos totales en color exacto y/o no afín: [-5, 5]</li>  
+
+**<li><p>Puntos totales en color exacto y/o no afín: [-5, 5]</p></li>**
 * **Resultado en rango [-5, -2]:** "mal”. 
 <br></br>
 * **Resultado en rango [-1, 1]:** "regular”. 

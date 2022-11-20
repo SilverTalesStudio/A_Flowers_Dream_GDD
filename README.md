@@ -1246,7 +1246,55 @@ A continuación, se incluye el concept art realizado para los escenarios del jue
 
 **<li><p>Fondo mesa minijuego: </li></p>** Para la escena del minijuego de las flores se ha diseñado un fondo específico que simula la mesa del mostrador de la tienda del protagonista. Para su creación, se crearon tres pruebas de color de entre las cuales se seleccionó la correspondiente al mantel amarillo con detalles rosados. <br></br>
 
+<p align="center">
+<img src="/Images/Tapete_1_Iluminación_3.jpg">
+</p>
+
+<p align="center"><em>Fondo minijuego (prueba color 1)</em></p>
+
+<br></br>
+
+<p align="center">
+<img src="/Images/Tapete_2_Iluminación_1.jpg">
+</p>
+
+<p align="center"><em>Fondo minijuego (prueba color 2)</em></p>
+
+<br></br>
+
+<p align="center">
+<img src="/Images/Tapete_3_Iluminación_1.jpg">
+</p>
+
+<p align="center"><em>Fondo minijuego (prueba color 3)</em></p>
+
+<br></br>
+
 Una vez se disponía del diseño final coloreado con la paleta seleccionada, se realizaron también tres pruebas de iluminación de entre las cuales se seleccionó la primera de las que se muestran a continuación.
+
+<p align="center">
+<img src="/Images/Fondo_Minijuego_Iluminación_1.png">
+</p>
+
+<p align="center"><em>Fondo minijuego (prueba iluminación 1)</em></p>
+
+<br></br>
+
+<p align="center">
+<img src="/Images/Fondo_Minijuego_Iluminación_2.png">
+</p>
+
+<p align="center"><em>Fondo minijuego (prueba iluminación 2)</em></p>
+
+<br></br>
+
+<p align="center">
+<img src="/Images/Fondo_Minijuego_Iluminación_3.png">
+</p>
+
+<p align="center"><em>Fondo minijuego (prueba iluminación 3)</em></p>
+
+<br></br>
  
 </ul>
 

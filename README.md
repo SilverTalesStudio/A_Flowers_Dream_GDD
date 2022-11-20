@@ -637,7 +637,7 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 * **Final neutro (cuarta semana):** El/la protagonista se lamenta de no haber conseguido desarrollado tanto una relación con Sagrario y decide que se esforzará más en conocerla mejor. 
 
-* **Final malo (tercera semana):** El/la protagonista se encuentra a Sagrario pasando de largo de la floristería y le insiste a que pase a comprar, ahí Sagrario confiesa que odia los ramos que hace porque no sabe hacerlo bien. El/la protagnoista se queda horrible tras descubrir que la cosa que mejor se le daba hacer era mentira y no es tan buena en ello.
+* **Final malo (tercera semana):** El/la protagonista se encuentra a Sagrario pasando de largo de la floristería y le insiste a que pase a comprar, ahí Sagrario confiesa que odia los ramos que hace porque no sabe hacerlo bien. El/la protagonista se queda horrible tras descubrir que la cosa que mejor se le daba hacer era mentira y no es tan buena en ello.
 
 </ul>
 

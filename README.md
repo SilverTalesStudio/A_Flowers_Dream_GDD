@@ -235,7 +235,7 @@ A continuación, se muestra un diagrama de Gantt básico con las funcionalidades
 
 * La inclusión completa del guión y su correspondiente optimización (3 semanas). 
 
-* La implementación completa de los menús y el sistema de guardado (2 semanas en total).
+* La implementación completa de los menús (2 semanas en total).
 
 * La implementación del sistema de pausa (1 semana).
 
@@ -252,7 +252,7 @@ A continuación, se muestra un diagrama de Gantt básico con las funcionalidades
 
 <b><li><p>Entrega del Gold Master (1 mes aproximadamente): </b>es la entrega del juego terminado lo más optimizado posible y con todo el arte incluido. En ella se incluyen las siguientes funcionalidades:</p></li>
 
-* <b>Mejora del videojuego y de su rejugabilidad:</b> probar varias veces las distintas rutas y comprobar el equilibrio del juego, añadir rutas, flores, etc. (2 - 3 semanas).</li> 
+* <b>Mejora del videojuego y de su rejugabilidad:</b> probar varias veces las distintas rutas y comprobar el equilibrio del juego, añadir rutas, flores, etc. También se añadirán las expresiones de los personajes y la música restantes (2 - 3 semanas).</li> 
 
 * <b>Realización de la etapa de Polishing:</b> optimización de la Visual Novel y del minijuego (4 semanas).
 

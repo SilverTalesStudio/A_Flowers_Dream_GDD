@@ -726,6 +726,10 @@ Jacob es la expareja del protagonista de la historia. Tenía una relación tóxi
 * **Motivo de aparición:** Jacob aparece en la floristería tras varias semanas de encontrarse el/la protagonista viviendo en la nueva ciudad. Ante la huida inesperada del protagonista, Jacob investiga sobre su paradero hasta dar con la tienda. Su principal objetivo es buscar explicaciones y llevarse de vuelta a su “hogar” a el/la protagonista para continuar su “relación”.
 * **Información clave:** Expareja del protagonista. Tuvo una relación de varios años con el/la protagonista. Su actitud siempre fue tóxica y no dejaba al protagonista expresarse y ser libre, siempre menospreciándole. Gracias a la ayuda de amigos y familiares, el/la protagonista pudo finalmente terminar la relación y huir a un nuevo hogar sin que Jacob supiera nada. Es una persona insegura, irascible y orgullosa. No le gusta que le lleven la contraria. Al enterarse de lo que había pasado, estalló en ira y decidió investigar sobre su paradero. 
 
+<p align="center">
+  <img src="/Images/polaroids_jacob.png">
+</p>
+
 </ul>
 <br></br>
 <b>5. Personajes de apoyo: </b>En último lugar, se encuentran los personajes de apoyo. Estos son personajes que no aparecen en la floristería, pero con los que el personaje puede hablar e interactuar de otras maneras. El principal objetivo de estos personajes es aportar algún tipo de feedback al jugador a modo de resumen de la historia. 

@@ -727,7 +727,7 @@ Jacob es la expareja del protagonista de la historia. Tenía una relación tóxi
 * **Información clave:** Expareja del protagonista. Tuvo una relación de varios años con el/la protagonista. Su actitud siempre fue tóxica y no dejaba al protagonista expresarse y ser libre, siempre menospreciándole. Gracias a la ayuda de amigos y familiares, el/la protagonista pudo finalmente terminar la relación y huir a un nuevo hogar sin que Jacob supiera nada. Es una persona insegura, irascible y orgullosa. No le gusta que le lleven la contraria. Al enterarse de lo que había pasado, estalló en ira y decidió investigar sobre su paradero. 
 
 <p align="center">
-  <img src="/Images/polaroids_jacob.png">
+  <img src="/Images/polaroids_jacob.PNG">
 </p>
 
 </ul>
@@ -890,6 +890,13 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 </p>
 
 <p align="center"><em> Beauty final y pruebas de color - Florista (fem)</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_floristafem_expressions.PNG">
+  
+</p>
+
+<p align="center"><em> Expresiones - Florista (fem)</em></p>
 
 * <b>Sophie</b>
 <p align="center">

@@ -903,7 +903,14 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
   <img src="/Images/pjs_sophie_desarrollo.png">
 </p>
 
-<p align="center"><em> Desarrollo actual de Sophie</em></p>
+<p align="center"><em> Desarrollo de Sophie</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_sophie_pruebascolor.png">
+  <img src="/Images/pjs_sophie_final.png" >
+</p>
+
+<p align="center"><em> Beauty final y pruebas de color - Sophie </em></p>
 
 * <b>Allan</b>
 <p align="center">

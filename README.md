@@ -726,6 +726,10 @@ Jacob es la expareja del protagonista de la historia. Tenía una relación tóxi
 * **Motivo de aparición:** Jacob aparece en la floristería tras varias semanas de encontrarse el/la protagonista viviendo en la nueva ciudad. Ante la huida inesperada del protagonista, Jacob investiga sobre su paradero hasta dar con la tienda. Su principal objetivo es buscar explicaciones y llevarse de vuelta a su “hogar” a el/la protagonista para continuar su “relación”.
 * **Información clave:** Expareja del protagonista. Tuvo una relación de varios años con el/la protagonista. Su actitud siempre fue tóxica y no dejaba al protagonista expresarse y ser libre, siempre menospreciándole. Gracias a la ayuda de amigos y familiares, el/la protagonista pudo finalmente terminar la relación y huir a un nuevo hogar sin que Jacob supiera nada. Es una persona insegura, irascible y orgullosa. No le gusta que le lleven la contraria. Al enterarse de lo que había pasado, estalló en ira y decidió investigar sobre su paradero. 
 
+<p align="center">
+  <img src="/Images/polaroids_jacob.PNG">
+</p>
+
 </ul>
 <br></br>
 <b>5. Personajes de apoyo: </b>En último lugar, se encuentran los personajes de apoyo. Estos son personajes que no aparecen en la floristería, pero con los que el personaje puede hablar e interactuar de otras maneras. El principal objetivo de estos personajes es aportar algún tipo de feedback al jugador a modo de resumen de la historia. 
@@ -887,6 +891,13 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <p align="center"><em> Beauty final y pruebas de color - Florista (fem)</em></p>
 
+<p align="center">
+  <img src="/Images/pjs_floristafem_expressions.PNG">
+  
+</p>
+
+<p align="center"><em> Expresiones - Florista (fem)</em></p>
+
 * <b>Sophie</b>
 <p align="center">
   <img src="/Images/pjs_sophie_desarrollo.png">
@@ -903,10 +914,14 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <p align="center">
   <img src="/Images/pjs_allan_desarrollo.png">
-  
 </p>
+<p align="center"><em>Ilustración  Desarrollo de Allan</em></p>
 
-<p align="center"><em>Ilustración  Desarrollo actual de Allan</em></p>
+<p align="center">
+  <img src="/Images/pjs_allan_pruebasColor.png">
+</p>
+<p align="center"><em>Pruebas de color de Allan</em></p>
+
 
 * <b>Ethan</b>
 <p align="center">
@@ -1319,26 +1334,42 @@ Una vez se disponía del diseño final coloreado con la paleta seleccionada, se 
 </ul>
 
 ##### <h4>10.2.4. Ilustraciones </h4>
-En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustraciones están aún en proceso, pero a continuación se adjuntan los placeholders que se han utilizado en la versión Alpha del juego, es decir, de la versión actual:
+En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustraciones están aún en proceso de pulido, pero el estado de las ilustraciones en la beta es el siguiente:
 
 <p align="center">
-<img src="/Images/ilustraciones_allan_1.png">
-<em>Placeholder cita Allan: El Jardín Botánico - Vista en tercera persona</em>
+<img src="/Images/illus_week1_allan.png">
+<em>Ilustración Semana 1 cita Allan: El Jardín Botánico</em>
 </p>
 
 <p align="center">
-<img src="/Images/ilustraciones_allan_2.png">
-<em>Placeholder cita Allan: El Jardín Botánico - Vista en primera persona</em>
+<img src="/Images/illus_week1_ethan.png">
+<em>Ilustración Semana 1 cita Ethan: El Chichón</em>
 </p>
 
 <p align="center">
-<img src="/Images/ilustraciones_ethan_1.png">
-<em>Placeholder cita Ethan: El Chichón - Vista en tercera persona</em>
+<img src="/Images/illus_week2_ethan.png">
+<em>Ilustración Semana 2 cita Ethan: El Cine</em>
 </p>
 
 <p align="center">
-<img src="/Images/ilustraciones_ethan_2.png">
-<em>Placeholder cita Ethan: El Chichón - Vista en primera persona</em>
+<img src="/Images/illus_week2_sophie.png">
+<em>Ilustración Semana 2 cita Sophie: El Concierto</em>
+</p>
+
+<p align="center">
+<img src="/Images/illus_week3_allan.png">
+<em>Ilustración Semana 3 cita Allan: La Montaña</em>
+</p>
+
+
+<p align="center">
+<img src="/Images/illus_week3_sophie.png">
+<em>Ilustración Semana 3 cita Sophie: El festival medieval (I)</em>
+</p>
+
+<p align="center">
+<img src="/Images/illus_week3_ethan.png">
+<em>Ilustración Semana 3 cita Ethan: El festival medieval (II)</em>
 </p>
 
 ## <h2>11. Música</h2>

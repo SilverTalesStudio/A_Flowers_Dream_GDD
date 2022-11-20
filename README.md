@@ -354,7 +354,6 @@ El resultado de cada aspecto tiene el siguiente rango de valores que cambia a un
 <br></br>
 * **Resultado = 1:** “bien”. 
 <br></br>
-
 **<li><p>Puntos totales en color exacto y/o no afín: [-5, 5]</p></li>**
 * **Resultado en rango [-5, -2]:** "mal”. 
 <br></br>
@@ -362,7 +361,6 @@ El resultado de cada aspecto tiene el siguiente rango de valores que cambia a un
 <br></br>
 * **Resultado en rango [2, 5]:** “bien”.   
 <br></br>
-
 **<li><p>Puntos totales en color exacto y/o no afín: [-5, 5]</p></li>**
 * **Resultado en rango [-5, -2]:** "mal”. 
 <br></br>

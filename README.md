@@ -1496,6 +1496,11 @@ Se han separado los distintos ambientes sonoros por los lugares como pueden ser:
 
 https://user-images.githubusercontent.com/72017769/202918156-c9517b79-4fe7-40d9-94a0-3bc834fbb6b5.mov
 
+https://user-images.githubusercontent.com/72017769/202918369-f30698d3-8984-4378-8292-92ea27fb3557.mov
+
+https://user-images.githubusercontent.com/72017769/202918381-23412450-8828-4361-9873-d7a65e8b5153.mov
+
+
 
 <b> 2. Entornos para citas</b>
 <ul>
@@ -1512,11 +1517,26 @@ https://user-images.githubusercontent.com/72017769/202918156-c9517b79-4fe7-40d9-
 <li><p><b>Festival Medieval</b>: El ambiente es alegre y de celebración ya que todo el mundo asiste para disfrutar en la feria medieval. Los efectos sonoros son el bullicio de las personas hablando y caminado y los sonidos propios generades por los puestos, además del sonido de fuegos artificiales en su momento correspondiente.</p></li>
 </ul>
 
+
+https://user-images.githubusercontent.com/72017769/202918416-e5c88b5a-56e8-42e4-8ca1-01787a5b4957.mov
+
+
+
+https://user-images.githubusercontent.com/72017769/202918427-5ec2a5d9-928f-4497-9b6c-d5c1111c753c.mov
+
+https://user-images.githubusercontent.com/72017769/202918438-da0c22f8-5aa2-4e4a-94bd-53a78e9b8a4e.mov
+
+https://user-images.githubusercontent.com/72017769/202918452-233d9796-26b0-4d7a-a590-74be18371141.mov
+
+
+
 ### <h3>11.2. Efectos sonoros</h3>
 
 Una lista de los efectos sonoros necesarios: 
 <ul>
 <li><p>Gente murmurando</p></li>
+
+
 
 <li><p>Gente hablando</p></li>
 
@@ -1547,21 +1567,31 @@ Una lista de los efectos sonoros necesarios:
 <li><p>Sonido del chocar de copas</p></li>
 </ul>
  
-
 ### <h3>11.3. Música de los personajes</h3> 
 
 Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno de los personajes interactuables y más importantes del juego. 
 <ul>
 <li><p><b>Allan</b>: Al ser el personaje más agradable y majo de los pretendientes la música que le acompaña es alegre y tranquila.  </p></li>
 
+https://user-images.githubusercontent.com/72017769/202918475-a303d722-d571-4e79-b84b-d07c0836ab7c.mov
+
 <li><p><b>Pietro</b>: Al ser un personaje excéntrico y un poco extraño se ha optado por ponerle música clásica estridente sin ser demasiado llamativa.  </p></li>
 
 <li><p><b>Ethan</b>: Es el ligón del grupo por lo que se le asigna una música alegre y provocadora y suave. </p></li>
 
+https://user-images.githubusercontent.com/72017769/202918485-8967e6ad-7a7a-40de-9157-4c50ac244952.mov
+
 <li><p><b>Sophie</b>: Al principio es muy dura con el protagonista debido a su personalidad poco confiada, pero al pasar el tiempo es más amable. Ella pasa de una música más fuerte y desafiante a una más dulce y alegre. </p></li>
+
+https://user-images.githubusercontent.com/72017769/202918494-70dd9e1b-6b0d-4d64-99a5-a42907b29ce7.mov
+
+https://user-images.githubusercontent.com/72017769/202918496-b2eda0a0-d39d-491d-9dba-7a3dccd52e46.mov
+
 
 <li><p><b>Sagrario</b>: La dulce abuelita tiene un tono alegre, pero también más calmado y de tonalidades relajantes que evocan paz. </p></li>
 </ul>
+
+
 
 ## <h2>12. Interfaz</h2>
 ### <h3>12.1. Diseño básico de los menús</h3>

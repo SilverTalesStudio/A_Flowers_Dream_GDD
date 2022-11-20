@@ -1533,8 +1533,6 @@ https://user-images.githubusercontent.com/72017769/202918381-23412450-8828-4361-
 
 https://user-images.githubusercontent.com/72017769/202918416-e5c88b5a-56e8-42e4-8ca1-01787a5b4957.mov
 
-
-
 https://user-images.githubusercontent.com/72017769/202918427-5ec2a5d9-928f-4497-9b6c-d5c1111c753c.mov
 
 https://user-images.githubusercontent.com/72017769/202918438-da0c22f8-5aa2-4e4a-94bd-53a78e9b8a4e.mov
@@ -1548,8 +1546,6 @@ https://user-images.githubusercontent.com/72017769/202918452-233d9796-26b0-4d7a-
 Una lista de los efectos sonoros necesarios: 
 <ul>
 <li><p>Gente murmurando</p></li>
-
-
 
 <li><p>Gente hablando</p></li>
 
@@ -1590,7 +1586,7 @@ https://user-images.githubusercontent.com/72017769/202918475-a303d722-d571-4e79-
 
 <li><p><b>Pietro</b>: Al ser un personaje excéntrico y un poco extraño se ha optado por ponerle música clásica estridente sin ser demasiado llamativa.  </p></li>
 
-<li><p><b>Ethan</b>: Es el ligón del grupo por lo que se le asigna una música alegre y provocadora y suave. </p></li>
+<li><p><b>Ethan</b>: Es el ligón del grupo por lo que se le asigna una música más traviesa, alegre e infantil. </p></li>
 
 https://user-images.githubusercontent.com/72017769/202918485-8967e6ad-7a7a-40de-9157-4c50ac244952.mov
 

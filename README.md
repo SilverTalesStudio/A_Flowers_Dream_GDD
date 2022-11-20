@@ -1619,11 +1619,11 @@ Como se puede apreciar en los distintos men√∫s usados de *Referencias 5* se opt√
 </p>
 
 <p align="center">
-  <img src="/Images/Pantalla_Principal.png">
+  <img src="/Images/Pantalla_Principal_V3-3.png">
 </p>
 
 <p align="center">
-  <img src="/Images/Pantalla_Principal_V3-3.png">
+  <img src="/Images/Pantalla_Principal_VFinal.png">
 </p>
 
 <p align="center">
@@ -1631,15 +1631,15 @@ Como se puede apreciar en los distintos men√∫s usados de *Referencias 5* se opt√
 </p>
 
 <p align="center">
-  <img src="/Images/Pantalla_Contacto_V1.png">
+  <img src="/Images/Mesa de trabajo 1.png">
 </p>
 
 <p align="center">
-  <img src="/Images/Nombres.png">
+  <img src="/Images/Mesa de Trabajo 2.png">
 </p>
 
 <p align="center">
-  <img src="/Images/Pantalla_final.png">
+  <img src="/Images/Mesa de Trabajo 3.png">
 </p>
 
 * <b>Algunos botones:</b> 
@@ -1649,15 +1649,15 @@ Como se puede apreciar en los distintos men√∫s usados de *Referencias 5* se opt√
 </p>
 
 <p align="center">
-  <img src="/Images/ComerzarPedido.png">
+  <img src="/Images/Boton_ComenzarPedido.png">
 </p>
 
 <p align="center">
-  <img src="/Images/EntregarRamo.png">
+  <img src="/Images/Boton_EntregarRamo.png">
 </p>
 
 <p align="center">
-  <img src="/Images/EntregarRamo.png">
+  <img src="/Images/Cargar_Partida_desactivada.png">
 </p>
 
 <p align="center">
@@ -1665,27 +1665,27 @@ Como se puede apreciar en los distintos men√∫s usados de *Referencias 5* se opt√
 </p>
 
 <p align="center">
-  <img src="/Images/AbrirLibro.png">
+  <img src="/Images/boton_libro.png">
 </p>
 
 <p align="center">
-  <img src="/Images/Guardar_desactivado.png">
+  <img src="/Images/boton_pausa_Guardar_desactivado.png">
 </p>
 
 <p align="center">
-  <img src="/Images/no.png">
+  <img src="/Images/no_popup.png">
 </p>
 
 <p align="center">
-  <img src="/Images/si.png">
+  <img src="/Images/si_popup.png">
 </p>
 
 <p align="center">
-  <img src="/Images/boton_elecciones.png">
+  <img src="/Images/boton_genero.png">
 </p>
 
 <p align="center">
-  <img src="/Images/boton_deslizable.png">
+  <img src="/Images/boton_deslizar_menu_minijuego.png">
 </p>
 
 <p align="center">
@@ -1704,6 +1704,23 @@ Como se puede apreciar en los distintos men√∫s usados de *Referencias 5* se opt√
   <img src="/Images/b_atras.png">
 </p>
 
+<p align="center">
+  <img src="/Images/correo_contacto.png">
+  <img src="/Images/Itchio_contacto.png">
+  <img src="/Images/Titulo_MenuPrincipal.png">
+  <img src="/Images/Twitter_contacto.png">
+  <img src="/Images/Youtube_contacto.png">
+  <img src="/Images/Contacto_titulo.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Marco_Pedidos.png">
+  <img src="/Images/marco_popup.png">
+  <img src="/Images/Marco_popUpFlores.png">
+  <img src="/Images/Marco_Minijuego.png">
+  <img src="/Images/marco_Nombre.png">
+  <img src="/Images/Marco_pausa_flores.png">
+</p>
 
 Como se puede apreciar el predominante es el color dorado en degradado y el marr√≥n. 
 
@@ -1719,6 +1736,20 @@ Para la interfaz de dialogo se ha utilizado la misma paleta de colores y mismo t
 
 <p align="center">
   <img src="/Images/Marco-dialogo.png">
+</p>
+
+Se han creados tres Pop-Ups, el primero para pones el juego en pausa, el segundo cuando quieres entregar un ramo vac√≠o o poner menos del m√≠nimo requerido en las flores, y el √∫ltimo es para cuando quieres salir del juego.  
+
+<p align="center">
+  <img src="/Images/pausa.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Pop_Up_flores.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Pop_Up_salir.png">
 </p>
 
 ### <h3>12.2. Diagrama de flujo</h3>

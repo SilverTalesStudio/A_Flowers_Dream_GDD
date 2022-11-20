@@ -1073,7 +1073,7 @@ A continuación, se incluye el concept art realizado para los escenarios del jue
 <img src="/Images/Tienda_Final_Con_Ruido.png">
 </p>
 
-<p align="center"><em> Diseño final tienda (día)</em></p>
+<p align="center"><em> Diseño final tienda</em></p>
 
 
 **<li><p>Habitación protagonista: </li></p>**
@@ -1122,6 +1122,131 @@ A continuación, se incluye el concept art realizado para los escenarios del jue
 </p>
 
 <p align="center"><em> Diseño final jardín botánico</em></p>
+
+**<li><p>Bar: </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño del bar: https://pin.it/6a5ssan <br></br> 
+    
+   * **Boceto:**  A continuación, se muestra el boceto del bar. Para su creación, se han empleado las referencias que se pueden encontrar en el tablero de *Pinterest* superior.<br></br>
+    
+<p align="center">
+<img src="/Images/Boceto_Bar.png">
+</p>
+
+<p align="center"><em> Boceto bar</em></p>
+
+   * **Diseño final:** Finalmente, se coloreó el lineart de la tienda utilizando como base una paleta de color de tonos cálidos, en la que predomina el verde, encontrada en *Pinterest*. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se modificaron sus tonos empleando mapas de gradiente. Al igual que con el resto de los escenarios, se aplicó un efecto de ruido al 1% para darle efecto de grano. Como el bar es un escenario que puede aparecer de día o de noche se realizaron dos versiones de este simplemente aplicando distintos filtros. El resultado final es el siguiente:<br></br>
+    
+<p align="center">
+<img src="/Images/BarDia_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final bar (día)</em></p>
+
+<p align="center">
+<img src="/Images/BarNoche_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final bar (noche)</em></p>
+
+**<li><p>Concierto: </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño del concierto: https://pin.it/4gGRU70 <br></br> 
+    
+   * **Boceto:**  A continuación, se muestra el boceto del concierto. Para su creación, se han empleado las referencias que se pueden encontrar en el tablero de *Pinterest* superior.<br></br>
+    
+<p align="center">
+<img src="/Images/Boceto_Concierto.png">
+</p>
+
+<p align="center"><em> Boceto concierto</em></p>
+
+   * **Diseño final:** Finalmente, se coloreó el lineart del concierto basándose en los colores característicos de este tipo de eventos. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se modificaron sus tonos empleando mapas de gradiente. Al igual que con el resto de los escenarios, se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
+    
+<p align="center">
+<img src="/Images/Concierto_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final concierto</em></p>
+
+**<li><p>Cine: </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño del cine: https://pin.it/GoquVDa <br></br> 
+  * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva del cine.<br></br>
+    
+<p align="center">
+<img src="/Images/Thumbnails_Cine.png">
+</p>
+
+<p align="center"><em> Thumbnails cine</em></p>
+  
+   * **Boceto:** A continuación, se muestra el boceto del cine. Para su creación, se ha partido de la base del **Thumbnail número 1** por su perspectiva y composición.<br></br>
+    
+<p align="center">
+<img src="/Images/Boceto_Cine.png">
+</p>
+
+<p align="center"><em> Boceto cine a partir del thumbnail 1</em></p>
+
+   * **Diseño final:** Finalmente, se coloreó el lineart del concierto basándose en los colores característicos de las salas de cine como, por ejemplo, las butacas rojas. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes. Al igual que con el resto de los escenarios, se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
+    
+<p align="center">
+<img src="/Images/Cine_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final cine</em></p>
+
+**<li><p>Paraje natural/bosque: </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño del paraje natural o bosque: https://pin.it/4VzrU9N <br></br> 
+  
+  * **Thumbnails:**  Thumbnails realizados para la exploración de la composición y perspectiva del paraje natural o bosque.<br></br>
+    
+<p align="center">
+<img src="/Images/Thumbnails_ParajeNatural.png">
+</p>
+
+<p align="center"><em> Thumbnails paraje natural/bosque</em></p>
+    
+   * **Boceto:**  A continuación, se muestra el boceto de la calle. Para su creación, se ha partido de la base del **Thumbnail número 3** por su perspectiva y composición.<br></br>
+    
+<p align="center">
+<img src="/Images/Boceto_ParajeNatural.png">
+</p>
+
+<p align="center"><em> Boceto paraje natural/bosque</em></p>
+
+   * **Diseño final:** Mediante el uso de pinceles auxiliares de flores y plantas y una paleta de color de bosque, se creó el diseño final de este escenario. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
+    
+<p align="center">
+<img src="/Images/ParajeNatural_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final paraje natural/bosque</em></p>
+
+**<li><p>Festival medieval: </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño del festival medieval: https://pin.it/186R7cF <br></br> 
+    
+   * **Boceto:** A continuación, se muestra el boceto del festival medieval. Para su creación, se han empleado las referencias que se pueden encontrar en el tablero de *Pinterest* superior.<br></br>
+    
+<p align="center">
+<img src="/Images/Boceto_FestivalMedieval.png">
+</p>
+
+<p align="center"><em> Boceto festival medieval</em></p>
+
+   * **Diseño final:** Finalmente, se coloreó el lineart del festival medieval basándose en los colores característicos de este tipo de eventos y se utilizaron pinceles auxiliares de plantas y flores. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se modificaron sus tonos empleando mapas de gradiente. Al igual que con el resto de los escenarios, se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
+    
+<p align="center">
+<img src="/Images/FestivalMedieval_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final festival medieval</em></p>
+
+**<li><p>Fondo mesa minijuego: </li></p>** Para la escena del minijuego de las flores se ha diseñado un fondo específico que simula la mesa del mostrador de la tienda del protagonista. Para su creación, se crearon tres pruebas de color de entre las cuales se seleccionó la correspondiente al mantel amarillo con detalles rosados. <br></br>
+
+Una vez se disponía del diseño final coloreado con la paleta seleccionada, se realizaron también tres pruebas de iluminación de entre las cuales se seleccionó la primera de las que se muestran a continuación.
  
 </ul>
 

@@ -974,7 +974,7 @@ En el estado actual del proyecto, se han desarrollado todos los escenarios del v
 
 A pesar de esto, es importante destacar que los escenarios de la Tienda, el Camerino y el Jardín Botánico se mejorarán de cara a la siguiente fase del proyecto y también se realizará un fondo único para el menú principal. 
 
-A continuación, se incluye el concept art realizado para los escenarios del juego hasta el día 19 de noviembre de 2022. 
+A continuación, se incluye el concept art realizado para los escenarios del juego hasta el día 20 de noviembre de 2022. 
 
 <ul>
 

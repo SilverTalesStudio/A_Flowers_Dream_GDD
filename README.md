@@ -945,7 +945,23 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
   <img src="/Images/pjs_ethan_desarrollo.png">
 </p>
 
-<p align="center"><em> Proceso actual - Ethan</em></p>
+<p align="center"><em> Primer boceto - Ethan</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_ethan_pruebascolor.png">
+</p>
+<p align="center"><em>Pruebas de color de Ethan</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_ethan_final.png">
+</p>
+<p align="center"><em>Beauty final - Ethan</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_ethan_expressions.PNG">
+</p>
+<p align="center"><em>Expresiones - Ethan  </em></p>
+
 
 * <b>Pietro</b>
 <p align="center">
@@ -975,14 +991,40 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
   <img src="/Images/pjs_sagrario_desarrollo.png">
 </p>
 
-<p align="center"><em> Proceso actual - Sagrario</em></p>
+<p align="center"><em> Boceto - Sagrario</em></p>
 
-* <b>Daphne</b>
+<p align="center">
+  <img src="/Images/pjs_sagrario_final.png">
+</p>
+
+<p align="center"><em> Beauty final - Sagrario</em></p>
+
+* <b>Minerva</b>
+<p align="center">
+  <img src="/Images/pjs_minerva_final.PNG">
+</p>
+
+<p align="center"><em> Beauty final - Minerva </em></p>
+
+
+* <b>Daphne y Dephna</b>
 <p align="center">
   <img src="/Images/pjs_daphne_desarrollo.PNG">
 </p>
 
-<p align="center"><em> Proceso actual - Daphne</em></p>
+<p align="center"><em> Desarrollo - Daphne</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_daphne_final.png">
+</p>
+
+<p align="center"><em> Beauty final - Daphne</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_dephna_final.png">
+</p>
+
+<p align="center"><em> Beauty final - Dephna</em></p>
 
 
 * <b>Leah</b>
@@ -990,7 +1032,19 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
   <img src="/Images/pjs_leah_desarrollo.PNG">
 </p>
 
-<p align="center"><em> Proceso actual - Leah</em></p>
+<p align="center"><em> Boceto - Leah</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_leah_pruebasColor.png">
+</p>
+
+<p align="center"><em> Pruebas de color - Leah</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_leah_final.png">
+</p>
+
+<p align="center"><em> Beauty - Leah</em></p>
 
 * <b>Limón</b>
 <p align="center">
@@ -998,6 +1052,25 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 </p>
 
 <p align="center"><em> Proceso actual - Limón</em></p>
+
+* <b>Jacob</b>
+<p align="center">
+  <img src="/Images/pjs_jacob_pruebascolor.png">
+</p>
+
+<p align="center"><em> Pruebas de color - Jacob </em></p>
+
+<p align="center">
+  <img src="/Images/pjs_jacob_final.png">
+</p>
+
+<p align="center"><em> Beauty final - Jacob </em></p>
+
+<p align="center">
+  <img src="/Images/pjs_jacob_expressions.PNG">
+</p>
+
+<p align="center"><em> Expresiones - Jacob </em></p>
 
 
 <h4>10.2.3. Escenarios</h4>

@@ -1619,6 +1619,10 @@ Como se puede apreciar en los distintos menús usados de *Referencias 5* se opt�
 </p>
 
 <p align="center">
+  <img src="/Images/Pantalla_Principal.png">
+</p>
+
+<p align="center">
   <img src="/Images/Pantalla_Principal_V3-3.png">
 </p>
 
@@ -1634,10 +1638,54 @@ Como se puede apreciar en los distintos menús usados de *Referencias 5* se opt�
   <img src="/Images/Nombres.png">
 </p>
 
+<p align="center">
+  <img src="/Images/Pantalla_final.png">
+</p>
+
 * <b>Algunos botones:</b> 
 
 <p align="center">
   <img src="/Images/PartidaNueva.png">
+</p>
+
+<p align="center">
+  <img src="/Images/ComerzarPedido.png">
+</p>
+
+<p align="center">
+  <img src="/Images/EntregarRamo.png">
+</p>
+
+<p align="center">
+  <img src="/Images/EntregarRamo.png">
+</p>
+
+<p align="center">
+  <img src="/Images/CargarPartida_desactivada.png">
+</p>
+
+<p align="center">
+  <img src="/Images/AbrirLibro.png">
+</p>
+
+<p align="center">
+  <img src="/Images/Guardar_desactivado.png">
+</p>
+
+<p align="center">
+  <img src="/Images/no.png">
+</p>
+
+<p align="center">
+  <img src="/Images/si.png">
+</p>
+
+<p align="center">
+  <img src="/Images/boton_elecciones.png">
+</p>
+
+<p align="center">
+  <img src="/Images/boton_deslizable.png">
 </p>
 
 <p align="center">
@@ -1655,6 +1703,8 @@ Como se puede apreciar en los distintos menús usados de *Referencias 5* se opt�
   <img src="/Images/BItchio.png">
   <img src="/Images/b_atras.png">
 </p>
+
+
 Como se puede apreciar el predominante es el color dorado en degradado y el marrón. 
 
 Se ha personalizado los botones de las redes sociales para que coincidan con lo que es la estética en si del juego. También se ha utilizado mucho las referencias florales como pequeños detalles debido a la procedencia de la temática del juego que es sobre flores en términos generales. 

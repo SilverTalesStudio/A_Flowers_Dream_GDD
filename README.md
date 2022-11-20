@@ -970,9 +970,11 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 
 <h4>10.2.3. Escenarios</h4>
 
-En el estado actual del proyecto, no se han desarrollado todavía todos los escenarios. Únicamente se han explorado mediante thumbnails y se han generado bocetos de algunos de los escenarios incluidos en la primera semana del videojuego.  
+En el estado actual del proyecto, se han desarrollado todos los escenarios del videojuego que se utilizan en las cuatro semanas que lo conforman.
 
-A continuación, se incluye el concept art realizado para los escenarios del videojuego hasta el día 30 de octubre de 2022. 
+A pesar de esto, es importante destacar que el escenario de la Tienda y el Jardín Botánico se mejorarán de cara a la siguiente fase del proyecto y también se realizará un fondo único para el menú principal. Asimismo, para agilizar el proceso de creación de los escenarios, se ha prescindido de ciertos pasos gracias al uso de múltiples referencias y paletas de color.
+
+A continuación, se incluye el concept art realizado para los escenarios del juego hasta el día 19 de noviembre de 2022. 
 
 <ul>
 
@@ -990,10 +992,27 @@ A continuación, se incluye el concept art realizado para los escenarios del vid
   * **Boceto:** A continuación, se muestra el boceto de la floristería. Para su creación, se ha partido de la base del ***Thumbnail número 1*** por su perspectiva y composición. <br></br>
   
  <p align="center">
-<img src="/Images/Boceto_Floristeria.png">
+<img src="/Images/Boceto_Final_Floristeria.png">
 </p>
 
-<p align="center"><em> Boceto Floristería</em></p>
+<p align="center"><em> Boceto Floristería a partir del thumbnail 1</em></p>
+
+
+  * **Pruebas de color:** Ya con el lineart a limpio de la floristería, se crearon las siguientes pruebas de color para seleccionar aquella paleta que mejor encajase con el escenario antes de comenzar con su diseño final. <br></br>
+  
+ <p align="center">
+<img src="/Images/Pruebas_Color_Floristería.PNG">
+</p>
+
+<p align="center"><em> Pruebas de color de la Floristería</em></p>
+
+  * **Diseño final:** Finalmente, se coloreó el lineart de la floristería con la paleta de color seleccionada, en este caso aquella perteneciente a la **prueba de color número 4**. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario: <br></br>
+  
+ <p align="center">
+<img src="/Images/Floristeria_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final de la Floristería</em></p>
 
 **<li><p>Calle: </li></p>**
   
@@ -1004,8 +1023,106 @@ A continuación, se incluye el concept art realizado para los escenarios del vid
 <img src="/Images/Thumbnails_Calle.png">
 </p>
 
-<p align="center"><em> Thumbnails Calle</em></p>
+<p align="center"><em> Thumbnails calle</em></p>
   
+   * **Boceto:** A continuación, se muestra el boceto de la calle. Para su creación, se ha partido de la base del **Thumbnail número 4** por su perspectiva y composición. <br></br>
+    
+<p align="center">
+<img src="/Images/Boceto_Calle.png">
+</p>
+
+<p align="center"><em> Boceto calle a partir del thumbnail 4</em></p>
+
+   * **Pruebas de color:** Ya con el lineart a limpio de la calle, se crearon las siguientes pruebas de color para seleccionar aquella paleta que mejor encajase con el escenario antes de comenzar con su diseño final. <br></br>
+    
+<p align="center">
+<img src="/Images/Pruebas_Color_Calle.png">
+</p>
+
+<p align="center"><em> Pruebas de color calle</em></p>
+
+   * **Diseño final:** Finalmente, se coloreó el lineart de la calle con la paleta de color seleccionada, en este caso aquella perteneciente a la **prueba de color número 3**. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se aplicó un efecto de ruido al 1% para darle efecto de grano. Destacar que, en el caso de la calle, se ha realizado un diseño final de día y otro de noche por el guion del videojuego. Para lograr esto, simplemente se han aplicado dos filtros de iluminación distintos. A continuación, se muestra el diseño final del escenario de la calle de día y del escenario de la calle de noche.<br></br>
+    
+<p align="center">
+<img src="/Images/Calle_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final calle (día)</em></p>
+
+<p align="center">
+<img src="/Images/CalleNoche_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final calle (noche)</em></p>
+
+**<li><p>Tienda: </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño de la tienda: https://pin.it/6Q6Ct81 <br></br> 
+    
+   * **Boceto:**  A continuación, se muestra el boceto de la tienda. Para su creación, se han empleado las referencias que se pueden encontrar en el tablero de Pinterest superior.<br></br>
+    
+<p align="center">
+<img src="/Images/Boceto_Tienda.png">
+</p>
+
+<p align="center"><em> Boceto tienda</em></p>
+
+   * **Diseño final:** Finalmente, se coloreó el lineart de la tienda utilizando como base una paleta de color de tonos fríos encontrada en *Pinterest*. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se modificaron sus tonos empleando mapas de gradiente. Al igual que con el resto de los escenarios, se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
+    
+<p align="center">
+<img src="/Images/Tienda_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final tienda (día)</em></p>
+
+
+**<li><p>Habitación protagonista: </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño de la habitación de la protagonista: https://pin.it/1rMJrYq <br></br> 
+  * **Thumbnails:** Thumbnails realizados para la exploración de la composición y perspectiva de la habitación de la protagonista.<br></br>
+    
+<p align="center">
+<img src="/Images/Thumbnails_HabitacionProta.png">
+</p>
+
+<p align="center"><em> Thumbnails habitación protagonista</em></p>
+  
+   * **Boceto:** A continuación, se muestra el boceto de la habitación. Para su creación, se ha partido de la base del **Thumbnail número 1** por su perspectiva y composición.<br></br>
+    
+<p align="center">
+<img src="/Images/Boceto_HabitacionProta.png">
+</p>
+
+<p align="center"><em> Boceto habitación protagonista a partir del thumbnail 1</em></p>
+
+   * **Pruebas de color:** Ya con el lineart a limpio de la habitación, se crearon las siguientes pruebas de color para seleccionar aquella paleta que mejor encajase con el escenario antes de comenzar con su diseño final.<br></br>
+    
+<p align="center">
+<img src="/Images/Pruebas_Color_HabitacionProta.PNG">
+</p>
+
+<p align="center"><em> Pruebas de color habitación protagonista</em></p>
+
+   * **Diseño final:** Finalmente, se coloreó el lineart de la habitación con la paleta de color seleccionada, en este caso aquella perteneciente a la **prueba de color número 1**. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
+    
+<p align="center">
+<img src="/Images/HabitacionProta_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final habitación protagonista</em></p>
+
+**<li><p>Jardín botánico: </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño del jardín botánico: https://pin.it/3k66VBb <br></br> 
+
+   * **Diseño final:** Mediante el uso de pinceles auxiliares de flores y plantas, se creó la base del jardín botánico. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se aplicó un efecto de ruido al 1% para darle efecto de grano. El resultado final es el siguiente escenario:<br></br>
+    
+<p align="center">
+<img src="/Images/JardinBotanico_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final jardín botánico</em></p>
+ 
 </ul>
 
 ##### <h4>10.2.4. Ilustraciones </h4>

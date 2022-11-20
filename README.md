@@ -11,7 +11,7 @@
 |Plataformas| Navegador en PC y móviles | 
 
 ## <h2>2. Versión del GDD</h2>
-Actualmente el GDD se encuentra por la versión 1.0.
+Actualmente el GDD se encuentra por la versión 2.0.
 
 ## <h2>3. Introducción</h2>
 
@@ -558,11 +558,21 @@ Por último, en la cuarta semana se definirán los finales con cada personaje en
 
 ### <h3>9.2. Múltiples finales</h3>
 
-Debido a la diversidad de personajes y a la posibilidad de elección (ramificaciones), el juego presenta diferentes finales. En función de la afinidad que el jugador tenga con cada personaje, se desbloqueará un final diferente entre los que se encuentran disponibles. Prácticamente todos los finales se desbloquean en la última semana (cuarta semana), con algunas excepciones pertenecientes a finales que se desbloquean con anterioridad. Esto se especificará con más detalle en la descripción de los finales. 
+Debido a la diversidad de personajes y a la posibilidad de elección (ramificaciones), el juego presenta diferentes finales. Todos los personajes tienen tres finales posibles: bueno, neutral y malo. El jugador desbloqueará por personaje uno de los tres en función de los puntos de afinidad que tenga con dicho personaje o, en ciertos casos, debido a acciones específicas como, por ejemplo, dejar plantado a un personaje por otro.
 
-En el caso de los personajes que son intereses amorosos, habrá tres finales disponibles: bueno, neutral y malo. El final bueno será aquel en el que el jugador tiene una relación amorosa con el personaje con el que tiene mayor afinidad.  
+En la tercera semana de historia se desbloquea el final malo de cada personaje si el jugador tiene una afinidad con este menor o igual a diez o si, como se comentó con anterioridad, se lleva a cabo una acción o decisión específica muy negativa.
 
-En el caso de los personajes que no son intereses amorosos, habría dos finales disponibles los cuales varían de naturaleza dependiendo del personaje.  
+Por otro lado, el final bueno y el final neutral se desbloquea en la cuarta semana de juego. La obtención de uno u otro depende también del nivel de afinidad del jugador con los personajes. A pesar de esto, cabe destacar una diferenciación en la obtención del final bueno en el caso de los personajes que son intereses románticos y los que no:
+
+<ul>
+
+**<li><p>Intereses románticos:</p></li>** <p>El final bueno se desbloquea si la semana tres el jugador tuvo cita con el personaje correspondiente. Esto se debe a que la cita se activa con el personaje con el que tienes mayor afinidad por lo que será también con el que se desarrolle el final bueno (relación amorosa).</p>
+
+**<li><p>No intereses románticos:</p></li>** <p>El final bueno se desbloquea simplemente mirando si el nivel de afinidad es mayor o igual a 15.</p>
+
+</ul>
+
+En la semana cuatro, los finales con cada personaje aparecerán por orden de afinidad siendo el primer personaje con el que tiene menor afinidad el jugador el primero en visitar la tienda esa semana y el último aquel con mayor afinidad. Destacar que el final bueno es aquel que implica relación amorosa con el interés romántico.
 
 A continuación, se incluye una breve descripción de los finales de cada uno de los personajes de *A Flower’s Dream: The Beginning*:
 
@@ -576,7 +586,7 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 * **Final neutral (cuarta semana):** Sophie se abre con el tema de su hermana pequeña y le cuenta al protagonista para quién son los ramos que encargaba. Es entonces cuando el/la protagonista insiste en conocer a su hermana y llevarla personalmente un ramo de flores hecho con mucho amor. Ante su insistencia y la amistad que siente hacia él/ella, Sophie decide aceptar y ambas acuden a visitar a su hermana al hospital.  
 
-* **Final malo (cuarta semana):** La relación con Sophie no es buena por las continuas contestaciones bordes e insistencias sobre su pasado y hermana. No considera ni una posible amistad. Sus visitas a la floristería son cada vez más escasas hasta que en un momento dado admite que no va a volver porque su hermana ya se encuentra bien y no tiene la obligación de volver a ver la fea cara del protagonista. <br></br>
+* **Final malo (tercera semana):** La relación con Sophie no es buena por las continuas contestaciones bordes e insistencias sobre su pasado y hermana. No considera ni una posible amistad. Sus visitas a la floristería son cada vez más escasas hasta que en un momento dado admite que no va a volver porque su hermana ya se encuentra bien y no tiene la obligación de volver a ver la fea cara del protagonista. <br></br>
 
  
 **<li><p>Allan:</p></li>**  
@@ -585,16 +595,16 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 * **Final neutral (cuarta semana):** Allan y el/la protagonista continúan siendo amigos y quedando para realizar excursiones al aire libre.  
 
-* **Final malo (cuarta semana):** Allan acude a la floristería, pero con menos frecuencia debido a las muchas horas de trabajo que le están imponiendo. El/La protagonista intenta aconsejarle, pero se siente ofendido. Cada vez que se ven se genera una situación incómoda. <br></br>
+* **Final malo (tercera semana):** Allan acude a la floristería, pero con menos frecuencia debido a las muchas horas de trabajo que le están imponiendo. El/La protagonista intenta aconsejarle, pero se siente ofendido. Cada vez que se ven se genera una situación incómoda. <br></br>
 
  
 **<li><p>Ethan:</p></li>** 
 
-* **Final bueno (cuarta semana):** Ethan logra superar su miedo al compromiso y decide dar una oportunidad a la relación con el/la protagonista. Poco a poco deja de lado su máscara para abrirse ante la gente gracias al apoyo y el amor recibido por el/la protagonista. Al final él/ella había pasado por algo similar. Con la esperanza de poder vivir nuevas experiencias juntos y liberarse completamente, Ethan convence al protagonista de comprar unos billetes para viajar. Este/Esta cierra la floristería durante unos meses y se van a recorrer el mundo juntos, sin preocupaciones. 
+* **Final bueno (cuarta semana):** El/La protagonista reflexiona sobre su relación actual con Ethan mientras trabaja en la floristería. Tras la preciosa cita y confesión que hubo por parte de ambos en el festival medieval, han iniciado oficialmente una relación amorosa. Ethan se ha atrevido a superar su miedo al compromiso y a la soledad. Poco a poco deja de lado su máscara para abrirse ante la gente gracias al apoyo y amor recibido por el/la protagonista. Al final, Ethan aparece en la floristería para darle una sorpresa al Florista. Con sus ahorros, ha comprado unos billetes de avión para poder viajar durante unos meses por el mundo juntos con la esperanza de poder vivir nuevas experiencias y liberarse completamente. El/La Florista cierra la floristería durante unos meses y se van a planear el viaje a su casa.
 
-* **Final neutral (cuarta semana):** Ethan y el/la protagonista terminan siendo amigos sin desarrollar una relación amorosa. Ambos suelen quedar y mantener conversaciones largas por teléfono sobre libros, una pasión que comparten los dos y que el/la protagonista es de las pocas personas que conoce. En la cuarta semana, Ethan espera a que termine el turno de trabajo en la floristería para quedar a tomar algo, hablar y ponerse al día de las nuevas novedades de la vida. Ethan admite haber conocido a alguien y estar realmente feliz.  
+* **Final neutral (cuarta semana):** El/La protagonista reflexiona sobre el estado de su relación actual con Ethan mientras trabaja en la floristería. En este tiempo, su relación ha profundizado, quedando frecuentemente para hacer cosas juntos, como ir al cine o aprender cocina. También, hablan habitualmente por mensaje o llamada. Todo esto ha hecho que entre ambos haya surgido una preciosa amistad que cada vez se hace más fuerte y no solo eso, Ethan se ha abierto más y está empezando a mostrar a los demás su verdadero yo. El final termina con el/la protagonista recibiendo un mensaje de Ethan para quedar después del trabajo en un bar.
 
-* **Final malo (cuarta semana):** En un día de la cuarta semana, Ethan visita la floristería con su nueva pareja, compra un ramo y cuando la pareja pregunta por el/la protagonista, hace como que no le conoce. La relación que tenía con Ethan se termina, pues este ha decidido pasar página y continuar con su vida de citas y apariencias. <br></br>
+* **Final malo (tercera semana):** Ethan visita la floristería con su nueva pareja. Al ver la forma en la que el/la protagonista se dirige hacia él, su nueva pareja, Dephna, se pone celosa y amenaza al Florista. Al ver que la situación está escalando, Ethan se interpone, pero hace como si no conociera al protagonista. Entonces, Ethan y Dephna abandonan la tienda en busca de otra en la que comprar un ramo para Dephna. En ese momento, Ethan utiliza el apodo que siempre le decía al protagonista. Todo esto hace que el/la Florista se sienta triste porque Ethan ha vuelto a ocultar lo que de verdad siente. La relación que tenía con Ethan se termina, pues este ha decidido pasar página y continuar con su vida de citas y apariencias. <br></br>
 
  
 
@@ -602,9 +612,11 @@ A continuación, se incluye una breve descripción de los finales de cada uno de
 
 **<li><p>Pietro:</p></li>** 
 
-* **Final bueno (cuarta semana):** Pietro se siente cómodo por la actitud cercana y abierta del protagonista al dejarle pintar en la tienda y el interés que muestra hacia su arte. Por ello, en la cuarta semana viene a ver al protagonista para hablarle sobre su vida y futuro. Después de muchas dudas, Pietro decide luchar por dedicarse profesionalmente al arte y se va a ir a estudiar a la universidad. Debido a la lejanía de esta y al cariño que siente hacia el/la protagonista, le da su teléfono para poder mantenerse en contacto por la amistad que se ha creado.  
+* **Final bueno (cuarta semana):** Pietro se siente cómodo por la actitud cercana y abierta del protagonista al dejarle pintar en la tienda y el interés que muestra hacia su arte. Por ello, en la cuarta semana viene a ver al protagonista para hablarle sobre su vida y futuro. Después de muchas dudas, Pietro decide luchar por dedicarse profesionalmente al arte y se va a ir a estudiar a la universidad. Confiesa al protagonista que el verle trabajar y su felicidad al entregar ramos ha sido una de sus principales motivaciones para ello. Ha aprendido a dejar de lado las opiniones de los demás, especialmente de sus antiguos profesores de instituto, las cuales reprimían su estilo y le hacían no disfrutar de su arte. Admite que debido a la lejanía de su nueva universidad ya no podrá volver a la floristería por lo que también ha venido a despedirse. Pietro y el/la protagonista intercambian números para mantenerse en contacto y, finalmente, Pietro abandona la floristería prometiendo volver y regalándole uno de sus dibujos en señal de su amistad. 
 
-* **Final malo (tercera semana):** Debido a la elección del jugador de aquellas opciones secas y cortantes hacia Pietro por entrar a pintar en la floristería sin decir nada y no comprar en algunas ocasiones, Pietro se cansa y en la tercera semana deja de ir a la floristería. El/La protagonista se pregunta por qué Pietro no ha venido en los últimos días a la tienda y, en ese momento, puede ver cómo su figura pasa caminando por la calle a través de las ventanas del escaparate. Dado a que lleva un ramo de flores bajo el brazo, se da a entender que ha ido a otra floristería y que no va a volver. <br></br>
+* **Final neutral (cuarta semana):** El/La protagonista reflexiona sobre el estado de su relación actual con Pietro al ver unos cuadros que le recuerdan a él mientras compra en la tienda. En este tiempo, su relación ha profundizado. Debido a la amabilidad y respeto del protagonista hacia su arte, Pietro se siente mucho más cómodo por lo que va a pintar a la tienda con más frecuencia. Además, ya no permanece en silencio, sino que habla con el/la protagonista y le pide consejo en cuanto a sus dibujos. Se puede apreciar cierta evolución en Pietro el cual habla más y está más contento. Sus dibujos se han vuelto más naturales. Este final termina con el/la Florista pensando en pedir a Pietro su número de teléfono la próxima vez que le vea para poder hablar más debido a su nueva amistad.
+
+* **Final malo (tercera semana):** Debido a la elección del jugador de aquellas opciones secas y cortantes hacia Pietro por entrar a pintar en la floristería sin decir nada y no comprar en algunas ocasiones, Pietro se cansa y en la tercera semana deja de ir a la floristería. Concretamente, el/la Florista se equivoca de camino yendo a la floristería por lo que termina en un mercadillo. Cuando se acerca a un puesto de flores para preguntar por direcciones, ve a Pietro el cual está pintando en este nuevo puesto completamente feliz y libre. El dueño del puesto le trata con respeto y le pide exhibir uno de sus dibujos a lo que Pietro responde positivamente. Esto sorprende al protagonista acostumbrado a su silencio. Al final, el/la Florista abandona la escena sintiéndose triste y culpable a pesar de haber conseguido lo que quería: echar a Pietro. <br></br>
 
  
 **<li><p>Sagrario:</p></li>**

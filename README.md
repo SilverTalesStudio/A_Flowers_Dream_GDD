@@ -107,9 +107,11 @@ En función de todo lo mencionado anteriormente, se ha realizado el siguiente Le
 
 Además de lo anterior, se ha desarrollado un plan de monetización a 2 años que comenzaría tras el lanzamiento de la versión Gold Master en *Itch.io* y *Steam* en el mes de diciembre. Se iniciaría la fase de producción y lanzamiento de diversos tipos de contenidos con el objetivo de mantener el videojuego en activo durante mínimo dos años. Teniendo esto en cuenta, el plan de monetización a dos años que se ha planteado se puede observar en la siguiente línea de tiempo: 
 
-
-  ![image](https://user-images.githubusercontent.com/62938457/206916818-b927ab77-2f58-4718-803f-6e52262ab166.png)"
-
+<p align="center">
+  <img src= "![image](https://user-images.githubusercontent.com/62938457/206916818-b927ab77-2f58-4718-803f-6e52262ab166.png")
+>
+</p>
+  
 
 <p align="center"><em>Línea de tiempo del plan de monetización</em></p>
 

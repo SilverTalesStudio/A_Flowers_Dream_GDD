@@ -178,7 +178,7 @@ El equipo de trabajo estaría formado por tres miembros de arte y tres miembros 
 
 * **Implementación de los menús (Bárbara):** programación de los menús de inicio (menú, pantalla de créditos, galería, etc.) y de contacto del juego. 
 <br></br>
-* **Desarrollo de la Visual Novel y pausa (Clara):** programación de la Visual Novel a partir del guión e implementación de la pausa. 
+* **Desarrollo de la Visual Novel, pausa y guardado(Clara):** programación de la Visual Novel a partir del guión e implementación de la pausa y el sistema de guardado. 
 <br></br>
 * **Desarrollo del minijuego (Andrea y Bárbara):** implementación del sistema de pedidos y el sistema de realización de los ramos de flores durante el minijuego.
 <br></br>
@@ -464,6 +464,25 @@ Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una pe
 | Morado | Azul | Decepción, desconfianza  | Felicidad, alegría, confianza -- Sinceridad  |
 | Rosa | Rojo | Amistad | Amor eterno, amor verdadero |
 | Blanco | Rojo | Seducción, amor secreto | Buena suerte, buenas noticias -- Pureza del corazón |
+
+#### <h4>6.2.6. Sistema de Guardado</h4>
+
+Para permitir que el jugador pueda guardar partida en el navegador y pueda continuar con el juego en otro momento se ha utilizado PlayFab que permite el almacenamiento de datos del jugador mediante la creación sencilla de una cuenta.
+Al inicio del juego el menú muestra diferentes opciones: Iniciar Sesión, para aquellos que ya tengan cuenta; Crear cuenta, para quienes no tengan; y Continuar sin cuenta, lo que permite jugar, pero no se puede guardar la partida.
+
+<p align="center">
+  <img src="/Images/Pantalla_Principal_VFinal_2.PNG">
+</p>
+
+La cuenta se hace con un correo electrónico para que en caso de que el jugador se olvide de su contraseña, que sea capaz de recuperarla. Por lo tanto, no hace falta un nombre de usuario.
+
+<p align="center">
+  <img src="/Images/Pantalla_Crear_Cuenta.PNG">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Iniciar_Sesion.PNG">
+</p>
 
 ## <h2>7. Controles</h3>
 
@@ -1732,14 +1751,6 @@ Como se puede apreciar en los distintos menús usados de *Referencias 5* se opt�
 
 <p align="center">
   <img src="/Images/Pantalla_Principal_VFinal_2.PNG">
-</p>
-
-<p align="center">
-  <img src="/Images/Pantalla_Crear_Cuenta.PNG">
-</p>
-
-<p align="center">
-  <img src="/Images/Pantalla_Iniciar_Sesion.PNG">
 </p>
 
 <p align="center">

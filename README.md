@@ -178,7 +178,7 @@ El equipo de trabajo estaría formado por tres miembros de arte y tres miembros 
 
 * **Implementación de los menús (Bárbara):** programación de los menús de inicio (menú, pantalla de créditos, galería, etc.) y de contacto del juego. 
 <br></br>
-* **Desarrollo de la Visual Novel, pausa y guardado(Clara):** programación de la Visual Novel a partir del guión e implementación de la pausa y el sistema de guardado. 
+* **Desarrollo de la Visual Novel, pausa y guardado (Clara):** programación de la Visual Novel a partir del guión e implementación de la pausa y el sistema de guardado. 
 <br></br>
 * **Desarrollo del minijuego (Andrea y Bárbara):** implementación del sistema de pedidos y el sistema de realización de los ramos de flores durante el minijuego.
 <br></br>

@@ -1733,6 +1733,14 @@ Una lista de los efectos sonoros necesarios:
 <li><p>Sonido del chocar de copas</p></li>
 </ul>
  
+### <h3>Momentos</h3> 
+<ul>
+<li><p>Momento Alegre</p></li>
+<li><p>Momento Tensión</p></li>
+<li><p>Momento Siniestro</p></li>
+<li><p>Momento Discusión</p></li>
+</ul>
+
 ### <h3>11.3. Música de los personajes</h3> 
 
 Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno de los personajes interactuables y más importantes del juego. 
@@ -1831,6 +1839,8 @@ Como se puede apreciar en los distintos menús usados de *Referencias 5* se opt�
   <img src="/Images/si_popup.png">
   <img src="/Images/boton_genero.png">
   <img src="/Images/boton_deslizar_menu_minijuego.png">
+  <img src="/Images/boton_cerrar.png">
+  <img src="/Images/boton_Informacion.png">
 </p>
 
 <p align="center">
@@ -1895,6 +1905,19 @@ Se han creados tres Pop-Ups, el primero para pones el juego en pausa, el segundo
 
 <p align="center">
   <img src="/Images/Pop_Up_salir.png">
+</p>
+
+<p align="center">
+  <img src="/Images/libro_pag1.png">
+  <img src="/Images/libro_pag2.png">
+  <img src="/Images/libro_pag3.png">
+  <img src="/Images/libro_pag4.png">
+  <img src="/Images/libro_pag5.png">
+  <img src="/Images/libro_pag6.png">
+  <img src="/Images/libro_pag7.png">
+  <img src="/Images/libro_pag8.png">
+  <img src="/Images/libro_pag9.png">
+  <img src="/Images/libro_pag10.png">
 </p>
 
 ### <h3>12.2. Diagrama de flujo</h3>

@@ -1524,6 +1524,34 @@ Una vez se disponía del diseño final coloreado con la paleta seleccionada, se 
 <p align="center"><em>Fondo minijuego (prueba iluminación 3)</em></p>
 
 <br></br>
+
+**<li><p>Exterior floristería (fondo menú principal): </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño del exterior de la floristería del protagonista: https://pin.it/1MmTo17 <br></br> 
+  
+   * **Boceto:** A continuación, se muestra el boceto del exterior de la floristería. Para su creación, se han empleado las referencias que se pueden encontrar en el tablero de *Pinterest* superior.<br></br>
+    
+<p align="center">
+<img src="/Images/FondoMenu_ExteriorFloristeria_Boceto.png">
+</p>
+
+<p align="center"><em> Boceto Exterior Floristería</em></p>
+
+   * **Pruebas de color:** Ya con el lineart del exterior de la floristería pasado a limpio, se crearon las siguientes pruebas de color para seleccionar aquella paleta que mejor encajase con el escenario antes de comenzar con su diseño final. Es importante destacar que muchos de los elementos que conforman la escena a nivel de decoración y color son los mismos que en el caso del escenario de la **Floristería Interior** para mantener la coherencia. <br></br>
+    
+<p align="center">
+<img src="/Images/Pruebas_Color_MenuFloristeriaExterior.png">
+</p>
+
+<p align="center"><em> Pruebas de color Exterior Floristería</em></p>
+
+   * **Diseño final:** Finalmente, se coloreó el lineart del exterior de la floristería con la paleta de color seleccionada, en este caso aquella perteneciente a la **prueba de color número 7**. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se aplicó un efecto de ruido al 1% para darle efecto de grano. A continuación, se muestra el diseño final del exterior de la floristería empleado como fondo del menú principal del videojuego. Como se puede observar, se ha optado por añadir el título del juego en el propio toldo de la tienda.<br></br>
+    
+<p align="center">
+<img src="/Images/MenuFloristeriaExterior_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final Exterior Floristería (fondo menú principal)</em></p>
  
 </ul>
 

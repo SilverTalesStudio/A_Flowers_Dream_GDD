@@ -114,9 +114,9 @@ Además de lo anterior, se ha desarrollado un plan de monetización a 2 años qu
 <p align="center"><em>Línea de tiempo del plan de monetización</em></p>
 
 Los DLCs que se mencionan en la línea de tiempo anterior contendrán contenido adicional opcional, agregando una nueva experiencia, pero no siendo necesaria para terminar la historia base del videojuego. Además, incluyen contenido estético, como nuevas skins para los distintos personajes. Los DLCs narrativos incluyen nuevas historias y/o nuevos personajes. Toda esta información se ve con claridad en las siguientes dos ilustraciones, donde se desglosa la línea de tiempo del plan de monetización por años. 
-<p align="center">
+
   ![image](https://user-images.githubusercontent.com/62938457/206916849-38ab8c50-9895-49a6-b5e9-ab655d72f9d3.png)"
-</p>
+
 <p align="center"><em>Plan de monetización - Primer año </em></p>
 
 <p align="center">

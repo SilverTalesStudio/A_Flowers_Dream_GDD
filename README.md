@@ -108,29 +108,30 @@ En función de todo lo mencionado anteriormente, se ha realizado el siguiente Le
 Además de lo anterior, se ha desarrollado un plan de monetización a 2 años que comenzaría tras el lanzamiento de la versión Gold Master en *Itch.io* y *Steam* en el mes de diciembre. Se iniciaría la fase de producción y lanzamiento de diversos tipos de contenidos con el objetivo de mantener el videojuego en activo durante mínimo dos años. Teniendo esto en cuenta, el plan de monetización a dos años que se ha planteado se puede observar en la siguiente línea de tiempo: 
 
 <p align="center">
-  <img src= ![image](https://user-images.githubusercontent.com/62938457/206916818-b927ab77-2f58-4718-803f-6e52262ab166.png)
->
+  <img src= "/Images/timeline_planMonetizacion.PNG">
 </p>
   
-
 <p align="center"><em>Línea de tiempo del plan de monetización</em></p>
 
 Los DLCs que se mencionan en la línea de tiempo anterior contendrán contenido adicional opcional, agregando una nueva experiencia, pero no siendo necesaria para terminar la historia base del videojuego. Además, incluyen contenido estético, como nuevas skins para los distintos personajes. Los DLCs narrativos incluyen nuevas historias y/o nuevos personajes. Toda esta información se ve con claridad en las siguientes dos ilustraciones, donde se desglosa la línea de tiempo del plan de monetización por años. 
 
-  ![image](https://user-images.githubusercontent.com/62938457/206916849-38ab8c50-9895-49a6-b5e9-ab655d72f9d3.png)"
+ <p align="center">
+  <img src= "/Images/timeline_planMonetizacion_1.PNG">
+</p>
 
 <p align="center"><em>Plan de monetización - Primer año </em></p>
 
-
-  ![image](https://user-images.githubusercontent.com/62938457/206916908-f99b1ceb-81ed-4901-b925-f9caa0591414.png)
-
+ <p align="center">
+  <img src= "/Images/timeline_planMonetizacion_2.PNG">
+</p>
 <p align="center"><em>Plan de monetización - Segundo año </em></p>
 
 De todos los DLCs estéticos, una de las skins del pack será gratuita para todos los usuarios. La elección de esta skin se hará mediante una votación en redes sociales, previa a la muestra de los cambios estéticos de los personajes. La razón de hacer eso reside en la gran afluencia que proporcionan los jugadores que únicamente compran el juego base, ya que suelen hablar con amigos y familia, además de proporcionar feedback al equipo.
 
 
- ![image](https://user-images.githubusercontent.com/62938457/206916936-2ef0e261-2493-4563-959c-d1b9b88a06d3.png)
-
+ <p align="center">
+  <img src= "/Images/mockup_skins.PNG">
+</p>
 <p align="center"><em>Mock-up DLCs estéticos </em></p>
 <li><b>Métricas</b></li> 
 

@@ -349,15 +349,13 @@ Las variables a tener en cuenta para el minijuego de las flores son:
 <ul>
     <li><b>Flor favorita del cliente:</b> suma 1 puntos al conteo de puntos de flor favorita y/o odiada.</b></li>
     <li><b>Flor odiada por el cliente:</b> restan 1 puntos al conteo de puntos de flor favorita y/o odiada.</b></li> 
-    <li><b>Color exacto del pedido:</b> suman 1 punto al conteo de puntos de color del pedido y color no afín.</b></li>
-    <li><b>Colores no afines al pedido (Máximo 2 colores):</b> restan 1 punto al conteo de puntos de color del pedido y color no afín.</b></li> 
-    <li><b>Sentimiento exacto del pedido:</b> suman 1 punto al conteo de puntos de sentimiento del pedido y sentimiento no afín.</b></li>
-    <li><b>Sentimientos no afines al pedido (Máximo 2 sentimientos):</b> restan 1 punto al conteo de puntos de sentimiento del pedido y sentimiento no afín.</b></li>
+    <li><b>Color exacto del pedido:</b> suman el resultado del cálculo de 5 / (total de flores de ese color)  al conteo de puntos de color del pedido y color no afín.</b></li>
+    <li><b>Colores no afines al pedido (Máximo 2 colores):</b> restan el resultado del cálculo de 5 / (total de flores de ese color)  al conteo de puntos de color del pedido y color no afín.</b></li> 
+    <li><b>Sentimiento exacto del pedido:</b> suman el resultado del cálculo de 5 / (total de flores de ese sentimiento) al conteo de puntos de sentimiento del pedido y sentimiento no afín.</b></li>
+    <li><b>Sentimientos no afines al pedido (Máximo 2 sentimientos):</b> restan el resultado del cálculo de 5 / (total de flores de ese sentimiento) al conteo de puntos de sentimiento del pedido y sentimiento no afín.</b></li>
 </ul>
 
 Estas variables indicadas se comparan con las que el cliente desea para su pedido y se suman o restan dependiendo de si son lo que se pide o no, o si son favoritas u odiadas. 
-
-Cuando hay una flor favorita en el ramo, se suma 1 punto en los tres aspectos (flor favorita, color, sentimiento), en caso de ser la flor odiada, se hace lo contrario. 
 
 El resultado de cada aspecto tiene el siguiente rango de valores que cambia a un valor cualitativo dependiendo de si el conteo de puntos finales está dentro de un rango u otro: 
 
@@ -372,19 +370,19 @@ El resultado de cada aspecto tiene el siguiente rango de valores que cambia a un
 <br></br>
 
 **<li><p>Puntos totales en color exacto y/o no afín: [-5, 5]</p></li>**
-* **Resultado en rango [-5, -2]:** "mal”. 
+* **Resultado en rango [-5, -1.6]:** "mal”. 
 <br></br>
-* **Resultado en rango [-1, 1]:** "regular”. 
+* **Resultado en rango (-1.6, 1.6):** "regular”. 
 <br></br>
-* **Resultado en rango [2, 5]:** “bien”.   
+* **Resultado en rango [1.6, 5]:** “bien”.   
 <br></br>
 
 **<li><p>Puntos totales en color exacto y/o no afín: [-5, 5]</p></li>**
-* **Resultado en rango [-5, -2]:** "mal”. 
+* **Resultado en rango [-5, -1.6]:** "mal”. 
 <br></br>
-* **Resultado en rango [-1, 1]:** "regular”. 
+* **Resultado en rango (-1.6, 1]:** "regular”. 
 <br></br>
-* **Resultado en rango [2, 5]:** “bien”.    
+* **Resultado en rango [1.6, 5]:** “bien”.    
 </ul>
 
 Una vez se tengan los resultados cualitativos de cada aspecto de la flor, se comparan entre ellas y si dos coinciden con un mismo resultado, se envía a la Visual Novel para que decida qué dialogo y ruta seguirá la partida del jugador, pero si el resultado por aspecto es “mal”, “regular” y “bien”, lo que se envía a la Visual Novel es el resultado “regular”. 
@@ -499,6 +497,42 @@ La cuenta se hace con un correo electrónico para que en caso de que el jugador 
 <p align="center">
   <img src="/Images/Pantalla_Iniciar_Sesion.PNG">
 </p>
+
+#### <h4>6.2.7. Galería de ilustraciones</h4>
+
+Para aumentar la rejugabilidad, se ha añadido una galería de ilustraciones que hacen la función de coleccionables. 
+Su función principal es mostrar las ilustraciones correspondientes a los puntos importantes de la trama con cada uno de los personajes con los que el jugador puede tener un romance. Para que esto funcione, el jugador debe llegar a ciertas ramas de la historia con los personajes y, además de ver esta ilustración en el momento concreto de la trama, podrá volver a verla en esta galería. 
+Gracias a esta mecánica, el jugador tendrá más interés en obtener todas las ilustraciones y así saber cuánto le queda para obtener el 100% del juego.
+
+<p align="center">
+  <img src="/Images/Galeria1.png">
+</p>
+
+<p align="center"><em>Menú de la galería con los personajes con romance</em></p>
+
+<p align="center">
+  <img src="/Images/Galeria2.png">
+</p>
+
+<p align="center"><em>Galería de ilustraciones bloqueadas del personaje Ethan</em></p>
+
+<p align="center">
+  <img src="/Images/Galeria3.png">
+</p>
+
+<p align="center"><em>Galería de ilustraciones del personaje Sophie desbloqueadas con la protragonista femenina</em></p>
+
+#### <h4>6.2.7. Ajustes de sonido</h4>
+
+Se han introducido un menú de ajustes en las pantallas de Menú principal, Visual Novel y Minijuego de las flores para que se pueda modificar en cualquier momento la música y los efectos de sonido del videojuego.
+Para su funcionamiento, se han usado Sliders que permiten modificar el sonido de forma fluida sin saltos de volumen.
+Para acceder a este menú, en el Menú principal aparece como cualquier otro botón, sin tener en cuenta los integrados en los pop-ups del sistema de guardado. Mientras que en la Visual Novel y en el Minijuego de las flores, está integrado en el menú de pausa.
+
+<p align="center">
+  <img src="/Images/ajustes.png">
+</p>
+
+<p align="center"><em>Pop-up del menú de ajustes de audio</em></p>
 
 ## <h2>7. Controles</h3>
 
@@ -1965,11 +1999,18 @@ Por otra parte, la adaptación de la resolución ha sido mejorada en dispositivo
 
 ### <h3>13.3. Hito 3</h3>
 
-Finalización de la versión GoldMaster con todo el videojuego implementado y completo en todos sus apartados, así como optimizado para poder ser jugado por el cliente en todo su esplendor. 
+Finalización de la versión GoldMaster con todo el videojuego implementado y completo en todos sus apartados, así como optimizado para poder ser jugado por el cliente en todo su esplendor.
 
-Desde la finalización de la versión beta se necesita optimizar el apartado de implementación para hacer el videojuego lo mejor jugable posible, para ello se llevarán a cabo gran cantidad de testeos por parte del equipo de desarrollo. Además, se deben incluir implementaciones pasadas por alto que pueden ser de utilidad para el jugador.  
+El videojuego cuenta con todo el apartado de arte implementado, así como todo el contenido necesario para que el videojuego esté para su lanzamiento.
 
-En la parte de arte, se debe incluir todos los apartados no terminados en la versión beta. Así como, detallar apartados ya incluidos en la versión anterior para que tengan una visualización adecuada.  
+Se han solucionado todos los bugs que fueron encontrados durante la etapa de Testing. Además, se ha implementado un sistema de guardado completamente funcional, así como un menú de ajustes para controlar el volumen del videojuego. 
+
+Por otra parte, se ha logrado implementar la galería con los coleccionables para que el jugador tenga constancia de su avance.
+
+Por último, ha sido posible conseguir que el juega sea 100% adaptable tanto en pc como en dispositivos móviles.
+
+En conclusión, el videojuego está disponible para que los jugadores puedan disfrutar del mismo en su versión completa sin carencias y con todas las  implementaciones y arreglos necesarios.
+
 
 ### <h3>13.4. Fecha de lanzamiento</h3>
 

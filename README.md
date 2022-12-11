@@ -11,7 +11,7 @@
 |Plataformas| Navegador en PC y móviles | 
 
 ## <h2>2. Versión del GDD</h2>
-Actualmente el GDD se encuentra por la versión 2.0.
+Actualmente el GDD se encuentra por la versión 3.0.
 
 ## <h2>3. Introducción</h2>
 

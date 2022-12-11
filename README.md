@@ -436,28 +436,28 @@ Asimismo, es importante destacar los siguientes factores:
 
 La siguiente tabla recoge las 20 flores incluidas en el minijuego de la floristería y que el jugador tendrá a su disposición para la creación del ramo. Por cada flor se especifica: su nombre, su color, su sentimiento, y una referencia visual.  
 
-| Nombre | Color | Sentimiento | Referencia |
+| Nombre | Color | Sentimiento | Referencia | Sprite |
 |:------------:|:-------------:|:-------------:|:-------------:|
-| Dalia Malva | Malva | Agradecimiento y gratitud | ![Dalia Malva!](/Images/DaliaMalva.png) |
-| Campánula | Morada | Agradecimiento y gratitud | ![Campánula!](/Images/Campanula.png) |
-| Ciclamen | Rosa | Decepción, desconfianza | ![Ciclamen!](/Images/Ciclamen.png) |
-| Jazmín blanco | Blanca | Amistad | ![Jazmín blanco!](/Images/JazminBlanco.png) |
-| Rosa amarilla | Amarilla | Amistad | ![Rosa amarilla!](/Images/RosaAmarilla.png) |
-| Adelfa | Rosa | Seducción, amor secreto  | ![Adelfa!](/Images/Adelfa.png) |
-| Clavel | Roja | Seducción, amor secreto | ![Clavel rojo!](/Images/ClavelRojo.png) |
-| Flor de Lis | Roja | Amor eterno, amor verdadero | ![Flor de Lis!](/Images/FlorDeLis.png) |
-| Mirto | Blanca | Amor eterno, amor verdadero | ![Mirto!](/Images/Mirto.png) |
-| Clemátide | Morada | Belleza, belleza del alma | ![Clemátide!](/Images/Clematilde.png) |
-| Orquídea | Blanca | Belleza, belleza del alma | ![Orquídea!](/Images/OrquideaBlanca.png) |
-| Rosa roja | Roja | Belleza, belleza del alma | ![Rosa roja!](/Images/RosaRoja.png) |
-| Iris Azul | Azul | Buena suerte, buenas noticias | ![Iris Azul!](/Images/IrisAzul.png) |
-| Jade | Rosa | Buena suerte, buenas noticias | ![Jade!](/Images/Jade.png) |
-| Neguilla | Rosa | Pureza del corazón | ![Neguilla!](/Images/Neguilla.png) |
-| Lirio | Blanca | Pureza del corazón | ![Lirio!](/Images/LirioBlanco.png) |
-| Centaurea | Morada | Felicidad, alegría, confianza | ![Centaurea!](/Images/Centaurea.png) |
-| Coreopsis | Amarilla | Felicidad, alegría, confianza | ![Coreopsis!](/Images/Coreopsis.png) |
-| Lirio del Valle | Blanca | Felicidad, alegría, confianza | ![Lirio del Valle!](/Images/LirioDelValle.png) |
-| Gardenia | Blanca | Sinceridad | ![Gardenia!](/Images/Gardenia1.png) |
+| Dalia Malva | Malva | Agradecimiento y gratitud | ![Dalia Malva!](/Images/flor_referencia_DaliaMalva.png) |![Dalia Malva Sprite!](/Images/Flor_Dalia.png) |
+| Campánula | Morada | Agradecimiento y gratitud | ![Campánula!](/Images/flor_referencia_Campanula.png) | ![Campánula Sprite!](/Images/Flor_Campánula.png) |
+| Ciclamen | Rosa | Decepción, desconfianza | ![Ciclamen!](/Images/flor_referencia_Ciclamen.png) | ![Ciclamen Sprite!](/Images/Flor_Ciclamen.png) |
+| Jazmín blanco | Blanca | Amistad | ![Jazmín blanco!](/Images/flor_referencia_JazminBlanco.png) |![Jazmín Sprite!](/Images/Flor_Jazmin.png) |
+| Rosa amarilla | Amarilla | Amistad | ![Rosa amarilla!](/Images/flor_referencia_RosaAmarilla.png) | ![Rosa amarilla Sprite!](/Images/Flor_RosaAmarilla.png) |
+| Adelfa | Rosa | Seducción, amor secreto  | ![Adelfa!](/Images/flor_referencia_Adelfa.png) | ![Adelfa Sprite!](/Images/Flor_Adelfa.png) |
+| Clavel | Roja | Seducción, amor secreto | ![Clavel rojo!](/Images/flor_referencia_ClavelRojo.png) | ![Clavel Sprite!](/Images/Flor_Clavel.png) |
+| Flor de Lis | Roja | Amor eterno, amor verdadero | ![Flor de Lis!](/Images/flor_referencia_FlorDeLis.png) | ![Flor de Lis Sprite!](/Images/Flor_FlorDeLis.png) |
+| Mirto | Blanca | Amor eterno, amor verdadero | ![Mirto!](/Images/flor_referencia_Mirto.png) | ![Mirto Sprite!](/Images/Flor_Mirto.png) |
+| Clemátide | Morada | Belleza, belleza del alma | ![Clemátide!](/Images/flor_referencia_Clematide.png) | ![Clemátide Sprite!](/Images/Flor_Clematide.png) |
+| Orquídea | Blanca | Belleza, belleza del alma | ![Orquídea!](/Images/flor_referencia_OrquideaBlanca.png) | ![Orquídea Sprite!](/Images/Flor_Orquidea.png) |
+| Rosa roja | Roja | Belleza, belleza del alma | ![Rosa roja!](/Images/flor_referencia_RosaRoja.png) | ![Rosa roja Sprite!](/Images/Flor_RosaRoja.png) |
+| Iris Azul | Azul | Buena suerte, buenas noticias | ![Iris Azul!](/Images/flor_referencia_IrisAzul.png) | ![Iris Azul Sprite!](/Images/Flor_IrisAzul.png) |
+| Jade | Rosa | Buena suerte, buenas noticias | ![Jade!](/Images/flor_referencia_Jade.png) | ![Jade Sprite!](/Images/Flor_Jade.png) |
+| Neguilla | Rosa | Pureza del corazón | ![Neguilla!](/Images/flor_referencia_Neguilla.png) | ![Neguilla Sprite!](/Images/Flor_Neguilla.png) |
+| Lirio | Blanca | Pureza del corazón | ![Lirio!](/Images/flor_referencia_LirioBlanco.png) |![Lirio Blanco Sprite!](/Images/Flor_LirioBlanco.png) |
+| Centaurea | Morada | Felicidad, alegría, confianza | ![Centaurea!](/Images/flor_referencia_Centaurea.png) | ![Centaurea Sprite!](/Images/Flor_Centaurea.png) |
+| Coreopsis | Amarilla | Felicidad, alegría, confianza | ![Coreopsis!](/Images/flor_referencia_Coreopsis.png) | ![Coreopsis Sprite!](/Images/Flor_Coreopsis.png) |
+| Lirio del Valle | Blanca | Felicidad, alegría, confianza | ![Lirio del Valle!](/Images/flor_referencia_LirioDelValle.png) | ![Lirio del Valle Sprite!](/Images/Flor_LirioValle.png) |
+| Gardenia | Blanca | Sinceridad | ![Gardenia!](/Images/flor_referencia_Gardenia1.png) | ![Gardenia Sprite!](/Images/Flor_Gardenia.png) |
 
 
 Para finalizar, en la siguiente tabla se recogen la flor favorita y la flor odiada de cada personaje: 

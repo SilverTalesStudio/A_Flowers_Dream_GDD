@@ -1731,6 +1731,18 @@ Como se puede apreciar en los distintos men√∫s usados de *Referencias 5* se opt√
 </p>
 
 <p align="center">
+  <img src="/Images/Pantalla_Principal_VFinal_2.PNG">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Crear_Cuenta.PNG">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Iniciar_Sesion.PNG">
+</p>
+
+<p align="center">
   <img src="/Images/Boceto_Contacto_v1.png">
 </p>
 

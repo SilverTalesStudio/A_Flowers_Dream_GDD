@@ -1693,7 +1693,7 @@ En cada cita se obtiene como recompensa una o más ilustraciones.  Las presentes
 
 ##### <h4>10.2.5. Flores </h4>
 
-En el estado actual del proyecto, se han dibujado las veinte flores que conforman el repertorio disponible para la realización de ramos durante el minijuego de las flores. Se ha intentado mantener la coherencia con la estética del resto de elementos visuales del videojuego optando por un coloreado estilizado y no muy detallado. En el **<em>Apartado 4.2. Descripción detallada de las mecánicas del juego (clasificación de las flores)</em>** se puede encontrar una tabla con todas las flores disponibles durante el minijuego; sus datos; y una referencia visual correspondiente al nuevo diseño propio realizado de las flores. 
+En el estado actual del proyecto, se han dibujado las veinte flores que conforman el repertorio disponible para la realización de ramos durante el minijuego de las flores. Se ha intentado mantener la coherencia con la estética del resto de elementos visuales del videojuego optando por un coloreado estilizado y no muy detallado. En el **<em>Apartado 4.2. Descripción detallada de las mecánicas del juego (clasificación de las flores)</em>** se puede encontrar una tabla con todas las flores disponibles durante el minijuego; sus datos; una referencia visual; y el sprite final correspondiente al nuevo diseño propio realizado de las flores. 
 
 <br></br>
 

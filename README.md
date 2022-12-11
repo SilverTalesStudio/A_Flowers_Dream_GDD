@@ -964,6 +964,11 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 </p>
 <p align="center"><em> Beauty final - Florista (masc)</em></p>
 
+<p align="center">
+  <img src="/Images/pjs_floristamasc_expressions.PNG">
+</p>
+<p align="center"><em> Expresiones - Florista (masc)</em></p>
+
 * <b>Sophie</b>
 <p align="center">
   <img src="/Images/pjs_sophie_desarrollo.png">
@@ -1052,6 +1057,14 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 </p>
 <p align="center"><em> Beauty final - Pietro</em></p>
 
+
+<p align="center">
+  <img src="/Images/pjs_pietro_expressions.PNG">
+</p>
+<p align="center"><em> Expresiones - Pietro</em></p>
+
+
+
 * <b>Sagrario</b>
 <p align="center">
   <img src="/Images/pjs_sagrario_desarrollo.png">
@@ -1064,6 +1077,12 @@ En el estado actual del proyecto, la mayoría de los personajes están en proces
 </p>
 
 <p align="center"><em> Beauty final - Sagrario</em></p>
+
+<p align="center">
+  <img src="/Images/pjs_sagrario_expressions.PNG">
+</p>
+
+<p align="center"><em> Expresiones - Sagrario</em></p>
 
 * <b>Minerva</b>
 <p align="center">

@@ -108,15 +108,30 @@ En función de todo lo mencionado anteriormente, se ha realizado el siguiente Le
 Además de lo anterior, se ha desarrollado un plan de monetización a 2 años que comenzaría tras el lanzamiento de la versión Gold Master en *Itch.io* y *Steam* en el mes de diciembre. Se iniciaría la fase de producción y lanzamiento de diversos tipos de contenidos con el objetivo de mantener el videojuego en activo durante mínimo dos años. Teniendo esto en cuenta, el plan de monetización a dos años que se ha planteado se puede observar en la siguiente línea de tiempo: 
 
 <p align="center">
-  <img src="/Images/PlanMonetizacion.png">
+  <img src= ![image](https://user-images.githubusercontent.com/62938457/206916818-b927ab77-2f58-4718-803f-6e52262ab166.png)
+>
 </p>
+  
 
 <p align="center"><em>Línea de tiempo del plan de monetización</em></p>
 
-Los DLCs que se mencionan en la línea de tiempo anterior contendrán contenido adicional opcional, agregando una nueva experiencia, pero no siendo necesaria para terminar la historia base del videojuego. Además, incluyen contenido estético, como nuevas skins para los distintos personajes. Los DLCs narrativos incluyen nuevas historias y/o nuevos personajes. 
+Los DLCs que se mencionan en la línea de tiempo anterior contendrán contenido adicional opcional, agregando una nueva experiencia, pero no siendo necesaria para terminar la historia base del videojuego. Además, incluyen contenido estético, como nuevas skins para los distintos personajes. Los DLCs narrativos incluyen nuevas historias y/o nuevos personajes. Toda esta información se ve con claridad en las siguientes dos ilustraciones, donde se desglosa la línea de tiempo del plan de monetización por años. 
 
-De todos los DLCs estéticos, una de las skins del pack será gratuita para todos los usuarios. La elección de esta skin se hará mediante una votación en redes sociales, previa a la muestra de los cambios estéticos de los personajes. La razón de hacer eso reside en la gran afluencia que proporcionan los jugadores que únicamente compran el juego base, ya que suelen hablar con amigos y familia, además de proporcionar feedback al equipo. 
+  ![image](https://user-images.githubusercontent.com/62938457/206916849-38ab8c50-9895-49a6-b5e9-ab655d72f9d3.png)"
 
+<p align="center"><em>Plan de monetización - Primer año </em></p>
+
+
+  ![image](https://user-images.githubusercontent.com/62938457/206916908-f99b1ceb-81ed-4901-b925-f9caa0591414.png)
+
+<p align="center"><em>Plan de monetización - Segundo año </em></p>
+
+De todos los DLCs estéticos, una de las skins del pack será gratuita para todos los usuarios. La elección de esta skin se hará mediante una votación en redes sociales, previa a la muestra de los cambios estéticos de los personajes. La razón de hacer eso reside en la gran afluencia que proporcionan los jugadores que únicamente compran el juego base, ya que suelen hablar con amigos y familia, además de proporcionar feedback al equipo.
+
+
+ ![image](https://user-images.githubusercontent.com/62938457/206916936-2ef0e261-2493-4563-959c-d1b9b88a06d3.png)
+
+<p align="center"><em>Mock-up DLCs estéticos </em></p>
 <li><b>Métricas</b></li> 
 
 Para finalizar, destacar que, para el desarrollo del plan de monetización a dos años, se han considerado diversas métricas. Estas son las siguientes:  
@@ -178,7 +193,7 @@ El equipo de trabajo estaría formado por tres miembros de arte y tres miembros 
 
 * **Implementación de los menús (Bárbara):** programación de los menús de inicio (menú, pantalla de créditos, galería, etc.) y de contacto del juego. 
 <br></br>
-* **Desarrollo de la Visual Novel y pausa (Clara):** programación de la Visual Novel a partir del guión e implementación de la pausa. 
+* **Desarrollo de la Visual Novel, pausa y guardado (Clara):** programación de la Visual Novel a partir del guión e implementación de la pausa y el sistema de guardado. 
 <br></br>
 * **Desarrollo del minijuego (Andrea y Bárbara):** implementación del sistema de pedidos y el sistema de realización de los ramos de flores durante el minijuego.
 <br></br>
@@ -287,7 +302,7 @@ Es un videojuego en perspectiva 2D, que hace uso de cámara fija con vista en te
 
 ### <h3>6.2. Descripción detallada de las mecánicas de juego</h3>
 
-El videojuego se puede dividir en dos partes respecto a las mecánicas utilizadas, ya que ambas partes son muy diferentes de jugar entre sí. Por un lado, están las fases narrativas en formato Visual Novel, y por otro están las fases de creación de ramos en formato minijuego. 
+El videojuego se puede dividir en dos partes respecto a las mecánicas utilizadas, ya que ambas partes son muy diferentes de jugar entre sí. Por un lado, están las fases narrativas en formato Visual Novel, y por otro están las fases de creación de ramos en formato minijuego. Aparte de esto, se ha implementado un sistema de guardado persistente al que se accede desde ambas partes.
 
 #### <h4>6.2.1. Visual Novel</h4>
 La mecánica principal de esta fase consiste en la lectura de los diálogos entre los personajes y la elección de contestaciones de las cuales dependerá el devenir de la aventura. Según las opciones que se vayan escogiendo se desbloquearan unas rutas y se bloquearan otras. 
@@ -464,6 +479,25 @@ Los pedidos estarán preestablecidos (10 por personaje). Todos incluirán una pe
 | Morado | Azul | Decepción, desconfianza  | Felicidad, alegría, confianza -- Sinceridad  |
 | Rosa | Rojo | Amistad | Amor eterno, amor verdadero |
 | Blanco | Rojo | Seducción, amor secreto | Buena suerte, buenas noticias -- Pureza del corazón |
+
+#### <h4>6.2.6. Sistema de Guardado</h4>
+
+Para permitir que el jugador pueda guardar partida en el navegador y pueda continuar con el juego en otro momento se ha utilizado PlayFab que permite el almacenamiento de datos del jugador mediante la creación sencilla de una cuenta.
+Al inicio del juego el menú muestra diferentes opciones: Iniciar Sesión, para aquellos que ya tengan cuenta; Crear cuenta, para quienes no tengan; y Continuar sin cuenta, lo que permite jugar, pero no se puede guardar la partida.
+
+<p align="center">
+  <img src="/Images/Pantalla_Principal_VFinal_2.PNG">
+</p>
+
+La cuenta se hace con un correo electrónico para que en caso de que el jugador se olvide de su contraseña, que sea capaz de recuperarla. Por lo tanto, no hace falta un nombre de usuario.
+
+<p align="center">
+  <img src="/Images/Pantalla_Crear_Cuenta.PNG">
+</p>
+
+<p align="center">
+  <img src="/Images/Pantalla_Iniciar_Sesion.PNG">
+</p>
 
 ## <h2>7. Controles</h3>
 
@@ -1505,6 +1539,34 @@ Una vez se disponía del diseño final coloreado con la paleta seleccionada, se 
 <p align="center"><em>Fondo minijuego (prueba iluminación 3)</em></p>
 
 <br></br>
+
+**<li><p>Exterior floristería (fondo menú principal): </li></p>**
+  
+  * **Referencias:** En el siguiente enlace, se puede encontrar el tablero de *Pinterest* en el que se han recopilado todas las referencias relativas al diseño del exterior de la floristería del protagonista: https://pin.it/1MmTo17 <br></br> 
+  
+   * **Boceto:** A continuación, se muestra el boceto del exterior de la floristería. Para su creación, se han empleado las referencias que se pueden encontrar en el tablero de *Pinterest* superior.<br></br>
+    
+<p align="center">
+<img src="/Images/FondoMenu_ExteriorFloristeria_Boceto.png">
+</p>
+
+<p align="center"><em> Boceto Exterior Floristería</em></p>
+
+   * **Pruebas de color:** Ya con el lineart del exterior de la floristería pasado a limpio, se crearon las siguientes pruebas de color para seleccionar aquella paleta que mejor encajase con el escenario antes de comenzar con su diseño final. Es importante destacar que muchos de los elementos que conforman la escena a nivel de decoración y color son los mismos que en el caso del escenario de la **Floristería Interior** para mantener la coherencia. <br></br>
+    
+<p align="center">
+<img src="/Images/Pruebas_Color_MenuFloristeriaExterior.png">
+</p>
+
+<p align="center"><em> Pruebas de color Exterior Floristería</em></p>
+
+   * **Diseño final:** Finalmente, se coloreó el lineart del exterior de la floristería con la paleta de color seleccionada, en este caso aquella perteneciente a la **prueba de color número 7**. Posteriormente, se añadió la paleta de iluminación de atardecer, utilizada también para los personajes, y se aplicó un efecto de ruido al 1% para darle efecto de grano. A continuación, se muestra el diseño final del exterior de la floristería empleado como fondo del menú principal del videojuego. Como se puede observar, se ha optado por añadir el título del juego en el propio toldo de la tienda.<br></br>
+    
+<p align="center">
+<img src="/Images/MenuFloristeriaExterior_Final_Con_Ruido.png">
+</p>
+
+<p align="center"><em> Diseño final Exterior Floristería (fondo menú principal)</em></p>
  
 </ul>
 
@@ -1589,6 +1651,12 @@ En cada cita se obtiene como recompensa una o más ilustraciones.  Las presentes
 <img src="/Images/illus_week3_ethan_masc.png">
 <em>Ilustración Semana 3 cita Ethan: El festival medieval (MASC) (II)</em>
 </p>
+
+##### <h4>10.2.5. Flores </h4>
+
+En el estado actual del proyecto, se han dibujado las veinte flores que conforman el repertorio disponible para la realización de ramos durante el minijuego de las flores. Se ha intentado mantener la coherencia con la estética del resto de elementos visuales del videojuego optando por un coloreado estilizado y no muy detallado. En el **<em>Apartado 4.2. Descripción detallada de las mecánicas del juego (clasificación de las flores)</em>** se puede encontrar una tabla con todas las flores disponibles durante el minijuego; sus datos; y una referencia visual correspondiente al nuevo diseño propio realizado de las flores. 
+
+<br></br>
 
 ## <h2>11. Música</h2>
 Siendo una <em>visual novel</em> la importancia del sector musical es alta para amenizar la lectura y disfrute del juego. En este caso se ha optado por buscar distintas fuentes de música en distintos sitios sin derecho de autor como Pixabay, para la reutilización de dicha música. 
@@ -1680,6 +1748,14 @@ Una lista de los efectos sonoros necesarios:
 <li><p>Sonido del chocar de copas</p></li>
 </ul>
  
+### <h3>Momentos</h3> 
+<ul>
+<li><p>Momento Alegre</p></li>
+<li><p>Momento Tensión</p></li>
+<li><p>Momento Siniestro</p></li>
+<li><p>Momento Discusión</p></li>
+</ul>
+
 ### <h3>11.3. Música de los personajes</h3> 
 
 Al igual que los lugares también se incluye un <em>leitmotiv</em> para cada uno de los personajes interactuables y más importantes del juego. 
@@ -1735,14 +1811,6 @@ Como se puede apreciar en los distintos menús usados de *Referencias 5* se opt�
 </p>
 
 <p align="center">
-  <img src="/Images/Pantalla_Crear_Cuenta.PNG">
-</p>
-
-<p align="center">
-  <img src="/Images/Pantalla_Iniciar_Sesion.PNG">
-</p>
-
-<p align="center">
   <img src="/Images/Boceto_Contacto_v1.png">
 </p>
 
@@ -1786,6 +1854,8 @@ Como se puede apreciar en los distintos menús usados de *Referencias 5* se opt�
   <img src="/Images/si_popup.png">
   <img src="/Images/boton_genero.png">
   <img src="/Images/boton_deslizar_menu_minijuego.png">
+  <img src="/Images/boton_cerrar.png">
+  <img src="/Images/boton_Informacion.png">
 </p>
 
 <p align="center">
@@ -1852,6 +1922,19 @@ Se han creados tres Pop-Ups, el primero para pones el juego en pausa, el segundo
   <img src="/Images/Pop_Up_salir.png">
 </p>
 
+<p align="center">
+  <img src="/Images/libro_pag1.png">
+  <img src="/Images/libro_pag2.png">
+  <img src="/Images/libro_pag3.png">
+  <img src="/Images/libro_pag4.png">
+  <img src="/Images/libro_pag5.png">
+  <img src="/Images/libro_pag6.png">
+  <img src="/Images/libro_pag7.png">
+  <img src="/Images/libro_pag8.png">
+  <img src="/Images/libro_pag9.png">
+  <img src="/Images/libro_pag10.png">
+</p>
+
 ### <h3>12.2. Diagrama de flujo</h3>
 
 <p align="center">
@@ -1890,3 +1973,148 @@ En la parte de arte, se debe incluir todos los apartados no terminados en la ver
 ### <h3>13.4. Fecha de lanzamiento</h3>
 
 El videojuego será lanzado el día 18 de diciembre de 2022. 
+
+## <h2>14. Post-Mortem</h2>
+### <h3>14.1. Post-Mortem del equipo</h3>
+#### <h4>14.1.1 ¿Qué ha ido bien? Aciertos del equipo </h4>
+Desde el equipo, se considera que el punto fuerte, exceptuando algunos casos puntuales, ha sido la comunicación y el compañerismo. Hemos estado dispuestas a ayudar a las demás, además de que no ha existido en general un miedo a hablar para expresar nuestras ideas.
+Ha existido en general una buena comunicación entre los diferentes departamentos, por lo que la mayoría de los problemas que han ido surgiendo se han podido solucionar de inmediato y sin arrastrarlos mucho tiempo. Esto no hubiese sido posible sin un buen uso de trello para la monitorización del proyecto, así como la flexibilidad del equipo para cambiar de ideas o adaptarse a nuevos problemas o la integración progresiva de assets visuales utilizando GitHub.
+Se considera también que el trabajo ha sido “ágil” dado que se han investigado programas y librerías para facilitar tareas como el sistema de novela visual que utiliza nuestro juego; así como realizar cheatsheets de estructuras repetitivas del framework que hemos utilizado para facilitar la transición del guion a la programación. 
+Desde el departamento de arte, se considera positiva la compenetración entre los miembros del equipo para conseguir una coherencia estética y seguir el mismo estilo.
+Desde el departamento de redes sociales, se valora que desde un principio se han seguido las recomendaciones dadas en clase antes incluso de tener la clase de marketing. Por ejemplo, se han estado utilizando las herramientas de programación de tweets para hacer publicaciones en las que el engagement de Twitter es mayor y conseguir una mayor visibilidad; utilizar hashtags, crear actividades para atraer diferentes usuarios (concurso de disfraces de gatitos, ¿a quién no le va a gustar?, historias interactivas a través de imágenes…). Tenemos una sola red social, pero la única red social que tenemos está muy bien trabajada y cuidada.
+Además, consideramos positivo también que se han revisado continuamente los mensajes en redes sociales y correo electrónico. Tuvimos un pequeño problema con los créditos de los fondos en la alfa, pero este problema fue rápidamente solucionado gracias a que los miembros del equipo estaban pendientes de los comentarios en itch.io.
+![image](https://user-images.githubusercontent.com/62938457/206916556-843b22da-805d-4fe9-8939-d4c969855597.png)
+
+
+#### <h4>14.1.2 ¿Qué ha ido mal y podría mejorarse? </h4>
+
+A pesar de todo lo mencionado en el apartado anterior, el equipo ha flaqueado en la organización de la escritura del guion. Aunque se considera positivo la división previa de los capítulos en semanas, el flujo de trabajo no fue el adecuado. Esto se debe a que en la fase alfa se escribió un solo capítulo (la primera semana), y para la beta se tuvieron que escribir las otras tres semanas, por lo que la carga de trabajo para una entrega y para otra fue muy desigual.  
+Siguiendo con el departamento de guion, la comunicación no era toda la que debería haber habido entre los guionistas, la persona dedicada a la revisión del guion y las personas dedicadas a implementar el guion en el juego. En primer lugar, se debería haber oficializado el puesto de revisión del guion e ir avisando a esta persona de los avances de este, porque lo que tenía que hacer es revisar todo el proyecto y “estar mucho encima” para ver qué partes eran nuevas o cuando se había escrito. Además, a veces se colaban partes no revisadas en la integración, lo que ha supuesto tener que volver a revisar todo el guion en busca de faltas de ortografía, expresiones redundantes y otro tipo de arreglos. 
+De forma similar al proceso de escritura del guion, también se ha considerado que hubo mala organización en el caso del proceso de creación de los escenarios. Prácticamente todos ellos se crearon y dibujaron en la fase beta, implicando una mayor carga de horas de trabajo y que ciertos escenarios quedaran pendientes para ser mejorados en la Gold Master. La creación de ciertos escenarios se podría haber iniciado en la fase alfa para reducir la carga de trabajo en la beta. Como posible mejora se ha considerado dosificar la creación de los escenarios más día a día, en vez de avanzar mucho en poco tiempo. También en relación con los escenarios, hay que destacar que se priorizó la creación de estos, por la carga de trabajo que había en la beta, dejando parte del guion para los últimos días. Podría haber sido mejor terminar de redactar el guion previamente a la creación de los escenarios para que los miembros de programación pudieran haber avanzado en su implementación en Unity. Como posible mejora se ha considerado intercalar el avance del guion con la creación de escenarios priorizando mayoritariamente el guion de cara a la integración en Unity.
+
+Aunque ha habido una buena comunicación entre departamentos, el no establecer desde el principio qué clase de emociones iban a tener los personajes se ha escrito el guion sin tener en cuenta qué Sprite representativo de la emoción utilizar. Se debería haber hecho una lista desde el principio con las emociones disponibles, y escribir y dibujar en torno a eso. 
+
+Del mismo modo, se debería haber ido anotando en el guion qué expresión iba en cada momento, pues al implementar los sprites de las emociones se perdió mucho tiempo volviendo a revisar el guion entero para ver cuál de los sprites encajaba mejor en cada momento. Si esto se hubiese hecho desde el principio al escribir el guion, se hubiese ahorrado mucho tiempo al implementarlo. 
+
+En el caso de gestión de redes, aunque en el alfa se avanzó muy bien, en la beta apenas se publicaron tweets por falta de tiempo. Además, se atrajo gente, pero no se ha hablado del juego lo suficiente. Falta hacer todo lo que es el marketing del juego. Nos hemos vendido como cuenta, pero no como juego. Además, debido a la inactividad en la beta, las interacciones han bajado considerablemente dada la tendencia de este tipo de aplicaciones a penalizar este tipo de comportamientos. Como mejora, se propone dedicar un par de horas a la semana exclusivamente a la gestión de redes y creación de material para redes sociales.
+
+En el caso de Itch.io y el portfolio, la actualización con la nueva información se dejó para los últimos días por lo que se tuvo que hacer de forma rápida. Por ello, como posible mejora se podría actualizar progresivamente según se tiene nueva información o incluirlo más en el proceso de trabajo, por ejemplo, con una tarea semanal de actualizaciones.
+
+Dentro del departamento de programación, en el apartado del minijuego no hubo suficiente comunicación entre los programadores que trabajaban ahí, ocasionando problemas de compatibilidad.
+
+Otra de las cosas que no han ido bien y que se pueden mejorar es el mal uso que se ha hecho de GitHub. Aunque se hicieron ramas por funcionalidades, no se tuvo en cuenta actualizar las ramas de vez en cuando, por lo que se llegaba a un punto en el que algunas ramas quedaban obsoletas respecto a las demás. 
+Del mismo modo, los commits de GitHub no se han comentado bien, por lo que a la hora de revertir cambios el proceso se ha complicado bastante cuando han pasado varios días y no nos acordábamos de cuándo habíamos hecho qué.
+
+Juntando a los departamentos de programación y arte, algunos assets visuales sólo se subían a trello, haciendo el proceso de integración de assets mucho más tedioso para los programadores. Los programadores tenían que abrir trello, descargarse los assets, meterlos en la carpeta correspondiente y trabajar con ellos. Si desde un principio se hubiese utilizado GitHub para incluir todos los assets visuales, en el caso específico de las interfaces y los sprites provisionales de las flores, la integración habría sido mucho más rápida.
+
+Por terminar con el departamento de arte, aunque todas hemos trabajado mucho se considera que el flujo de trabajo no ha sido el adecuado. Ha faltado una dirección artística, establecer paletas de colores en común para hacer que la imagen de todo el juego sea más coherente.
+A pesar de todo lo mencionado, estamos satisfechas con el trabajo conseguido, y se agradece tener una oportunidad para mostrar todo nuestro potencial para crear una pieza de portfolio.
+
+
+### <h3>14.2. Post-Mortem individual</h3>
+#### <h4>14.2.1 Miembro 1 </h4>
+##### <h5> ¿Qué ha ido bien? </h5>
+
+Como miembro del equipo, creo que he estado pendiente de todo lo que pasaba en el grupo a nivel de trabajo y/o problemas en el desarrollo gracias a las herramientas de comunicación correspondientes (Teams, Whatsapp). En todo momento, se ha producido una comunicación fluida por parte de todos los miembros del equipo, informando sobre el progreso de mi parte o posibles complicaciones cuando era necesario. Asimismo, en caso de haber algún problema he intentado ayudar dentro de lo que permiten mis capacidades y si se ha producido algún error he intentado solucionarlo cuanto antes.
+
+Como artista, creo que he aprendido nuevos aspectos sobre iluminación y coloreado de escenarios gracias a vídeos y artículos de internet, así como los consejos proporcionados por mis compañeras. También, creo que he intentado adaptar mi estilo artístico al de mis compañeras para mantener la coherencia visual del proyecto y hemos trabajado de forma unificada.
+
+A nivel de portfolio, creo que pude aprender rápidamente como utilizar GitHub Pages para su construcción.
+Para finalizar, destacar que creo que he utilizado de forma adecuada la herramienta de Trello para mostrar mi progreso de trabajo con evidencias que permitan monitorizar el progreso del proyecto. Como Scrum Master, he intentado comunicarme con el profesor siempre que era necesario en nombre del equipo.
+
+##### <h5> ¿Qué ha ido mal y cómo se podría haber mejorado? </h5>
+
+En primer lugar, a nivel de diseño de escenarios, creo que hubo una mala organización por mi parte en su proceso de creación y dibujo. En concreto, muchos de los escenarios se dejaron para la fase beta implicando una gran cantidad de horas de trabajo para completarlos en el plazo límite. Dado que en esta fase beta la carga de trabajo artístico era bastante amplia, creo que debería de haber dosificado el diseño de escenarios entre alfa y beta para adelantarlos en esta primera fase y reducir la cantidad de contenido en la beta.
+
+Continuando con los escenarios, en mi caso particular creo que también tarde mucho en empezar con su diseño en la fase beta por mi inexperiencia en escenarios. Se tuvo que dedicar bastante tiempo a la documentación para saber cómo empezar. Otro factor de esta tardanza fue la desconfianza y miedo de que no encajaran bien con el resto del estilo artístico del juego. Por lo tanto, para mejorar en este aspecto tendría que estudiar más sobre el diseño de escenarios para coger soltura y adaptarme con mayor facilidad.
+
+En el caso de los escenarios y el guion, creo que he sido demasiado perfeccionista y he tardado más en terminar el trabajo por ello. Por lo tanto, tendría que revisarlo y cuidar el acabado final, pero teniendo en cuenta el límite y ritmo de trabajo.
+
+Para finalizar, en el caso de las redes sociales cabe destacar que, en la fase beta, la actualización de las redes sociales se dejó para los últimos días por lo que tuvo que realizarse de forma rápida. Para evitar esta situación, se podría ir actualizando progresivamente según se tenga nuevo contenido e información.
+
+#### <h4>14.2.1 Miembro 2 </h4>
+
+##### <h5> ¿Qué ha ido bien? </h5>
+
+Como miembro del equipo, considero que he estado pendiente de los avances del equipo de arte, permitiendo así la inclusión de los assets en el videojuego de una manera progresiva y evitando que se produzcan errores derivados de una mala comunicación entre los equipos. Asimismo, creo que he colaborado de una manera activa dentro de mis capacidades en los errores que han ido surgiendo en la programación.
+
+En cuanto a las tareas de programación, creo que he sido capaz de adaptarme a las diferentes tareas de una manera más o menos rápida, permitiendo el cambio de las mismas entre el equipo de programación cuando ha sido necesario con el fin de sacar el producto de una manera más eficiente y con una mayor calidad.
+
+##### <h5> ¿Qué ha ido mal y se podría haber mejorado? </h5>
+
+En primer lugar, a la hora de meter el guión en la novela visual, creo que hubo una mala organización por mi parte, provocando que en la última semana antes de la entrega de la Beta se tuviera que meter dicho guión de manera muy rápida y con múltiples fallos.
+Además de esto y a raíz de este hecho, aparecieron algunos bugs de última hora que se tuvieron que solucionar de una manera muy rápida y que han tenido que ser retocados para la Gold.
+
+Por otra parte, considero que, debido a mi inexperiencia en algunos aspectos de programación, algunas partes del código no estaban muy bien optimizadas y hubo que revisarlas, perdiendo así tiempo que se podía haber utilizado para realizar otras tareas.
+Por último, considero que, por mi parte, hizo falta una mayor comunicación con el resto de los miembros del equipo de programación que se encargaban de realizar el minijuego de las flores para evitar errores y confusiones innecesarios.
+
+
+#### <h4>14.2.1 Miembro 3 </h4>
+
+##### <h5> ¿Qué ha ido bien? </h5>
+
+Una vez decidimos la elección de hacer una visual novel, como miembro del equipo me encargué de aprender Yarn y usar el framework para juegos conversacionales que tienen. Fue buena decisión porque ahorró tiempo en crear toda la estructura visual y de funcionamiento de esa parte del juego, de manera que el equipo se pudo centrar en el guion directamente porque su implementación en el framework era sencilla. 
+
+Además, gracias a estos conocimientos, realicé documentos con estructuras de código que se usan en la implementación del guion con Yarn para los demás miembros. Ya que así la implementación se hacía más rápido puesto que se podían copiar y pegar estás líneas directamente del documento.
+Por último, antes de hacer el guion, junto con otro encargado de guion organizamos toda la estructura de la historia por semanas y días, lo que facilitó la velocidad a la que se pudo escribir.
+
+##### <h5> ¿Qué ha ido mal y se podría haber mejorado? </h5>
+
+Como miembro dedicado al guion no se escribió tanto durante la fase de la alfa, y dejé mucho por hacer para la etapa de la beta. Se tendría que haber sido más constante con la escritura del guion, en vez de etapas de mucho escribir y etapas de poco. 
+
+Además, durante la escritura de guion no presté suficiente atención a marcar las palabras con género, provocando así que muchas palabras se quedaran sin indicar que cambian según los pronombres que elige el jugador al principio. 
+
+En el mismo sentido, debí haber ido indicando en el guion las expresiones que haría el personaje en cada momento para facilitar el desarrollo de expresiones de los personajes a los artistas y su inclusión en la programación.
+
+Estas dos últimas cosas se podrían haber mejorado si desde el principio se hubiera tenido esto en cuenta como prioridad, en vez de pensar en simplemente escribir y ya.
+
+#### <h4>14.2.1 Miembro 4 </h4>
+
+##### <h5> ¿Qué ha ido bien? </h5>
+
+Como miembro del equipo, al encargarme del desarrollo del minijuego, considero que la anticipación a la hora de implementar la base del mismo ha llevado a una reducción de bugs a futuro, así como de mantener una base sólida y una buena optimización. 
+
+También considero que he ayudado en gran medida a reducir el bajo rendimiento del videojuego en dispositivos móviles, gracias a la comunicación con el resto del equipo para conocer con rapidez qué partes del juego pueden haberlo producido. 
+
+
+##### <h5> ¿Qué ha ido mal y se podría haber mejorado? </h5>
+
+Como miembro encargado del desarrollo en gran medida del minijuego, he tenido una baja comunicación y conocimiento del resto de aspectos del videojuego. Por tanto, no he podido ayudar con rapidez en otras implementaciones, como es el apartado del videojuego conversacional. Además, debido a esta baja comunicación con el resto del equipo, me ha costado más comprender ciertos aspectos de este.
+
+Por otra parte, al no haber sido constante durante un periodo de tiempo largo, hay implementaciones que no han resultado óptimas, como el conteo de puntos del minijuego. También, debido a este apartado, no ha sido posible adaptar el videojuego a cualquier dispositivo, ni implementar con rapidez el teclado en móviles antes de casi la finalización del proyecto.
+
+
+#### <h4>14.2.1 Miembro 5 </h4>
+
+##### <h5> ¿Qué ha ido bien? </h5>
+
+Como miembro del equipo, creo que he podido estar al pendiente de las interfaces que se han estado pidiendo con forme se han ido necesitando, siempre intentado preguntar la opinión de mis compañeras en general para poder tener distintos puntos de vista, esto me ha ayudado a mejorar muchos aspectos visuales y métodos artísticos, porque el feedback que se comentaba era bueno. Me he tenido buena comunicación con mis compañeras de proyecto en todo momento.
+
+He aprendido como se puede crear un portfolio y he podido ayudar en ello con algunas configuraciones, programación básica y colores.
+
+##### <h5> ¿Qué ha ido mal y se podría haber mejorado? </h5>
+
+Me ha costado mucho organizarme con el proyecto debido a los constantes olvidos sobre las fechas límites y demás cosas que había por hacer en este mismo proyecto. La falta de conciencia del tiempo me ha pasado factura en muchos trabajos que podría haberlos hecho mejor y no depender tanto de ayuda externa de mis compañeras que de por sí ya tenían sus propias tareas como puede ser los Sprite de las flores.
+
+Mi falta de conocimiento del guion me ha entorpecido en la revisión de cada uno de los finales porque con ello me he demorado más en esta tarea. Todo por centrarme únicamente en la parte artística.
+
+
+#### <h4>14.2.1 Miembro 6 </h4>
+
+##### <h5> ¿Qué ha ido bien? </h5>
+
+Como miembro del departamento de arte, considero que he sido muy comunicativa y clara en todo momento. Si algo no ha sido factible o si ha pasado algo, lo he comunicado en seguida.
+He sido flexible para escuchar y adaptar ideas para conseguir la mejor versión de nuestras ideas.
+
+Además, creo que mi flujo de trabajo a lo largo del proyecto ha sido correcto. He trabajado desde el principio y, aunque durante el alfa el flujo de trabajo ha sido menor y ha acarreado más trabajo para la beta, considero que al final he conseguido todos los objetivos necesarios para lograr el producto que tenemos hoy.  
+A su vez, considero positivo que he ayudado a mis compañeras cuando se me ha necesitado, como para la creación de los sprites de las flores.
+
+Como CM, creo que mi aportación ha sido bastante buena. Se ha tenido desde el principio en cuenta publicar en las horas de mayor actividad en Twitter, crear hashstags, que toda la información sea lo más clara y accesible posible, tweets fijados, hacer un plan de marketing que a la gente le interese… Lo único que me da pena es haber tenido tan poquito tiempo para tener resultados. 
+
+##### <h5> ¿Qué ha ido mal y se podría haber mejorado? </h5>
+
+
+Aunque considero que mi trabajo como CM ha sido bueno, creo que no lo he sabido manejar desde el principio. He ido dando palos de ciego; las ideas eran buenas pero no han estado completamente bien ejecutadas. Por ejemplo, para la alfa aunque teníamos mucha interacción (ya que hicimos un concurso de disfraces de gatos para “hacer ruido” y llamar la atención de la gente), hablamos muy poco de lo que es nuestro juego en sí. Se considera un fallo grave porque erramos con el objetivo principal de la cuenta, pero se considera que en la beta se mejoró mucho en ese sentido. 
+
+Sin embargo, como CM en la beta también, fallé al subir poco contenido. Estuve tan centrada en el juego en sí que dejé un poco olvidadas las redes, y teniendo en cuenta cómo las propias redes penalizan la inactividad, ahora estamos notando para la Gold Máster que nos cuesta más conseguir interacciones que al principio.  
+

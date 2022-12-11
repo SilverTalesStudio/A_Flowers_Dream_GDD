@@ -1509,42 +1509,85 @@ Una vez se disponía del diseño final coloreado con la paleta seleccionada, se 
 </ul>
 
 ##### <h4>10.2.4. Ilustraciones </h4>
-En cada cita se obtiene como recompensa una o más ilustraciones. Estas ilustraciones están aún en proceso de pulido, pero el estado de las ilustraciones en la beta es el siguiente:
+En cada cita se obtiene como recompensa una o más ilustraciones.  Las presentes ilustraciones presentan la versión inicial y la versión final. Si solo existe una versión, significa que la versión final y la inicial son la misma.
 
 <p align="center">
 <img src="/Images/illus_week1_allan.png">
-<em>Ilustración Semana 1 cita Allan: El Jardín Botánico</em>
+<em>Ilustración Semana 1 cita Allan: El Jardín Botánico (Old)</em>
+</p>
+<p align="center">
+<img src="/Images/illus_week1_allan_fem.png">
+<em>Ilustración Semana 1 cita Allan: El Jardín Botánico (FEM)</em>
+</p>
+<p align="center">
+<img src="/Images/illus_week1_allan_masc.png">
+<em>Ilustración Semana 1 cita Allan: El Jardín Botánico (MASC)</em>
 </p>
 
 <p align="center">
 <img src="/Images/illus_week1_ethan.png">
-<em>Ilustración Semana 1 cita Ethan: El Chichón</em>
+<em>Ilustración Semana 1 cita Ethan: El Chichón (FEM)</em>
+</p>
+
+<p align="center">
+<img src="/Images/illus_week1_ethan_masc.png">
+<em>Ilustración Semana 1 cita Ethan: El Chichón (MASC)</em>
 </p>
 
 <p align="center">
 <img src="/Images/illus_week2_ethan.png">
-<em>Ilustración Semana 2 cita Ethan: El Cine</em>
+<em>Ilustración Semana 2 cita Ethan: El Cine (OLD)</em>
+</p>
+
+<p align="center">
+<img src="/Images/illus_week2_ethan_fem.png">
+<em>Ilustración Semana 2 cita Ethan: El Cine (FEM)</em>
+</p>
+<p align="center">
+<img src="/Images/illus_week2_ethan_masc.png">
+<em>Ilustración Semana 2 cita Ethan: El Cine (MASC)</em>
 </p>
 
 <p align="center">
 <img src="/Images/illus_week2_sophie.png">
-<em>Ilustración Semana 2 cita Sophie: El Concierto</em>
+<em>Ilustración Semana 2 cita Sophie: El Concierto (OLD)</em>
+</p>
+
+<p align="center">
+<img src="/Images/illus_week2_sophie_fem.png">
+<em>Ilustración Semana 2 cita Sophie: El Concierto (FEM)</em>
+</p>
+<p align="center">
+<img src="/Images/illus_week2_sophie_masc.png">
+<em>Ilustración Semana 2 cita Sophie: El Concierto (MASC)</em>
 </p>
 
 <p align="center">
 <img src="/Images/illus_week3_allan.png">
-<em>Ilustración Semana 3 cita Allan: La Montaña</em>
+<em>Ilustración Semana 3 cita Allan: La Montaña (FEM)</em>
+</p>
+<p align="center">
+<img src="/Images/illus_week3_allan_masc.png">
+<em>Ilustración Semana 3 cita Allan: La Montaña (MASC)</em>
 </p>
 
 
 <p align="center">
 <img src="/Images/illus_week3_sophie.png">
-<em>Ilustración Semana 3 cita Sophie: El festival medieval (I)</em>
+<em>Ilustración Semana 3 cita Sophie: El festival medieval (FEM) (I)</em>
+</p>
+<p align="center">
+<img src="/Images/illus_week3_sophie_masc.png">
+<em>Ilustración Semana 3 cita Sophie: El festival medieval (MASC) (I)</em>
 </p>
 
 <p align="center">
 <img src="/Images/illus_week3_ethan.png">
-<em>Ilustración Semana 3 cita Ethan: El festival medieval (II)</em>
+<em>Ilustración Semana 3 cita Ethan: El festival medieval (FEM) (II)</em>
+</p>
+<p align="center">
+<img src="/Images/illus_week3_ethan_masc.png">
+<em>Ilustración Semana 3 cita Ethan: El festival medieval (MASC) (II)</em>
 </p>
 
 ## <h2>11. Música</h2>

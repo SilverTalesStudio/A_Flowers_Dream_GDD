@@ -287,7 +287,7 @@ Es un videojuego en perspectiva 2D, que hace uso de cámara fija con vista en te
 
 ### <h3>6.2. Descripción detallada de las mecánicas de juego</h3>
 
-El videojuego se puede dividir en dos partes respecto a las mecánicas utilizadas, ya que ambas partes son muy diferentes de jugar entre sí. Por un lado, están las fases narrativas en formato Visual Novel, y por otro están las fases de creación de ramos en formato minijuego. 
+El videojuego se puede dividir en dos partes respecto a las mecánicas utilizadas, ya que ambas partes son muy diferentes de jugar entre sí. Por un lado, están las fases narrativas en formato Visual Novel, y por otro están las fases de creación de ramos en formato minijuego. Aparte de esto, se ha implementado un sistema de guardado persistente al que se accede desde ambas partes.
 
 #### <h4>6.2.1. Visual Novel</h4>
 La mecánica principal de esta fase consiste en la lectura de los diálogos entre los personajes y la elección de contestaciones de las cuales dependerá el devenir de la aventura. Según las opciones que se vayan escogiendo se desbloquearan unas rutas y se bloquearan otras. 

@@ -380,7 +380,7 @@ El resultado de cada aspecto tiene el siguiente rango de valores que cambia a un
 **<li><p>Puntos totales en color exacto y/o no afín: [-5, 5]</p></li>**
 * **Resultado en rango [-5, -1.6]:** "mal”. 
 <br></br>
-* **Resultado en rango (-1.6, 1]:** "regular”. 
+* **Resultado en rango (-1.6, 1.6):** "regular”. 
 <br></br>
 * **Resultado en rango [1.6, 5]:** “bien”.    
 </ul>
@@ -501,7 +501,9 @@ La cuenta se hace con un correo electrónico para que en caso de que el jugador 
 #### <h4>6.2.7. Galería de ilustraciones</h4>
 
 Para aumentar la rejugabilidad, se ha añadido una galería de ilustraciones que hacen la función de coleccionables. 
+
 Su función principal es mostrar las ilustraciones correspondientes a los puntos importantes de la trama con cada uno de los personajes con los que el jugador puede tener un romance. Para que esto funcione, el jugador debe llegar a ciertas ramas de la historia con los personajes y, además de ver esta ilustración en el momento concreto de la trama, podrá volver a verla en esta galería. 
+
 Gracias a esta mecánica, el jugador tendrá más interés en obtener todas las ilustraciones y así saber cuánto le queda para obtener el 100% del juego.
 
 <p align="center">
@@ -525,7 +527,9 @@ Gracias a esta mecánica, el jugador tendrá más interés en obtener todas las 
 #### <h4>6.2.7. Ajustes de sonido</h4>
 
 Se han introducido un menú de ajustes en las pantallas de Menú principal, Visual Novel y Minijuego de las flores para que se pueda modificar en cualquier momento la música y los efectos de sonido del videojuego.
+
 Para su funcionamiento, se han usado Sliders que permiten modificar el sonido de forma fluida sin saltos de volumen.
+
 Para acceder a este menú, en el Menú principal aparece como cualquier otro botón, sin tener en cuenta los integrados en los pop-ups del sistema de guardado. Mientras que en la Visual Novel y en el Minijuego de las flores, está integrado en el menú de pausa.
 
 <p align="center">

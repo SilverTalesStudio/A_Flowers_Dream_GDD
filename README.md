@@ -437,7 +437,7 @@ Asimismo, es importante destacar los siguientes factores:
 La siguiente tabla recoge las 20 flores incluidas en el minijuego de la floristería y que el jugador tendrá a su disposición para la creación del ramo. Por cada flor se especifica: su nombre, su color, su sentimiento, y una referencia visual.  
 
 | Nombre | Color | Sentimiento | Referencia | Sprite |
-|:------------:|:-------------:|:-------------:|:-------------:|
+|:------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | Dalia Malva | Malva | Agradecimiento y gratitud | ![Dalia Malva!](/Images/flor_referencia_DaliaMalva.png) |![Dalia Malva Sprite!](/Images/Flor_Dalia.png) |
 | Campánula | Morada | Agradecimiento y gratitud | ![Campánula!](/Images/flor_referencia_Campanula.png) | ![Campánula Sprite!](/Images/Flor_Campánula.png) |
 | Ciclamen | Rosa | Decepción, desconfianza | ![Ciclamen!](/Images/flor_referencia_Ciclamen.png) | ![Ciclamen Sprite!](/Images/Flor_Ciclamen.png) |

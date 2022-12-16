@@ -445,11 +445,11 @@ La siguiente tabla recoge las 20 flores incluidas en el minijuego de la floriste
 | Clavel | Roja | Seducción, amor secreto | ![Clavel rojo!](/Images/flor_referencia_ClavelRojo.png) | ![Clavel Sprite!](/Images/Flor_Clavel.png) |
 | Flor de Lis | Roja | Amor eterno, amor verdadero | ![Flor de Lis!](/Images/flor_referencia_FlorDeLis.png) | ![Flor de Lis Sprite!](/Images/Flor_FlorDeLis.png) |
 | Mirto | Blanca | Amor eterno, amor verdadero | ![Mirto!](/Images/flor_referencia_Mirto.png) | ![Mirto Sprite!](/Images/Flor_Mirto.png) |
-| Clemátide | Morada | Belleza, belleza del alma | ![Clemátide!](/Images/flor_referencia_Clematide.png) | ![Clemátide Sprite!](/Images/Flor_Clematide.png) |
-| Orquídea | Blanca | Belleza, belleza del alma | ![Orquídea!](/Images/flor_referencia_OrquideaBlanca.png) | ![Orquídea Sprite!](/Images/Flor_Orquidea.png) |
-| Rosa roja | Roja | Belleza, belleza del alma | ![Rosa roja!](/Images/flor_referencia_RosaRoja.png) | ![Rosa roja Sprite!](/Images/Flor_RosaRoja.png) |
-| Iris Azul | Azul | Buena suerte, buenas noticias | ![Iris Azul!](/Images/flor_referencia_IrisAzul.png) | ![Iris Azul Sprite!](/Images/Flor_IrisAzul.png) |
-| Jade | Rosa | Buena suerte, buenas noticias | ![Jade!](/Images/flor_referencia_Jade.png) | ![Jade Sprite!](/Images/Flor_Jade.png) |
+| Clemátide | Morada | Sinceridad | ![Clemátide!](/Images/flor_referencia_Clematide.png) | ![Clemátide Sprite!](/Images/Flor_Clematide.png) |
+| Orquídea | Blanca | Decepción | ![Orquídea!](/Images/flor_referencia_OrquideaBlanca.png) | ![Orquídea Sprite!](/Images/Flor_Orquidea.png) |
+| Rosa roja | Roja | Pureza del corazón | ![Rosa roja!](/Images/flor_referencia_RosaRoja.png) | ![Rosa roja Sprite!](/Images/Flor_RosaRoja.png) |
+| Iris Azul | Azul | Decepción, desconfianza | ![Iris Azul!](/Images/flor_referencia_IrisAzul.png) | ![Iris Azul Sprite!](/Images/Flor_IrisAzul.png) |
+| Jade | Rosa | Sinceridad | ![Jade!](/Images/flor_referencia_Jade.png) | ![Jade Sprite!](/Images/Flor_Jade.png) |
 | Neguilla | Rosa | Pureza del corazón | ![Neguilla!](/Images/flor_referencia_Neguilla.png) | ![Neguilla Sprite!](/Images/Flor_Neguilla.png) |
 | Lirio | Blanca | Pureza del corazón | ![Lirio!](/Images/flor_referencia_LirioBlanco.png) |![Lirio Blanco Sprite!](/Images/Flor_LirioBlanco.png) |
 | Centaurea | Morada | Felicidad, alegría, confianza | ![Centaurea!](/Images/flor_referencia_Centaurea.png) | ![Centaurea Sprite!](/Images/Flor_Centaurea.png) |
